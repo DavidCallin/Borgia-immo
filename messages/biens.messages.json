@@ -1,0 +1,116 @@
+{
+  "fr": {
+    "biens": {
+      "eyebrow": "Nos biens",
+      "title": "Séjours, locations et ventes à Cotonou",
+      "intro": "Des hébergements à la nuit, des logements à louer et des biens à acheter, sélectionnés par Borgia Immobilier.",
+      "offerLabel": "Type d'offre",
+      "categoryLabel": "Type de bien",
+      "offers": {
+        "all": "Tous",
+        "stay": "Séjours",
+        "rent": "Location",
+        "sale": "Vente"
+      },
+      "offerTag": {
+        "stay": "Séjour",
+        "rent": "Location",
+        "sale": "Vente"
+      },
+      "categories": {
+        "all": "Tous",
+        "studio": "Studios",
+        "1-bedroom": "1 chambre",
+        "2-bedroom": "2 chambres",
+        "3-bedroom": "3 chambres",
+        "4-bedroom-plus": "4 chambres et +",
+        "villa": "Villas",
+        "land": "Terrains"
+      },
+      "types": {
+        "apartment": "Appartement",
+        "duplex": "Duplex",
+        "studio": "Studio",
+        "villa": "Villa",
+        "house": "Maison",
+        "land": "Terrain"
+      },
+      "units": {
+        "night": "/ nuit",
+        "month": "/ mois"
+      },
+      "count": "{count, plural, one {# bien} other {# biens}}",
+      "electricityIncluded": "Électricité incluse",
+      "view": "Voir le bien",
+      "back": "Tous les biens",
+      "features": "Caractéristiques",
+      "cta": {
+        "stay": "Réserver sur WhatsApp",
+        "rent": "Demander une visite",
+        "sale": "Demander une visite"
+      },
+      "ctaMessage": {
+        "stay": "Bonjour, je souhaite réserver : {title}",
+        "rent": "Bonjour, je suis intéressé(e) par la location de : {title}",
+        "sale": "Bonjour, je suis intéressé(e) par l'achat de : {title}"
+      }
+    }
+  },
+  "en": {
+    "biens": {
+      "eyebrow": "Our properties",
+      "title": "Stays, rentals and sales in Cotonou",
+      "intro": "Nightly stays, homes to rent and properties to buy, selected by Borgia Immobilier.",
+      "offerLabel": "Offer type",
+      "categoryLabel": "Property type",
+      "offers": {
+        "all": "All",
+        "stay": "Stays",
+        "rent": "Rent",
+        "sale": "Sale"
+      },
+      "offerTag": {
+        "stay": "Stay",
+        "rent": "Rent",
+        "sale": "Sale"
+      },
+      "categories": {
+        "all": "All",
+        "studio": "Studios",
+        "1-bedroom": "1 bedroom",
+        "2-bedroom": "2 bedrooms",
+        "3-bedroom": "3 bedrooms",
+        "4-bedroom-plus": "4+ bedrooms",
+        "villa": "Villas",
+        "land": "Land"
+      },
+      "types": {
+        "apartment": "Apartment",
+        "duplex": "Duplex",
+        "studio": "Studio",
+        "villa": "Villa",
+        "house": "House",
+        "land": "Land"
+      },
+      "units": {
+        "night": "/ night",
+        "month": "/ month"
+      },
+      "count": "{count, plural, one {# property} other {# properties}}",
+      "electricityIncluded": "Electricity included",
+      "view": "View property",
+      "back": "All properties",
+      "features": "Features",
+      "cta": {
+        "stay": "Book on WhatsApp",
+        "rent": "Request a visit",
+        "sale": "Request a visit"
+      },
+      "ctaMessage": {
+        "stay": "Hello, I would like to book: {title}",
+        "rent": "Hello, I am interested in renting: {title}",
+        "sale": "Hello, I am interested in buying: {title}"
+      }
+    }
+  }
+}

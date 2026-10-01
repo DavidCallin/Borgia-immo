@@ -1,0 +1,1025 @@
+{
+  "apartments": [
+    {
+      "id": 1,
+      "slug": "deux-chambres-salon-akpakpa-midombor",
+      "type": "apartment",
+      "category": "2-bedroom",
+      "location": {
+        "city": "Cotonou",
+        "district": "Akpakpa",
+        "area": "Midombor"
+      },
+      "price": {
+        "amount": 50000,
+        "currency": "XOF",
+        "period": "night"
+      },
+      "contact": {
+        "phone": "0162757856"
+      },
+      "images": [
+        "/images/apartments/1/01.jpg",
+        "/images/apartments/1/02.jpg",
+        "/images/apartments/1/03.jpg",
+        "/images/apartments/1/04.jpg",
+        "/images/apartments/1/05.jpg",
+        "/images/apartments/1/06.jpg",
+        "/images/apartments/1/07.jpg",
+        "/images/apartments/1/08.jpg",
+        "/images/apartments/1/09.jpg",
+        "/images/apartments/1/10.jpg"
+      ],
+      "translations": {
+        "fr": {
+          "title": "Deux chambres salon à Akpakpa Midombor",
+          "description": "Appartement confortable de deux chambres salon situé à Akpakpa Midombor, avec une cuisine bien équipée et les commodités nécessaires pour un séjour agréable.",
+          "features": [
+            "2 chambres",
+            "Table à manger",
+            "Salon avec cuisine très bien équipée",
+            "Douche",
+            "Climatisation dans les chambres et le salon",
+            "Télévision au salon",
+            "Wi-Fi disponible",
+            "Draps fournis"
+          ],
+          "electricity_included": true
+        },
+        "en": {
+          "title": "Two-Bedroom Apartment in Akpakpa Midombor",
+          "description": "Comfortable two-bedroom apartment located in Akpakpa Midombor, featuring a well-equipped kitchen and the amenities needed for a pleasant stay.",
+          "features": [
+            "2 bedrooms",
+            "Dining table",
+            "Living room with a fully equipped kitchen",
+            "Bathroom",
+            "Air conditioning in the bedrooms and living room",
+            "TV in the living room",
+            "Wi-Fi available",
+            "Bed linen provided"
+          ],
+          "electricity_included": true
+        }
+      }
+    },
+
+    {
+      "id": 2,
+      "slug": "deux-chambres-salon-cotonou-agla-45000",
+      "type": "apartment",
+      "category": "2-bedroom",
+      "location": {
+        "city": "Cotonou",
+        "district": "Agla"
+      },
+      "price": {
+        "amount": 45000,
+        "currency": "XOF",
+        "period": "night"
+      },
+      "contact": {
+        "phone": "0162757856"
+      },
+      "images": [
+        "/images/apartments/2/01.jpg",
+        "/images/apartments/2/02.jpg",
+        "/images/apartments/2/03.jpg",
+        "/images/apartments/2/04.jpg",
+        "/images/apartments/2/05.jpg",
+        "/images/apartments/2/06.jpg",
+        "/images/apartments/2/07.jpg",
+        "/images/apartments/2/08.jpg",
+        "/images/apartments/2/09.jpg",
+        "/images/apartments/2/10.jpg"
+      ],
+      "translations": {
+        "fr": {
+          "title": "Appartement luxueux de deux chambres à Agla",
+          "description": "Appartement luxueux et paisible à Cotonou Agla, idéal pour un séjour détente en famille.",
+          "features": [
+            "2 chambres",
+            "Table à manger",
+            "Salon avec cuisine très bien équipée",
+            "Douche et WC visiteur",
+            "Climatisation dans les chambres et le salon",
+            "Télévision au salon",
+            "Canal+",
+            "Netflix",
+            "Wi-Fi disponible",
+            "Draps fournis"
+          ],
+          "electricity_included": false,
+          "notes": "L'électricité est à la charge du client."
+        },
+        "en": {
+          "title": "Luxury Two-Bedroom Apartment in Agla",
+          "description": "Luxurious and peaceful apartment in Cotonou Agla, ideal for a relaxing family stay.",
+          "features": [
+            "2 bedrooms",
+            "Dining table",
+            "Living room with a fully equipped kitchen",
+            "Bathroom and guest toilet",
+            "Air conditioning in the bedrooms and living room",
+            "TV in the living room",
+            "Canal+",
+            "Netflix",
+            "Wi-Fi available",
+            "Bed linen provided"
+          ],
+          "electricity_included": false,
+          "notes": "Electricity is paid for by the guest."
+        }
+      }
+    },
+
+    {
+      "id": 3,
+      "slug": "duplex-deux-chambres-salon-akogbato-91000",
+      "type": "duplex",
+      "category": "2-bedroom",
+      "location": {
+        "city": "Cotonou",
+        "district": "Akogbato"
+      },
+      "price": {
+        "amount": 91000,
+        "currency": "XOF",
+        "period": "night"
+      },
+      "contact": {
+        "phone": "0162757856"
+      },
+      "images": [
+        "/images/apartments/3/01.jpg",
+        "/images/apartments/3/02.jpg",
+        "/images/apartments/3/03.jpg",
+        "/images/apartments/3/04.jpg",
+        "/images/apartments/3/05.jpg",
+        "/images/apartments/3/06.jpg",
+        "/images/apartments/3/07.jpg",
+        "/images/apartments/3/08.jpg",
+        "/images/apartments/3/09.jpg",
+        "/images/apartments/3/10.jpg"
+      ],
+      "translations": {
+        "fr": {
+          "title": "Duplex deux chambres salon à Akogbato",
+          "description": "Duplex confortable et entièrement équipé à Akogbato, avec groupe électrogène et service de gardiennage.",
+          "features": [
+            "2 chambres",
+            "Table à manger",
+            "Salon avec cuisine très bien équipée",
+            "Douche et WC visiteur",
+            "Climatisation dans les chambres et le salon",
+            "Télévision au salon",
+            "Canal+",
+            "Netflix",
+            "Wi-Fi disponible",
+            "Draps fournis",
+            "Groupe électrogène",
+            "Gardiennage"
+          ]
+        },
+        "en": {
+          "title": "Two-Bedroom Duplex in Akogbato",
+          "description": "Comfortable and fully equipped duplex in Akogbato, featuring a generator and security service.",
+          "features": [
+            "2 bedrooms",
+            "Dining table",
+            "Living room with a fully equipped kitchen",
+            "Bathroom and guest toilet",
+            "Air conditioning in the bedrooms and living room",
+            "TV in the living room",
+            "Canal+",
+            "Netflix",
+            "Wi-Fi available",
+            "Bed linen provided",
+            "Generator",
+            "Security service"
+          ]
+        }
+      }
+    },
+
+    {
+      "id": 4,
+      "slug": "duplex-deux-chambres-salon-akogbato-61000",
+      "type": "duplex",
+      "category": "2-bedroom",
+      "location": {
+        "city": "Cotonou",
+        "district": "Akogbato"
+      },
+      "price": {
+        "amount": 61000,
+        "currency": "XOF",
+        "period": "night"
+      },
+      "contact": {
+        "phone": "0162757856"
+      },
+      "images": [
+        "/images/apartments/4/01.jpg",
+        "/images/apartments/4/02.jpg",
+        "/images/apartments/4/03.jpg",
+        "/images/apartments/4/04.jpg",
+        "/images/apartments/4/05.jpg",
+        "/images/apartments/4/06.jpg",
+        "/images/apartments/4/07.jpg",
+        "/images/apartments/4/08.jpg",
+        "/images/apartments/4/09.jpg",
+        "/images/apartments/4/10.jpg"
+      ],
+      "translations": {
+        "fr": {
+          "title": "Duplex deux chambres salon à Akogbato",
+          "description": "Duplex confortable et équipé situé à Akogbato, idéal pour un séjour agréable à Cotonou.",
+          "features": [
+            "2 chambres",
+            "Table à manger",
+            "Salon avec cuisine très bien équipée",
+            "Douche et WC visiteur",
+            "Climatisation dans les chambres et le salon",
+            "Télévision au salon",
+            "Canal+",
+            "Netflix",
+            "Wi-Fi disponible",
+            "Draps fournis",
+            "Groupe électrogène",
+            "Gardiennage"
+          ]
+        },
+        "en": {
+          "title": "Two-Bedroom Duplex in Akogbato",
+          "description": "Comfortable and well-equipped duplex located in Akogbato, ideal for a pleasant stay in Cotonou.",
+          "features": [
+            "2 bedrooms",
+            "Dining table",
+            "Living room with a fully equipped kitchen",
+            "Bathroom and guest toilet",
+            "Air conditioning in the bedrooms and living room",
+            "TV in the living room",
+            "Canal+",
+            "Netflix",
+            "Wi-Fi available",
+            "Bed linen provided",
+            "Generator",
+            "Security service"
+          ]
+        }
+      }
+    },
+
+    {
+      "id": 5,
+      "slug": "une-chambre-salon-akpakpa-kowegbo",
+      "type": "apartment",
+      "category": "1-bedroom",
+      "location": {
+        "city": "Cotonou",
+        "district": "Akpakpa",
+        "area": "Kowegbo"
+      },
+      "price": {
+        "amount": 30000,
+        "currency": "XOF",
+        "period": "night"
+      },
+      "contact": {
+        "phone": "0162757856"
+      },
+      "images": [
+        "/images/apartments/5/01.jpg",
+        "/images/apartments/5/02.jpg",
+        "/images/apartments/5/03.jpg",
+        "/images/apartments/5/04.jpg",
+        "/images/apartments/5/05.jpg",
+        "/images/apartments/5/06.jpg",
+        "/images/apartments/5/07.jpg",
+        "/images/apartments/5/08.jpg",
+        "/images/apartments/5/09.jpg",
+        "/images/apartments/5/10.jpg"
+      ],
+      "translations": {
+        "fr": {
+          "title": "Appartement une chambre salon à Akpakpa Kowegbo",
+          "description": "Appartement une chambre salon confortable situé au premier étage à Akpakpa Kowegbo.",
+          "features": [
+            "1 chambre",
+            "Salon avec cuisine très bien équipée",
+            "Douche",
+            "Climatisation dans la chambre et le salon",
+            "Télévision au salon",
+            "Canal+",
+            "Netflix",
+            "Wi-Fi disponible",
+            "Draps fournis",
+            "Premier étage"
+          ],
+          "electricity_included": false,
+          "notes": "L'électricité est à la charge du client via un compteur à carte."
+        },
+        "en": {
+          "title": "One-Bedroom Apartment in Akpakpa Kowegbo",
+          "description": "Comfortable one-bedroom apartment located on the first floor in Akpakpa Kowegbo.",
+          "features": [
+            "1 bedroom",
+            "Living room with a fully equipped kitchen",
+            "Bathroom",
+            "Air conditioning in the bedroom and living room",
+            "TV in the living room",
+            "Canal+",
+            "Netflix",
+            "Wi-Fi available",
+            "Bed linen provided",
+            "First floor"
+          ],
+          "electricity_included": false,
+          "notes": "Electricity is paid for by the guest through a prepaid meter."
+        }
+      }
+    },
+
+    {
+      "id": 6,
+      "slug": "studio-akpakpa-agblangandan",
+      "type": "studio",
+      "category": "studio",
+      "location": {
+        "city": "Cotonou",
+        "district": "Akpakpa",
+        "area": "Agblangandan"
+      },
+      "price": {
+        "amount": 20000,
+        "currency": "XOF",
+        "period": "night"
+      },
+      "contact": {
+        "phone": "0162757856"
+      },
+      "images": [
+        "/images/apartments/6/01.jpg",
+        "/images/apartments/6/02.jpg",
+        "/images/apartments/6/03.jpg",
+        "/images/apartments/6/04.jpg",
+        "/images/apartments/6/05.jpg",
+        "/images/apartments/6/06.jpg",
+        "/images/apartments/6/07.jpg",
+        "/images/apartments/6/08.jpg",
+        "/images/apartments/6/09.jpg",
+        "/images/apartments/6/10.jpg"
+      ],
+      "translations": {
+        "fr": {
+          "title": "Studio à Akpakpa Agblangandan",
+          "description": "Studio spacieux et moderne à Akpakpa Agblangandan, avec cuisine équipée, fibre optique et sécurité 24h/24.",
+          "features": [
+            "Chambre spacieuse",
+            "Climatisation",
+            "Cuisine moderne équipée",
+            "Toilette",
+            "Internet haut débit par fibre optique",
+            "TV Canal+",
+            "Netflix",
+            "Fer à repasser",
+            "Service de ménage",
+            "Parking",
+            "Gardiennage 24h/24"
+          ]
+        },
+        "en": {
+          "title": "Studio in Akpakpa Agblangandan",
+          "description": "Spacious and modern studio in Akpakpa Agblangandan, featuring a fully equipped kitchen, fiber-optic internet and 24/7 security.",
+          "features": [
+            "Spacious room",
+            "Air conditioning",
+            "Modern fully equipped kitchen",
+            "Toilet",
+            "High-speed fiber-optic internet",
+            "Canal+ TV",
+            "Netflix",
+            "Iron",
+            "Cleaning service",
+            "Parking",
+            "24/7 security"
+          ]
+        }
+      }
+    },
+
+    {
+      "id": 7,
+      "slug": "studio-akpakpa-midombor",
+      "type": "studio",
+      "category": "studio",
+      "location": {
+        "city": "Cotonou",
+        "district": "Akpakpa",
+        "area": "Midombor"
+      },
+      "price": {
+        "amount": 20000,
+        "currency": "XOF",
+        "period": "night"
+      },
+      "contact": {
+        "phone": "0162757856"
+      },
+      "images": [
+        "/images/apartments/7/01.jpg",
+        "/images/apartments/7/02.jpg",
+        "/images/apartments/7/03.jpg",
+        "/images/apartments/7/04.jpg",
+        "/images/apartments/7/05.jpg",
+        "/images/apartments/7/06.jpg",
+        "/images/apartments/7/07.jpg",
+        "/images/apartments/7/08.jpg",
+        "/images/apartments/7/09.jpg",
+        "/images/apartments/7/10.jpg"
+      ],
+      "translations": {
+        "fr": {
+          "title": "Studio à Akpakpa Midombor",
+          "description": "Studio spacieux et moderne à Akpakpa Midombor, avec cuisine équipée, internet haut débit et parking.",
+          "features": [
+            "Chambre spacieuse",
+            "Climatisation",
+            "Cuisine moderne équipée",
+            "Toilette",
+            "Internet haut débit",
+            "TV Canal+",
+            "Netflix",
+            "Fer à repasser",
+            "Service de ménage",
+            "Parking"
+          ]
+        },
+        "en": {
+          "title": "Studio in Akpakpa Midombor",
+          "description": "Spacious and modern studio in Akpakpa Midombor, featuring a fully equipped kitchen, high-speed internet and parking.",
+          "features": [
+            "Spacious room",
+            "Air conditioning",
+            "Modern fully equipped kitchen",
+            "Toilet",
+            "High-speed internet",
+            "Canal+ TV",
+            "Netflix",
+            "Iron",
+            "Cleaning service",
+            "Parking"
+          ]
+        }
+      }
+    },
+
+    {
+      "id": 8,
+      "slug": "studio-akpakpa-cine-concorde",
+      "type": "studio",
+      "category": "studio",
+      "location": {
+        "city": "Cotonou",
+        "district": "Akpakpa",
+        "area": "Ciné Concorde"
+      },
+      "price": {
+        "amount": 20000,
+        "currency": "XOF",
+        "period": "night"
+      },
+      "contact": {
+        "phone": "0162757856"
+      },
+      "images": [
+        "/images/apartments/8/01.jpg",
+        "/images/apartments/8/02.jpg",
+        "/images/apartments/8/03.jpg",
+        "/images/apartments/8/04.jpg",
+        "/images/apartments/8/05.jpg",
+        "/images/apartments/8/06.jpg",
+        "/images/apartments/8/07.jpg",
+        "/images/apartments/8/08.jpg",
+        "/images/apartments/8/09.jpg",
+        "/images/apartments/8/10.jpg"
+      ],
+      "translations": {
+        "fr": {
+          "title": "Studio à Akpakpa Ciné Concorde",
+          "description": "Studio confortable et moderne situé à Akpakpa Ciné Concorde avec cuisine équipée, internet haut débit et sécurité 24h/24.",
+          "features": [
+            "Chambre spacieuse",
+            "Climatisation",
+            "Cuisine moderne équipée",
+            "Toilette",
+            "Internet haut débit",
+            "TV Canal+",
+            "Netflix",
+            "Fer à repasser",
+            "Service de ménage",
+            "Parking",
+            "Gardiennage 24h/24"
+          ]
+        },
+        "en": {
+          "title": "Studio in Akpakpa Ciné Concorde",
+          "description": "Comfortable and modern studio in Akpakpa Ciné Concorde, featuring a fully equipped kitchen, high-speed internet and 24/7 security.",
+          "features": [
+            "Spacious room",
+            "Air conditioning",
+            "Modern fully equipped kitchen",
+            "Toilet",
+            "High-speed internet",
+            "Canal+ TV",
+            "Netflix",
+            "Iron",
+            "Cleaning service",
+            "Parking",
+            "24/7 security"
+          ]
+        }
+      }
+    },
+
+    {
+      "id": 9,
+      "slug": "une-chambre-salon-akpakpa-ayelawadje",
+      "type": "apartment",
+      "category": "1-bedroom",
+      "location": {
+        "city": "Cotonou",
+        "district": "Akpakpa",
+        "area": "Ayélawadjè"
+      },
+      "price": {
+        "amount": 25000,
+        "currency": "XOF",
+        "period": "night"
+      },
+      "contact": {
+        "phone": "0162757856"
+      },
+      "images": [
+        "/images/apartments/9/01.jpg",
+        "/images/apartments/9/02.jpg",
+        "/images/apartments/9/03.jpg",
+        "/images/apartments/9/04.jpg",
+        "/images/apartments/9/05.jpg",
+        "/images/apartments/9/06.jpg",
+        "/images/apartments/9/07.jpg",
+        "/images/apartments/9/08.jpg",
+        "/images/apartments/9/09.jpg",
+        "/images/apartments/9/10.jpg"
+      ],
+      "translations": {
+        "fr": {
+          "title": "Appartement une chambre salon à Akpakpa Ayélawadjè",
+          "description": "Appartement une chambre salon confortable situé au premier étage à Akpakpa Ayélawadjè.",
+          "features": [
+            "1 chambre",
+            "Salon avec cuisine très bien équipée",
+            "Douche",
+            "Climatisation dans la chambre et le salon",
+            "Télévision au salon",
+            "Canal+",
+            "Netflix",
+            "Wi-Fi disponible",
+            "Draps fournis",
+            "Premier étage",
+            "Dressing"
+          ],
+          "electricity_included": false,
+          "notes": "L'électricité est à la charge du client via un compteur à carte."
+        },
+        "en": {
+          "title": "One-Bedroom Apartment in Akpakpa Ayélawadjè",
+          "description": "Comfortable one-bedroom apartment located on the first floor in Akpakpa Ayélawadjè.",
+          "features": [
+            "1 bedroom",
+            "Living room with a fully equipped kitchen",
+            "Bathroom",
+            "Air conditioning in the bedroom and living room",
+            "TV in the living room",
+            "Canal+",
+            "Netflix",
+            "Wi-Fi available",
+            "Bed linen provided",
+            "First floor",
+            "Walk-in closet"
+          ],
+          "electricity_included": false,
+          "notes": "Electricity is paid for by the guest through a prepaid meter."
+        }
+      }
+    },
+
+    {
+      "id": 10,
+      "slug": "une-chambre-salon-cotonou-fidjrosse",
+      "type": "apartment",
+      "category": "1-bedroom",
+      "location": {
+        "city": "Cotonou",
+        "district": "Fidjrossè"
+      },
+      "price": {
+        "amount": 50000,
+        "currency": "XOF",
+        "period": "night"
+      },
+      "contact": {
+        "phone": "0162757856"
+      },
+      "images": [
+        "/images/apartments/10/01.jpg",
+        "/images/apartments/10/02.jpg",
+        "/images/apartments/10/03.jpg",
+        "/images/apartments/10/04.jpg",
+        "/images/apartments/10/05.jpg",
+        "/images/apartments/10/06.jpg",
+        "/images/apartments/10/07.jpg",
+        "/images/apartments/10/08.jpg",
+        "/images/apartments/10/09.jpg",
+        "/images/apartments/10/10.jpg"
+      ],
+      "translations": {
+        "fr": {
+          "title": "Appartement une chambre salon à Fidjrossè",
+          "description": "Appartement luxueux et paisible à Fidjrossè, idéal pour un séjour confortable et relaxant.",
+          "features": [
+            "1 chambre",
+            "Espace de jeux",
+            "Salon avec cuisine très bien équipée",
+            "Douche",
+            "Climatisation dans la chambre et le salon",
+            "Télévision au salon",
+            "Canal+",
+            "Netflix",
+            "Wi-Fi disponible",
+            "Draps fournis",
+            "Gardiennage",
+            "Groupe électrogène",
+            "Machine à laver",
+            "Sèche-linge"
+          ],
+          "electricity_included": false,
+          "notes": "L'électricité est à la charge du client."
+        },
+        "en": {
+          "title": "One-Bedroom Apartment in Fidjrossè",
+          "description": "Luxurious and peaceful apartment in Fidjrossè, ideal for a comfortable and relaxing stay.",
+          "features": [
+            "1 bedroom",
+            "Play area",
+            "Living room with a fully equipped kitchen",
+            "Bathroom",
+            "Air conditioning in the bedroom and living room",
+            "TV in the living room",
+            "Canal+",
+            "Netflix",
+            "Wi-Fi available",
+            "Bed linen provided",
+            "Security service",
+            "Generator",
+            "Washing machine",
+            "Dryer"
+          ],
+          "electricity_included": false,
+          "notes": "Electricity is paid for by the guest."
+        }
+      }
+    },
+
+    {
+      "id": 11,
+      "slug": "deux-chambres-salon-cotonou-akogbato-70000",
+      "type": "apartment",
+      "category": "2-bedroom",
+      "location": {
+        "city": "Cotonou",
+        "district": "Akogbato"
+      },
+      "price": {
+        "amount": 70000,
+        "currency": "XOF",
+        "period": "night"
+      },
+      "contact": {
+        "phone": "0162757856"
+      },
+      "images": [
+        "/images/apartments/11/01.jpg",
+        "/images/apartments/11/02.jpg",
+        "/images/apartments/11/03.jpg",
+        "/images/apartments/11/04.jpg",
+        "/images/apartments/11/05.jpg",
+        "/images/apartments/11/06.jpg",
+        "/images/apartments/11/07.jpg",
+        "/images/apartments/11/08.jpg",
+        "/images/apartments/11/09.jpg",
+        "/images/apartments/11/10.jpg"
+      ],
+      "translations": {
+        "fr": {
+          "title": "Appartement deux chambres salon à Akogbato",
+          "description": "Appartement confortable de deux chambres salon situé à Akogbato.",
+          "features": [
+            "2 chambres",
+            "Table à manger",
+            "Salon avec cuisine très bien équipée",
+            "Douche et WC visiteur",
+            "Climatisation dans les chambres et le salon",
+            "Télévision au salon",
+            "Canal+",
+            "Netflix",
+            "Wi-Fi disponible",
+            "Draps fournis"
+          ]
+        },
+        "en": {
+          "title": "Two-Bedroom Apartment in Akogbato",
+          "description": "Comfortable two-bedroom apartment located in Akogbato.",
+          "features": [
+            "2 bedrooms",
+            "Dining table",
+            "Living room with a fully equipped kitchen",
+            "Bathroom and guest toilet",
+            "Air conditioning in the bedrooms and living room",
+            "TV in the living room",
+            "Canal+",
+            "Netflix",
+            "Wi-Fi available",
+            "Bed linen provided"
+          ]
+        }
+      }
+    },
+
+    {
+      "id": 12,
+      "slug": "trois-chambres-salon-cotonou-agla",
+      "type": "apartment",
+      "category": "3-bedroom",
+      "location": {
+        "city": "Cotonou",
+        "district": "Agla"
+      },
+      "price": {
+        "amount": 110000,
+        "currency": "XOF",
+        "period": "night"
+      },
+      "contact": {
+        "phone": "0162757856"
+      },
+      "images": [
+        "/images/apartments/12/01.jpg",
+        "/images/apartments/12/02.jpg",
+        "/images/apartments/12/03.jpg",
+        "/images/apartments/12/04.jpg",
+        "/images/apartments/12/05.jpg",
+        "/images/apartments/12/06.jpg",
+        "/images/apartments/12/07.jpg",
+        "/images/apartments/12/08.jpg",
+        "/images/apartments/12/09.jpg",
+        "/images/apartments/12/10.jpg"
+      ],
+      "translations": {
+        "fr": {
+          "title": "Appartement trois chambres salon à Agla",
+          "description": "Appartement spacieux de trois chambres salon situé à Cotonou Agla.",
+          "features": [
+            "3 chambres",
+            "Table à manger",
+            "Salon avec cuisine très bien équipée",
+            "Douche et WC visiteur",
+            "Climatisation dans les chambres et le salon",
+            "Télévision au salon",
+            "Canal+",
+            "Netflix",
+            "Wi-Fi disponible",
+            "Draps fournis"
+          ]
+        },
+        "en": {
+          "title": "Three-Bedroom Apartment in Agla",
+          "description": "Spacious three-bedroom apartment located in Cotonou Agla.",
+          "features": [
+            "3 bedrooms",
+            "Dining table",
+            "Living room with a fully equipped kitchen",
+            "Bathroom and guest toilet",
+            "Air conditioning in the bedrooms and living room",
+            "TV in the living room",
+            "Canal+",
+            "Netflix",
+            "Wi-Fi available",
+            "Bed linen provided"
+          ]
+        }
+      }
+    },
+
+    {
+      "id": 13,
+      "slug": "trois-chambres-salon-cotonou-akogbato",
+      "type": "apartment",
+      "category": "3-bedroom",
+      "location": {
+        "city": "Cotonou",
+        "district": "Akogbato"
+      },
+      "price": {
+        "amount": 80000,
+        "currency": "XOF",
+        "period": "night"
+      },
+      "contact": {
+        "phone": "0162757856"
+      },
+      "images": [
+        "/images/apartments/13/01.jpg",
+        "/images/apartments/13/02.jpg",
+        "/images/apartments/13/03.jpg",
+        "/images/apartments/13/04.jpg",
+        "/images/apartments/13/05.jpg",
+        "/images/apartments/13/06.jpg",
+        "/images/apartments/13/07.jpg",
+        "/images/apartments/13/08.jpg",
+        "/images/apartments/13/09.jpg",
+        "/images/apartments/13/10.jpg"
+      ],
+      "translations": {
+        "fr": {
+          "title": "Appartement trois chambres salon à Akogbato",
+          "description": "Appartement spacieux de trois chambres salon situé à Akogbato.",
+          "features": [
+            "3 chambres",
+            "Table à manger",
+            "Salon avec cuisine très bien équipée",
+            "Douche et WC visiteur",
+            "Climatisation dans les chambres et le salon",
+            "Télévision au salon",
+            "Canal+",
+            "Netflix",
+            "Wi-Fi disponible",
+            "Draps fournis"
+          ]
+        },
+        "en": {
+          "title": "Three-Bedroom Apartment in Akogbato",
+          "description": "Spacious three-bedroom apartment located in Akogbato.",
+          "features": [
+            "3 bedrooms",
+            "Dining table",
+            "Living room with a fully equipped kitchen",
+            "Bathroom and guest toilet",
+            "Air conditioning in the bedrooms and living room",
+            "TV in the living room",
+            "Canal+",
+            "Netflix",
+            "Wi-Fi available",
+            "Bed linen provided"
+          ]
+        }
+      }
+    },
+
+    {
+      "id": 14,
+      "slug": "villa-akpakpa-pk10-vue-ocean",
+      "type": "villa",
+      "category": "3-bedroom",
+      "location": {
+        "city": "Cotonou",
+        "district": "Akpakpa",
+        "area": "PK10"
+      },
+      "price": {
+        "amount": 120000,
+        "currency": "XOF",
+        "period": "night"
+      },
+      "contact": {
+        "phone": "0162757856"
+      },
+      "images": [
+        "/images/apartments/14/01.jpg",
+        "/images/apartments/14/02.jpg",
+        "/images/apartments/14/03.jpg",
+        "/images/apartments/14/04.jpg",
+        "/images/apartments/14/05.jpg",
+        "/images/apartments/14/06.jpg",
+        "/images/apartments/14/07.jpg",
+        "/images/apartments/14/08.jpg",
+        "/images/apartments/14/09.jpg",
+        "/images/apartments/14/10.jpg"
+      ],
+      "translations": {
+        "fr": {
+          "title": "Villa Akpakpa PK10 avec vue sur l'océan",
+          "description": "Villa d'exception à Akpakpa PK10 offrant une vue sur l'océan, du confort, de l'intimité et des équipements haut de gamme.",
+          "features": [
+            "3 chambres",
+            "Suite parentale avec baignoire et balcon",
+            "2 salons",
+            "Bar privé",
+            "Grande terrasse avec vue sur la mer",
+            "Jacuzzi 4 places",
+            "Cave à vin",
+            "Wi-Fi haut débit",
+            "Groupe électrogène",
+            "Sécurité 24h/24",
+            "Service d'entretien 24h/24 à la demande"
+          ]
+        },
+        "en": {
+          "title": "Akpakpa PK10 Villa with Ocean View",
+          "description": "Exceptional villa in Akpakpa PK10 offering ocean views, comfort, privacy and premium amenities.",
+          "features": [
+            "3 bedrooms",
+            "Master suite with bathtub and balcony",
+            "2 living rooms",
+            "Private bar",
+            "Large terrace with ocean view",
+            "4-person jacuzzi",
+            "Wine cellar",
+            "High-speed Wi-Fi",
+            "Generator",
+            "24/7 security",
+            "24/7 housekeeping service upon request"
+          ]
+        }
+      }
+    },
+
+    {
+      "id": 15,
+      "slug": "trois-chambres-salon-cotonou-fidjrosse",
+      "type": "apartment",
+      "category": "3-bedroom",
+      "location": {
+        "city": "Cotonou",
+        "district": "Fidjrossè"
+      },
+      "price": {
+        "amount": 70000,
+        "currency": "XOF",
+        "period": "night"
+      },
+      "contact": {
+        "phone": "0162757856"
+      },
+      "images": [
+        "/images/apartments/15/01.jpg",
+        "/images/apartments/15/02.jpg",
+        "/images/apartments/15/03.jpg",
+        "/images/apartments/15/04.jpg",
+        "/images/apartments/15/05.jpg",
+        "/images/apartments/15/06.jpg",
+        "/images/apartments/15/07.jpg",
+        "/images/apartments/15/08.jpg",
+        "/images/apartments/15/09.jpg",
+        "/images/apartments/15/10.jpg"
+      ],
+      "translations": {
+        "fr": {
+          "title": "Appartement trois chambres salon à Fidjrossè",
+          "description": "Appartement spacieux de trois chambres salon situé à Fidjrossè, avec machine à laver.",
+          "features": [
+            "3 chambres",
+            "Table à manger",
+            "Salon avec cuisine très bien équipée",
+            "Douche et WC visiteur",
+            "Climatisation dans les chambres et le salon",
+            "Télévision au salon",
+            "Canal+",
+            "Netflix",
+            "Wi-Fi disponible",
+            "Draps fournis",
+            "Machine à laver"
+          ]
+        },
+        "en": {
+          "title": "Three-Bedroom Apartment in Fidjrossè",
+          "description": "Spacious three-bedroom apartment in Fidjrossè, featuring a washing machine.",
+          "features": [
+            "3 bedrooms",
+            "Dining table",
+            "Living room with a fully equipped kitchen",
+            "Bathroom and guest toilet",
+            "Air conditioning in the bedrooms and living room",
+            "TV in the living room",
+            "Canal+",
+            "Netflix",
+            "Wi-Fi available",
+            "Bed linen provided",
+            "Washing machine"
+          ]
+        }
+      }
+    }
+  ]
+}

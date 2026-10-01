@@ -1,0 +1,208 @@
+{
+  "nav": {
+    "biens": "Properties",
+    "galerie": "Gallery",
+    "services": "Services",
+    "estimation": "Estimate",
+    "avis": "Reviews",
+    "faq": "FAQ",
+    "contact": "Contact",
+    "whatsapp": "WhatsApp"
+  },
+  "hero": {
+    "eyebrow": "Cotonou · Benin",
+    "title": "For comfort and elegance",
+    "subtitle": "Buy, sell, rent or invest: BORGIA supports you with reliable, tailored and elegant solutions.",
+    "chip1": "service areas",
+    "chip2": "cities in Benin",
+    "chip3": "countries internationally",
+     "heroCta": {
+      "book": "Book now",
+      "view": "View our apartments",
+      "message": "Hello, I would like to book a stay with Borgia Immobilier."
+    },
+    "heroReservation" : "Booking"
+  },
+  "search": {
+    "transaction": "Transaction",
+    "type": "Property type",
+    "location": "Location",
+    "budget": "Max budget",
+    "vente": "Sale",
+    "locationRent": "Rent",
+    "all": "All",
+    "ancien": "Existing",
+    "terrain": "Land",
+    "allCities": "All",
+    "cities": {
+      "cotonou": "Cotonou",
+      "calavi": "Calavi",
+      "portonovo": "Porto-Novo",
+      "ouidah": "Ouidah",
+      "grandpopo": "Grand-Popo"
+    },
+    "budgetIndifferent": "No limit",
+    "budgetValues": ["50M FCFA", "100M FCFA", "200M FCFA"],
+    "submit": "Search"
+  },
+"biens": {
+      "eyebrow": "Our properties",
+      "title": "Stays, rentals and sales in Cotonou",
+      "intro": "Nightly stays, homes to rent and properties to buy, selected by Borgia Immobilier.",
+      "offerLabel": "Offer type",
+      "categoryLabel": "Property type",
+      "offers": {
+        "all": "All",
+        "stay": "Stays",
+        "rent": "Rent",
+        "sale": "Sale"
+      },
+      "offerTag": {
+        "stay": "Stay",
+        "rent": "Rent",
+        "sale": "Sale"
+      },
+      "categories": {
+        "all": "All",
+        "studio": "Studios",
+        "1-bedroom": "1 bedroom",
+        "2-bedroom": "2 bedrooms",
+        "3-bedroom": "3 bedrooms",
+        "4-bedroom-plus": "4+ bedrooms",
+        "villa": "Villas",
+        "land": "Land"
+      },
+      "types": {
+        "apartment": "Apartment",
+        "duplex": "Duplex",
+        "studio": "Studio",
+        "villa": "Villa",
+        "house": "House",
+        "land": "Land"
+      },
+      "units": {
+        "night": "/ night",
+        "month": "/ month"
+      },
+      "count": "{count, plural, one {# property} other {# properties}}",
+      "electricityIncluded": "Electricity included",
+      "view": "View property",
+      "back": "All properties",
+      "features": "Features",
+      "cta": {
+        "stay": "Book on WhatsApp",
+        "rent": "Request a visit",
+        "sale": "Request a visit"
+      },
+      "ctaMessage": {
+        "stay": "Hello, I would like to book: {title}",
+        "rent": "Hello, I am interested in renting: {title}",
+        "sale": "Hello, I am interested in buying: {title}"
+      },
+    "booking": {
+      "label": "Number of nights",
+      "nights": "{count, plural, one {# night} other {# nights}}",
+      "estimate": "Estimate",
+      "message": "Hello, I would like to book the apartment {title} from Borgia Immo for {count, plural, one {# night} other {# nights}} (estimate {price} FCFA). What is your availability?"
+    }
+    },
+  "galerie": {
+    "eyebrow": "Guided tour",
+    "title": "Every property, in pictures",
+    "subtitle": "Browse our photo catalog by category before scheduling a visit.",
+    "filters": {
+      "all": "View all",
+      "villas": "Villas",
+      "appartements": "Apartments",
+      "terrains": "Land"
+    },
+    "more" : "see more"
+  },
+  "stats": {
+    "services": "Service areas",
+    "cities": "Cities in Benin",
+    "countries": "International countries",
+    "biens": "Apartments available"
+  },
+  "services": {
+    "eyebrow": "An art of living",
+    "title": "Much more than real estate",
+    "subtitle": "A universe of complementary services for a complete and personalized experience.",
+    "items": {
+      "immo": { "title": "Real estate", "desc": "Sales, rentals, property management and development." },
+      "tourisme": { "title": "Tourism & stays", "desc": "Stays designed for your comfort, in Benin and beyond." },
+      "vehicules": { "title": "Car rental", "desc": "Simple and reliable mobility for your travels." },
+      "deco": { "title": "Interior design", "desc": "Enhance your property with refined decoration." }
+    }
+  },
+  "estimation": {
+    "eyebrow": "Price guide",
+    "title": "Estimate your project",
+    "subtitle": "A first indicative estimate, to be refined with one of our advisors.",
+    "transaction": "Transaction",
+    "type": "Property type",
+    "surface": "Area (m²)",
+    "vente": "Sale",
+    "location": "Rent",
+    "appt": "Apartment",
+    "villa": "Villa",
+    "terrain": "Land",
+    "onQuote": "On quote",
+    "disclaimer": "Indicative estimate, excluding negotiation and additional fees"
+  },
+  "profiles": {
+    "eyebrow": "Ideal for",
+    "title": "Support for every project",
+    "items": {
+      "excellence": { "title": "", "desc": "We constantly seek quality and professionalism in each of our services." },
+      "intégrite": { "title": "", "desc": "We work with transparency, honesty and respect towards our customers and partners." },
+      "confiance": { "title": "", "desc": "We build lasting relationships based on reliability and respect for commitments." },
+      "innovation": { "title": "", "desc": "We are looking for new solutions to improve our customers’ experience and evolve our services." },
+      "Satisfaction client": { "title": "", "desc": "Each project is designed around the needs, expectations and satisfaction of our customers." }
+    }
+  },
+  "avis": {
+    "eyebrow": "Client reviews",
+    "title": "They trust us",
+    "items": [
+      { "initials": "AK", "name": "Aminata K.", "role": "Buyer - Cotonou", "text": "Attentive support from start to finish. The team understood our expectations and found the property we needed." },
+      { "initials": "RA", "name": "Rodrigue A.", "role": "Owner - Calavi", "text": "Professionalism and responsiveness. The rental management of our apartment is finally peaceful." },
+      { "initials": "CH", "name": "Carine H.", "role": "Investor - Porto-Novo", "text": "Relevant advice and flawless follow-up for our investment project." }
+    ]
+  },
+  "faq": {
+    "eyebrow": "Frequently asked questions",
+    "title": "Everything to know before you start",
+    "items": [
+      { "q": "How does a visit with BORGIA work?", "a": "You contact us by phone or WhatsApp, we select the properties matching your budget and criteria, then organize the visit at your convenience." },
+      { "q": "Do you offer full rental management?", "a": "Yes: tenant search, lease drafting, rent collection and technical follow-up, for smooth management on the owner's side." },
+      { "q": "Do you operate outside Cotonou?", "a": "We cover Calavi, Porto-Novo, Ouidah and Grand-Popo in Benin, as well as Togo and Ivory Coast for certain projects." },
+      { "q": "What are your other services?", "a": "Beyond real estate, BORGIA offers tourism & stays, car rental and interior design, for a complete support." }
+    ]
+  },
+  "localisation": {
+    "eyebrow": "Location",
+    "title": "Meet us",
+    "agency": "BORGIA IMMO Agency",
+    "address": "Cotonou, Wologuèdè district, opposite Majestic Cinéma Wologuèdè",
+    "zones": "Coverage areas",
+    "zonesList": "Calavi, Cotonou (Akpakpa), Porto-Novo, Ouidah, Grand-Popo - Togo, Ivory Coast",
+    "cta": "Write to us on WhatsApp"
+  },
+  "cta": {
+    "eyebrow": "Have a project?",
+    "title": "Let's turn your project into an exceptional experience",
+    "subtitle": "Write to us to check property availability or schedule a visit. Fast response, direct support.",
+    "btn1": "Book on WhatsApp",
+    "btn2": "View catalog"
+  },
+   "siteFooter": {
+      "about": "Real estate agency in Cotonou: stays, rentals, sales and investment.",
+      "tagline": "Comfort and elegance",
+      "navTitle": "Navigation",
+      "contactTitle": "Contact",
+      "socialTitle": "Social media",
+      "address": "Wologuèdè, Cotonou, Benin",
+      "rights": "© {year} Borgia Immobilier. All rights reserved."
+    }
+}
