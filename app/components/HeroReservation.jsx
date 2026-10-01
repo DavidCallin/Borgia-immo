@@ -9,7 +9,6 @@ import { WHATSAPP } from "@/lib/contact";
 export default function HeroReservation() {
   const lang = useLocale() === "en" ? "en" : "fr";
   const t = useTranslations("hero");
-  const whatsappHref = `https://wa.me/${WHATSAPP}?text=${encodeURIComponent(t("message"))}`;
   
   return (
     <section className="stats">

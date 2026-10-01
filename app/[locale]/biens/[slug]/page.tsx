@@ -62,19 +62,7 @@ export default async function BienPage({ params }: Props) {
         <p className="loc">
           {placeLabel(p)}, {p.location.city}
         </p>
-
-        <div className="bien-hero">
-          <Image src={main} alt={c.title} fill priority sizes="(max-width: 1120px) 100vw, 1120px" />
-        </div>
-        <div className="gal">
-          {others.map((src, i) => (
-            <div className="g" key={src}>
-              <Image src={src} alt={`${c.title} ${i + 2}`} fill sizes="(max-width: 640px) 100vw, 270px" />
-            </div>
-          ))}
-        </div>
-
-        <div className="bien-cols">
+                <div className="bien-cols">
           <div>
             <p>{c.description}</p>
             <h2>{t('features')}</h2>
@@ -109,6 +97,19 @@ export default async function BienPage({ params }: Props) {
               </>
             )}
           </aside>
+        </div>
+
+        <br />
+
+        <div className="bien-hero">
+          <Image src={main} alt={c.title} fill priority sizes="(max-width: 1120px) 100vw, 1120px" />
+        </div>
+        <div className="gal">
+          {others.map((src, i) => (
+            <div className="g" key={src}>
+              <Image src={src} alt={`${c.title} ${i + 2}`} fill sizes="(max-width: 640px) 100vw, 270px" />
+            </div>
+          ))}
         </div>
       </div>
     </main>
