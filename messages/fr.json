@@ -197,13 +197,24 @@
     "btn2": "Voir le catalogue"
   },
   "siteFooter": {
-      "about": "Agence immobilière à Cotonou : séjours, location, vente et investissement.",
-      "tagline": "Le confort et l'élégance",
-      "navTitle": "Navigation",
-      "contactTitle": "Contact",
-      "socialTitle": "Réseaux sociaux",
-      "address": "Wologuèdè, Cotonou, Bénin",
-      "rights": "© {year} Borgia Immobilier. Tous droits réservés."
+    "about": "Agence immobilière à Cotonou : séjours, location, vente et investissement.",
+    "tagline": "Le confort et l'élégance",
+    "navTitle": "Navigation",
+    "contactTitle": "Contact",
+    "socialTitle": "Réseaux sociaux",
+    "address": "Wologuèdè, Cotonou, Bénin",
+    "rights": "© {year} Borgia Immobilier. Tous droits réservés."
+  },
+  "contactForm": {
+    "title": "Écrivez-nous",
+    "intro": "Dites-nous qui vous êtes et ce que vous cherchez, nous vous répondons sur WhatsApp.",
+    "nameLabel": "Nom et prénom",
+    "namePlaceholder": "Votre nom et prénom",
+    "messageLabel": "Message",
+    "messagePlaceholder": "Votre message ou votre demande",
+    "submit": "Envoyer sur WhatsApp",
+    "note": "Votre message s'ouvrira dans WhatsApp, prêt à être envoyé.",
+    "greeting": "Bonjour, je suis {name}"
     }
     
 }

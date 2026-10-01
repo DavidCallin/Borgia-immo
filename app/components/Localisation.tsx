@@ -1,6 +1,6 @@
 import { getTranslations } from "next-intl/server";
 import { WHATSAPP } from "@/lib/contact";
-
+import ContactForm from "./ContactForm";
 
 export default async function Localisation() {
   const t = await getTranslations("localisation");
@@ -16,10 +16,10 @@ export default async function Localisation() {
         <div className="loc-wrap rv">
           <div className="map">
             <svg viewBox="0 0 400 300" preserveAspectRatio="xMidYMid slice">
-              <rect width="400" height="300" fill="#f4f7f3" />
-              <path d="M50 200 Q150 100 250 180 T380 150" stroke="#7a8f52" strokeWidth="3" fill="none" />
-              <circle cx="200" cy="150" r="10" fill="#c9a45c" />
-              <circle cx="200" cy="150" r="22" fill="#c9a45c" opacity=".25" />
+              <rect width="400" height="300" fill="#e9e7e0" />
+              <path d="M50 200 Q150 100 250 180 T380 150" stroke="#560000" strokeWidth="3" fill="none" />
+              <circle cx="200" cy="150" r="10" fill="#560000" />
+              <circle cx="200" cy="150" r="22" fill="#560000" opacity=".2" />
             </svg>
           </div>
           <div>
@@ -31,10 +31,12 @@ export default async function Localisation() {
               <b>{t("zones")}</b>
               <span>{t("zonesList")}</span>
             </div>
-            <a href={whatsappHref} className="btn">
-              {t("cta")}
-            </a>
+            
           </div>
+        </div>
+
+        <div className="rv">
+          <ContactForm />
         </div>
       </div>
     </section>

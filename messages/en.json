@@ -197,12 +197,23 @@
     "btn2": "View catalog"
   },
    "siteFooter": {
-      "about": "Real estate agency in Cotonou: stays, rentals, sales and investment.",
-      "tagline": "Comfort and elegance",
-      "navTitle": "Navigation",
-      "contactTitle": "Contact",
-      "socialTitle": "Social media",
-      "address": "Wologuèdè, Cotonou, Benin",
-      "rights": "© {year} Borgia Immobilier. All rights reserved."
-    }
+    "about": "Real estate agency in Cotonou: stays, rentals, sales and investment.",
+    "tagline": "Comfort and elegance",
+    "navTitle": "Navigation",
+    "contactTitle": "Contact",
+    "socialTitle": "Social media",
+    "address": "Wologuèdè, Cotonou, Benin",
+    "rights": "© {year} Borgia Immobilier. All rights reserved."
+  },
+  "contactForm": {
+    "title": "Write to us",
+    "intro": "Tell us who you are and what you are looking for, and we will reply on WhatsApp.",
+    "nameLabel": "Full name",
+    "namePlaceholder": "Your full name",
+    "messageLabel": "Message",
+    "messagePlaceholder": "Your message or request",
+    "submit": "Send on WhatsApp",
+    "note": "Your message will open in WhatsApp, ready to send.",
+    "greeting": "Hello, my name is {name}"
+  }
 }
