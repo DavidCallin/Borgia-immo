@@ -1129,6 +1129,140 @@
           ]
         }
       }
+    },
+    {
+      "id": 17,
+      "slug": "deux-chambres-salon-cotonou-togbin-1",
+      "type": "apartment",
+      "category": "2-bedroom",
+      "location": {
+        "city": "Cotonou",
+        "district": "Togbin"
+      },
+      "price": {
+        "amount": 60000,
+        "currency": "XOF",
+        "period": "night"
+      },
+      "contact": {
+        "phone": "0162757856"
+      },
+      "images": [
+        "/images/apartments/17/1.JPG",
+        "/images/apartments/17/2.JPG",
+        "/images/apartments/17/3.JPG",
+        "/images/apartments/17/4.JPG",
+        "/images/apartments/17/5.JPG",
+        "/images/apartments/17/6.JPG",
+        "/images/apartments/17/7.JPG",
+        "/images/apartments/17/8.JPG",
+        "/images/apartments/17/9.JPG",
+        "/images/apartments/17/10.JPG"
+      ],
+      "translations": {
+        "fr": {
+          "title": "Appartement deux chambres salon à Togbin",
+          "description": "Appartement confortable de deux chambres salon situé à Togbin, avec cuisine très bien équipée et machine à laver.",
+          "features": [
+            "2 chambres",
+            "Table à manger",
+            "Salon avec cuisine très bien équipée",
+            "Douche et WC visiteur",
+            "Climatisation dans les chambres et le salon",
+            "Télévision au salon",
+            "Canal+",
+            "Netflix",
+            "Wi-Fi disponible",
+            "Draps fournis",
+            "Machine à laver"
+          ]
+        },
+        "en": {
+          "title": "Two-Bedroom Apartment in Togbin",
+          "description": "Comfortable two-bedroom apartment located in Togbin, featuring a fully equipped kitchen and a washing machine.",
+          "features": [
+            "2 bedrooms",
+            "Dining table",
+            "Living room with a fully equipped kitchen",
+            "Bathroom and guest toilet",
+            "Air conditioning in the bedrooms and living room",
+            "TV in the living room",
+            "Canal+",
+            "Netflix",
+            "Wi-Fi available",
+            "Bed linen provided",
+            "Washing machine"
+          ]
+        }
+      }
+    },
+
+    {
+      "id": 18,
+      "slug": "deux-chambres-salon-cotonou-togbin-2",
+      "type": "apartment",
+      "category": "2-bedroom",
+      "location": {
+        "city": "Cotonou",
+        "district": "Togbin"
+      },
+      "price": {
+        "amount": 60000,
+        "currency": "XOF",
+        "period": "night"
+      },
+      "contact": {
+        "phone": "0162757856"
+      },
+      "images": [
+        "/images/apartments/18/1.JPG",
+        "/images/apartments/18/2.JPG",
+        "/images/apartments/18/3.JPG",
+        "/images/apartments/18/4.JPG",
+        "/images/apartments/18/5.JPG",
+        "/images/apartments/18/6.JPG",
+        "/images/apartments/18/7.JPG",
+        "/images/apartments/18/8.JPG",
+        "/images/apartments/18/9.JPG",
+        "/images/apartments/18/10.JPG",
+        "/images/apartments/18/11.JPG"
+      ],
+      "translations": {
+        "fr": {
+          "title": "Appartement deux chambres salon à Togbin",
+          "description": "Appartement confortable de deux chambres salon situé à Togbin, avec cuisine très bien équipée et machine à laver.",
+          "features": [
+            "2 chambres",
+            "Table à manger",
+            "Salon avec cuisine très bien équipée",
+            "Douche et WC visiteur",
+            "Climatisation dans les chambres et le salon",
+            "Télévision au salon",
+            "Canal+",
+            "Netflix",
+            "Wi-Fi disponible",
+            "Draps fournis",
+            "Machine à laver"
+          ]
+        },
+        "en": {
+          "title": "Two-Bedroom Apartment in Togbin",
+          "description": "Comfortable two-bedroom apartment located in Togbin, featuring a fully equipped kitchen and a washing machine.",
+          "features": [
+            "2 bedrooms",
+            "Dining table",
+            "Living room with a fully equipped kitchen",
+            "Bathroom and guest toilet",
+            "Air conditioning in the bedrooms and living room",
+            "TV in the living room",
+            "Canal+",
+            "Netflix",
+            "Wi-Fi available",
+            "Bed linen provided",
+            "Washing machine"
+          ]
+        }
+      }
     }
   ]
 }
