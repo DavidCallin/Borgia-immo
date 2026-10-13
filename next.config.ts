@@ -1,12 +1,18 @@
 import createNextIntlPlugin from 'next-intl/plugin';
+import type { NextConfig } from 'next';
 
-// Indique à next-intl où se trouve ton fichier de configuration (i18n.ts à la racine)
 const withNextIntl = createNextIntlPlugin('./i18n.ts');
 
-const nextConfig = {
+const nextConfig: NextConfig = {
   reactStrictMode: true,
-  // Tu peux ajouter d'autres options Next.js ici si besoin
-  // ex: images: { remotePatterns: [...] }
+  images: {
+    remotePatterns: [
+      {
+        protocol: 'https',
+        hostname: 'cdn.sanity.io',
+      },
+    ],
+  },
 };
 
 export default withNextIntl(nextConfig);

@@ -4,18 +4,20 @@ import Image from "next/image";
 import { useLocale, useTranslations } from "next-intl";
 import { Link } from "@/i18n/routing";
 import {
-  properties,
   CATEGORY_ORDER,
   categoryKey,
   copyOf,
   type CategoryKey,
+  type Property,
 } from "@/lib/biens";
 
 const PAGE = 12;
 
 type Tile = { src: string; slug: string; title: string; n: number; cat: CategoryKey };
 
-export default function Galerie() {
+type Props = { items: Property[] };
+
+export default function Galerie({ items }: Props) {
   const t = useTranslations("galerie");
   const tb = useTranslations("biens");
   const locale = useLocale();
@@ -25,10 +27,10 @@ export default function Galerie() {
   // Toutes les photos de tous les biens, en alternant les biens :
   // la 1re photo de chaque bien d'abord, puis la 2e, etc.
   const tiles = useMemo<Tile[]>(() => {
-    const maxN = Math.max(0, ...properties.map((p) => p.images.length));
+    const maxN = Math.max(0, ...items.map((p) => p.images.length));
     const out: Tile[] = [];
     for (let i = 0; i < maxN; i++) {
-      for (const p of properties) {
+      for (const p of items) {
         const src = p.images[i];
         if (!src) continue;
         out.push({
@@ -41,11 +43,11 @@ export default function Galerie() {
       }
     }
     return out;
-  }, [locale]);
+  }, [items, locale]);
 
   const categories = useMemo(
-    () => CATEGORY_ORDER.filter((k) => properties.some((p) => categoryKey(p) === k)),
-    [],
+    () => CATEGORY_ORDER.filter((k) => items.some((p) => categoryKey(p) === k)),
+    [items],
   );
 
   const filtered = f === "all" ? tiles : tiles.filter((x) => x.cat === f);

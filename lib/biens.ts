@@ -13,6 +13,7 @@ export type Category =
 
 type Copy = {
   title: string;
+  link: string;
   description: string;
   features: string[];
   electricity_included?: boolean;
@@ -33,20 +34,36 @@ type RawProperty = {
   translations: Record<'fr' | 'en', Copy>;
 };
 
-export type Property = RawProperty & { offer: Offer };
+export type Property = RawProperty & { offer: Offer , pays: string};
 
 const OFFER_BY_PERIOD: Record<Period, Offer> = { night: 'stay', month: 'rent', total: 'sale' };
 
 // Accepte la clé « properties » ou l'ancienne clé « apartments » du JSON fourni.
 const source = raw as unknown as { properties?: RawProperty[]; apartments?: RawProperty[] };
 
-export const properties: Property[] = (source.properties ?? source.apartments ?? []).map((p) => ({
-  ...p,
-  offer: p.offer ?? OFFER_BY_PERIOD[p.price.period],
-}));
+export function normalizeProperty(p: RawProperty): Property {
+  return {
+    ...p,
+    offer: p.offer ?? OFFER_BY_PERIOD[p.price.period],
+    pays: 'Bénin', // Valeur par défaut, à remplacer selon les besoins
+  };
+}
+
+/** Fallback local : data/biens.json (utilisé si Sanity n'est pas configuré ou vide). */
+export function getJsonProperties(): Property[] {
+  return (source.properties ?? source.apartments ?? []).map(normalizeProperty);
+}
+
+/** @deprecated Préférer getProperties() async — conservé pour compatibilité sync / generateStaticParams de secours. */
+export const properties: Property[] = getJsonProperties();
 
 export const OFFERS: Offer[] = ['stay', 'rent', 'sale'];
-export const availableOffers = OFFERS.filter((o) => properties.some((p) => p.offer === o));
+
+export function offersOf(list: Property[]): Offer[] {
+  return OFFERS.filter((o) => list.some((p) => p.offer === o));
+}
+
+export const availableOffers = offersOf(properties);
 
 /** Clés de filtre « catégorie » (la villa et le terrain ont la leur). */
 export const CATEGORY_ORDER = [

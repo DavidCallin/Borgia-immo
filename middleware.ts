@@ -4,5 +4,6 @@ import { routing } from './i18n/routing';
 export default createMiddleware(routing);
 
 export const config = {
-  matcher: ['/((?!api|_next|_vercel|.*\\..*).*)'],
+  // Exclure /studio (Sanity) ainsi que les assets et routes techniques Next.
+  matcher: ['/((?!api|trpc|_next|_vercel|studio|.*\\..*).*)'],
 };

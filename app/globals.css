@@ -430,3 +430,8 @@ footer .logo-mark img{height:80px}
   .cform{padding:24px 20px;margin-top:40px}
   .cform .btn{justify-self:stretch;text-align:center}
 }
+
+.select-filters { display: flex; flex-wrap: wrap; gap: 12px; margin: 12px 0; }
+.select-field { display: flex; flex-direction: column; gap: 4px; min-width: 180px; flex: 1 1 180px; }
+.select-field label { font-size: 13px; opacity: .7; }
+.select-field select { padding: 10px 12px; border: 1px solid currentColor; border-radius: 8px; background: transparent; }

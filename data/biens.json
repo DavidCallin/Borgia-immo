@@ -28,14 +28,7 @@
         "/images/apartments/1/7.JPG",
         "/images/apartments/1/8.JPG",
         "/images/apartments/1/9.JPG",
-        "/images/apartments/1/10.JPG",
-        "/images/apartments/1/11.JPG",
-        "/images/apartments/1/12.JPG",
-        "/images/apartments/1/13.JPG",
-        "/images/apartments/1/14.JPG",
-        "/images/apartments/1/15.JPG",
-        "/images/apartments/1/16.JPG",
-        "/images/apartments/1/17.JPG"
+        "/images/apartments/1/10.JPG"
       ],
       "translations": {
         "fr": {
@@ -68,9 +61,9 @@
           ],
           "electricity_included": true
         }
-      }
+      },
+      "pays": "Bénin"
     },
-
     {
       "id": 2,
       "slug": "deux-chambres-salon-cotonou-agla-45000",
@@ -98,8 +91,7 @@
         "/images/apartments/2/7.JPG",
         "/images/apartments/2/8.JPG",
         "/images/apartments/2/9.JPG",
-        "/images/apartments/2/10.JPG",
-        "/images/apartments/2/11.JPG"
+        "/images/apartments/2/10.JPG"
       ],
       "translations": {
         "fr": {
@@ -138,9 +130,9 @@
           "electricity_included": false,
           "notes": "Electricity is paid for by the guest."
         }
-      }
+      },
+      "pays": "Bénin"
     },
-
     {
       "id": 3,
       "slug": "duplex-deux-chambres-salon-akogbato-91000",
@@ -207,9 +199,9 @@
             "Security service"
           ]
         }
-      }
+      },
+      "pays": "Bénin"
     },
-
     {
       "id": 4,
       "slug": "duplex-deux-chambres-salon-akogbato-61000",
@@ -236,7 +228,8 @@
         "/images/apartments/4/6.JPG",
         "/images/apartments/4/7.JPG",
         "/images/apartments/4/8.JPG",
-        "/images/apartments/4/9.JPG"
+        "/images/apartments/4/9.JPG",
+        "/images/apartments/4/10.JPG"
       ],
       "translations": {
         "fr": {
@@ -275,9 +268,9 @@
             "Security service"
           ]
         }
-      }
+      },
+      "pays": "Bénin"
     },
-
     {
       "id": 5,
       "slug": "une-chambre-salon-akpakpa-kowegbo",
@@ -306,14 +299,7 @@
         "/images/apartments/5/7.JPG",
         "/images/apartments/5/8.JPG",
         "/images/apartments/5/9.JPG",
-        "/images/apartments/5/10.JPG",
-        "/images/apartments/5/11.JPG",
-        "/images/apartments/5/12.JPG",
-        "/images/apartments/5/13.JPG",
-        "/images/apartments/5/14.JPG",
-        "/images/apartments/5/15.JPG",
-        "/images/apartments/5/16.JPG",
-        "/images/apartments/5/17.JPG"
+        "/images/apartments/5/10.JPG"
       ],
       "translations": {
         "fr": {
@@ -352,9 +338,9 @@
           "electricity_included": false,
           "notes": "Electricity is paid for by the guest through a prepaid meter."
         }
-      }
+      },
+      "pays": "Bénin"
     },
-
     {
       "id": 6,
       "slug": "studio-akpakpa-agblangandan-1",
@@ -383,8 +369,7 @@
         "/images/apartments/6/7.JPG",
         "/images/apartments/6/8.JPG",
         "/images/apartments/6/9.JPG",
-        "/images/apartments/6/10.JPG",
-        "/images/apartments/6/11.JPG"
+        "/images/apartments/6/10.JPG"
       ],
       "translations": {
         "fr": {
@@ -421,7 +406,8 @@
             "24/7 security"
           ]
         }
-      }
+      },
+      "pays": "Bénin"
     },
     {
       "id": 7,
@@ -488,9 +474,9 @@
             "24/7 security"
           ]
         }
-      }
+      },
+      "pays": "Bénin"
     },
-
     {
       "id": 8,
       "slug": "studio-akpakpa-midombor",
@@ -554,9 +540,9 @@
             "Parking"
           ]
         }
-      }
+      },
+      "pays": "Bénin"
     },
-
     {
       "id": 9,
       "slug": "studio-akpakpa-cine-concorde",
@@ -584,7 +570,8 @@
         "/images/apartments/9/6.JPG",
         "/images/apartments/9/7.JPG",
         "/images/apartments/9/8.JPG",
-        "/images/apartments/9/9.JPG"
+        "/images/apartments/9/9.JPG",
+        "/images/apartments/9/10.JPG"
       ],
       "translations": {
         "fr": {
@@ -621,9 +608,9 @@
             "24/7 security"
           ]
         }
-      }
+      },
+      "pays": "Bénin"
     },
-
     {
       "id": 10,
       "slug": "une-chambre-salon-akpakpa-ayelawadje",
@@ -652,8 +639,7 @@
         "/images/apartments/10/7.JPG",
         "/images/apartments/10/8.JPG",
         "/images/apartments/10/9.JPG",
-        "/images/apartments/10/10.JPG",
-        "/images/apartments/10/11.JPG"
+        "/images/apartments/10/10.JPG"
       ],
       "translations": {
         "fr": {
@@ -694,9 +680,9 @@
           "electricity_included": false,
           "notes": "Electricity is paid for by the guest through a prepaid meter."
         }
-      }
+      },
+      "pays": "Bénin"
     },
-
     {
       "id": 11,
       "slug": "une-chambre-salon-cotonou-fidjrosse",
@@ -771,9 +757,9 @@
           "electricity_included": false,
           "notes": "Electricity is paid for by the guest."
         }
-      }
+      },
+      "pays": "Bénin"
     },
-
     {
       "id": 12,
       "slug": "deux-chambres-salon-cotonou-akogbato-70000",
@@ -801,10 +787,7 @@
         "/images/apartments/12/7.JPG",
         "/images/apartments/12/8.JPG",
         "/images/apartments/12/9.JPG",
-        "/images/apartments/12/10.JPG",
-        "/images/apartments/12/11.JPG",
-        "/images/apartments/12/12.JPG",
-        "/images/apartments/12/13.JPG"
+        "/images/apartments/12/10.JPG"
       ],
       "translations": {
         "fr": {
@@ -839,9 +822,9 @@
             "Bed linen provided"
           ]
         }
-      }
+      },
+      "pays": "Bénin"
     },
-
     {
       "id": 13,
       "slug": "trois-chambres-salon-cotonou-agla",
@@ -904,9 +887,9 @@
             "Bed linen provided"
           ]
         }
-      }
+      },
+      "pays": "Bénin"
     },
-
     {
       "id": 14,
       "slug": "trois-chambres-salon-cotonou-akogbato",
@@ -969,9 +952,9 @@
             "Bed linen provided"
           ]
         }
-      }
+      },
+      "pays": "Bénin"
     },
-
     {
       "id": 15,
       "slug": "villa-akpakpa-pk10-vue-ocean",
@@ -1000,12 +983,7 @@
         "/images/apartments/15/7.JPG",
         "/images/apartments/15/8.JPG",
         "/images/apartments/15/9.JPG",
-        "/images/apartments/15/10.JPG",
-        "/images/apartments/15/11.JPG",
-        "/images/apartments/15/12.JPG",
-        "/images/apartments/15/13.JPG",
-        "/images/apartments/15/14.JPG",
-        "/images/apartments/15/15.JPG"
+        "/images/apartments/15/10.JPG"
       ],
       "translations": {
         "fr": {
@@ -1042,9 +1020,9 @@
             "24/7 housekeeping service upon request"
           ]
         }
-      }
+      },
+      "pays": "Bénin"
     },
-
     {
       "id": 16,
       "slug": "trois-chambres-salon-cotonou-fidjrosse",
@@ -1072,26 +1050,7 @@
         "/images/apartments/16/7.JPG",
         "/images/apartments/16/8.JPG",
         "/images/apartments/16/9.JPG",
-        "/images/apartments/16/10.JPG",
-        "/images/apartments/16/11.JPG",
-        "/images/apartments/16/12.JPG",
-        "/images/apartments/16/13.JPG",
-        "/images/apartments/16/14.JPG",
-        "/images/apartments/16/15.JPG",
-        "/images/apartments/16/16.JPG",
-        "/images/apartments/16/17.JPG",
-        "/images/apartments/16/18.JPG",
-        "/images/apartments/16/19.JPG",
-        "/images/apartments/16/20.JPG",
-        "/images/apartments/16/21.JPG",
-        "/images/apartments/16/22.JPG",
-        "/images/apartments/16/23.JPG",
-        "/images/apartments/16/24.JPG",
-        "/images/apartments/16/25.JPG",
-        "/images/apartments/16/26.JPG",
-        "/images/apartments/16/27.JPG",
-        "/images/apartments/16/28.JPG",
-        "/images/apartments/16/29.JPG"
+        "/images/apartments/16/10.JPG"
       ],
       "translations": {
         "fr": {
@@ -1128,7 +1087,8 @@
             "Washing machine"
           ]
         }
-      }
+      },
+      "pays": "Bénin"
     },
     {
       "id": 17,
@@ -1194,9 +1154,9 @@
             "Washing machine"
           ]
         }
-      }
+      },
+      "pays": "Bénin"
     },
-
     {
       "id": 18,
       "slug": "deux-chambres-salon-cotonou-togbin-2",
@@ -1224,8 +1184,7 @@
         "/images/apartments/18/7.JPG",
         "/images/apartments/18/8.JPG",
         "/images/apartments/18/9.JPG",
-        "/images/apartments/18/10.JPG",
-        "/images/apartments/18/11.JPG"
+        "/images/apartments/18/10.JPG"
       ],
       "translations": {
         "fr": {
@@ -1260,6 +1219,4913 @@
             "Wi-Fi available",
             "Bed linen provided",
             "Washing machine"
+          ]
+        }
+      },
+      "pays": "Bénin"
+    },
+    {
+      "id": 19,
+      "slug": "deux-chambres-salon-akpakpa-avotrou-19",
+      "type": "apartment",
+      "category": "apartment",
+      "location": {
+        "city": "Cotonou",
+        "district": "Avotrou",
+        "area": "AVOTROU"
+      },
+      "pays": "Bénin",
+      "price": {
+        "amount": null,
+        "currency": "XOF",
+        "period": "night"
+      },
+      "contact": {},
+      "images": [
+        "/images/apartments/19/1.jpeg",
+        "/images/apartments/19/2.jpeg",
+        "/images/apartments/19/3.jpeg",
+        "/images/apartments/19/4.jpeg",
+        "/images/apartments/19/5.jpeg",
+        "/images/apartments/19/6.jpeg",
+        "/images/apartments/19/7.jpeg",
+        "/images/apartments/19/8.jpeg",
+        "/images/apartments/19/9.jpeg",
+        "/images/apartments/19/10.jpeg"
+      ],
+      "translations": {
+        "fr": {
+          "title": "DEUX CHAMBRES SALON _ AKPAKPA AVOTROU",
+          "description": "Appartement de deux chambres salon situé à AKPAKPA AVOTROU, offrant un cadre de séjour pratique et agréable.",
+          "features": [
+            "2 chambres",
+            "Table à manger",
+            "1 salon avec cuisine( cuisine très bien équipée)",
+            "Douche &visiteur",
+            "Climatisation dans la chambre et au salon",
+            "Télévision au salon",
+            "Canal+, Netflix et wifi disponible.",
+            "Draps fournis",
+            "1er étage"
+          ]
+        },
+        "en": {
+          "title": "Two-Bedroom Apartment in Akpakpa AVOTROU",
+          "description": "Two-bedroom apartment in Akpakpa AVOTROU, offering a practical and pleasant setting for your stay.",
+          "features": [
+            "2 bedrooms",
+            "Dining table",
+            "Living room with a fully equipped kitchen",
+            "Bathroom and guest toilet",
+            "Air conditioning in the bedroom and living room",
+            "TV in the living room",
+            "Canal+, Netflix and Wi-Fi available",
+            "Bed linen provided",
+            "First floor"
+          ]
+        }
+      }
+    },
+    {
+      "id": 20,
+      "slug": "deux-chambres-salon-akpakpa-avotrou-20",
+      "type": "apartment",
+      "category": "apartment",
+      "location": {
+        "city": "Cotonou",
+        "district": "Avotrou",
+        "area": "AVOTROU"
+      },
+      "pays": "Bénin",
+      "price": {
+        "amount": 45000,
+        "currency": "XOF",
+        "period": "night"
+      },
+      "contact": {},
+      "images": [
+        "/images/apartments/20/1.jpeg",
+        "/images/apartments/20/2.jpeg",
+        "/images/apartments/20/3.jpeg",
+        "/images/apartments/20/4.jpeg",
+        "/images/apartments/20/5.jpeg",
+        "/images/apartments/20/6.jpeg",
+        "/images/apartments/20/7.jpeg",
+        "/images/apartments/20/8.jpeg",
+        "/images/apartments/20/9.jpeg",
+        "/images/apartments/20/10.jpeg"
+      ],
+      "translations": {
+        "fr": {
+          "title": "DEUX CHAMBRES SALON _ AKPAKPA AVOTROU",
+          "description": "Appartement de deux chambres salon situé à AKPAKPA AVOTROU, offrant un cadre de séjour pratique et agréable.",
+          "features": [
+            "2 chambres",
+            "Table à manger",
+            "1 salon avec cuisine( cuisine très bien équipée)",
+            "Douche &visiteur",
+            "Climatisation dans la chambre et au salon",
+            "Télévision au salon",
+            "Canal+, Netflix et wifi disponible.",
+            "Draps fournis",
+            "2eme étage"
+          ]
+        },
+        "en": {
+          "title": "Two-Bedroom Apartment in Akpakpa AVOTROU",
+          "description": "Two-bedroom apartment in Akpakpa AVOTROU, offering a practical and pleasant setting for your stay.",
+          "features": [
+            "2 bedrooms",
+            "Dining table",
+            "Living room with a fully equipped kitchen",
+            "Bathroom and guest toilet",
+            "Air conditioning in the bedroom and living room",
+            "TV in the living room",
+            "Canal+, Netflix and Wi-Fi available",
+            "Bed linen provided",
+            "Second floor"
+          ]
+        }
+      }
+    },
+    {
+      "id": 21,
+      "slug": "quatres-chambres-salon-cotonou-haie-vive-21",
+      "type": "apartment",
+      "category": "apartment",
+      "location": {
+        "city": "Cotonou",
+        "district": "Haie",
+        "area": "HAIE VIVE"
+      },
+      "pays": "Bénin",
+      "price": {
+        "amount": 100000,
+        "currency": "XOF",
+        "period": "night"
+      },
+      "contact": {},
+      "images": [
+        "/images/apartments/21/1.jpeg",
+        "/images/apartments/21/2.jpeg",
+        "/images/apartments/21/3.jpeg",
+        "/images/apartments/21/4.jpeg",
+        "/images/apartments/21/5.jpeg",
+        "/images/apartments/21/6.jpeg",
+        "/images/apartments/21/7.jpeg",
+        "/images/apartments/21/8.jpeg",
+        "/images/apartments/21/9.jpeg",
+        "/images/apartments/21/10.jpeg",
+        "/images/apartments/21/11.jpeg"
+      ],
+      "translations": {
+        "fr": {
+          "title": "QUATRES CHAMBRES SALON _ COTONOU HAIE VIVE",
+          "description": "Appartement de quatre chambres salon situé à HAIE VIVE, Cotonou, offrant un cadre de séjour pratique et agréable.",
+          "features": [
+            "4 chambres",
+            "Table à manger",
+            "1 salon avec cuisine( cuisine très bien équipée)",
+            "Douche &visiteur",
+            "Climatisation dans la chambre et au salon",
+            "Télévision au salon",
+            "Canal+, Netflix et wifi disponible.",
+            "Draps fournis",
+            "1eme étage",
+            "GROUPE ÉLECTROGÈNE"
+          ]
+        },
+        "en": {
+          "title": "Four-Bedroom Apartment in HAIE VIVE",
+          "description": "Four-bedroom apartment in HAIE VIVE, offering a practical and pleasant setting for your stay.",
+          "features": [
+            "4 bedrooms",
+            "Dining table",
+            "Living room with a fully equipped kitchen",
+            "Bathroom and guest toilet",
+            "Air conditioning in the bedroom and living room",
+            "TV in the living room",
+            "Canal+, Netflix and Wi-Fi available",
+            "Bed linen provided",
+            "First floor",
+            "Generator"
+          ]
+        }
+      }
+    },
+    {
+      "id": 22,
+      "slug": "quatres-chambres-salon-cotonou-haie-vive-22",
+      "type": "apartment",
+      "category": "apartment",
+      "location": {
+        "city": "Cotonou",
+        "district": "Haie",
+        "area": "HAIE VIVE"
+      },
+      "pays": "Bénin",
+      "price": {
+        "amount": 100000,
+        "currency": "XOF",
+        "period": "night"
+      },
+      "contact": {},
+      "images": [
+        "/images/apartments/22/1.jpeg",
+        "/images/apartments/22/2.jpeg",
+        "/images/apartments/22/3.jpeg",
+        "/images/apartments/22/4.jpeg",
+        "/images/apartments/22/5.jpeg",
+        "/images/apartments/22/6.jpeg",
+        "/images/apartments/22/7.jpeg",
+        "/images/apartments/22/8.jpeg",
+        "/images/apartments/22/9.jpeg",
+        "/images/apartments/22/10.jpeg",
+        "/images/apartments/22/11.jpeg"
+      ],
+      "translations": {
+        "fr": {
+          "title": "QUATRES CHAMBRES SALON _ COTONOU HAIE VIVE",
+          "description": "Appartement de quatre chambres salon situé à HAIE VIVE, Cotonou, offrant un cadre de séjour pratique et agréable.",
+          "features": [
+            "4 chambres",
+            "Table à manger",
+            "1 salon avec cuisine( cuisine très bien équipée)",
+            "Douche &visiteur",
+            "Climatisation dans la chambre et au salon",
+            "Télévision au salon",
+            "Canal+, Netflix et wifi disponible.",
+            "Draps fournis",
+            "1eme étage",
+            "GROUPE ÉLECTROGÈNE"
+          ]
+        },
+        "en": {
+          "title": "Four-Bedroom Apartment in HAIE VIVE",
+          "description": "Four-bedroom apartment in HAIE VIVE, offering a practical and pleasant setting for your stay.",
+          "features": [
+            "4 bedrooms",
+            "Dining table",
+            "Living room with a fully equipped kitchen",
+            "Bathroom and guest toilet",
+            "Air conditioning in the bedroom and living room",
+            "TV in the living room",
+            "Canal+, Netflix and Wi-Fi available",
+            "Bed linen provided",
+            "First floor",
+            "Generator"
+          ]
+        }
+      }
+    },
+    {
+      "id": 23,
+      "slug": "quatres-chambres-salon-cotonou-fidjrosse-gondouana-23",
+      "type": "apartment",
+      "category": "apartment",
+      "location": {
+        "city": "Cotonou",
+        "district": "Fidjrosse",
+        "area": "FIDJROSSE GONDOUANA"
+      },
+      "pays": "Bénin",
+      "price": {
+        "amount": 80000,
+        "currency": "XOF",
+        "period": "night"
+      },
+      "contact": {},
+      "images": [
+        "/images/apartments/23/1.jpeg",
+        "/images/apartments/23/2.jpeg",
+        "/images/apartments/23/3.jpeg",
+        "/images/apartments/23/4.jpeg",
+        "/images/apartments/23/5.jpeg",
+        "/images/apartments/23/6.jpeg",
+        "/images/apartments/23/7.jpeg",
+        "/images/apartments/23/8.jpeg",
+        "/images/apartments/23/9.jpeg",
+        "/images/apartments/23/10.jpeg",
+        "/images/apartments/23/11.jpeg",
+        "/images/apartments/23/12.jpeg",
+        "/images/apartments/23/13.jpeg",
+        "/images/apartments/23/14.jpeg",
+        "/images/apartments/23/15.jpeg",
+        "/images/apartments/23/16.jpeg",
+        "/images/apartments/23/17.jpeg",
+        "/images/apartments/23/18.jpeg",
+        "/images/apartments/23/19.jpeg",
+        "/images/apartments/23/20.jpeg",
+        "/images/apartments/23/21.jpeg",
+        "/images/apartments/23/22.jpeg",
+        "/images/apartments/23/23.jpeg",
+        "/images/apartments/23/24.jpeg",
+        "/images/apartments/23/25.jpeg",
+        "/images/apartments/23/26.jpeg",
+        "/images/apartments/23/27.jpeg"
+      ],
+      "translations": {
+        "fr": {
+          "title": "QUATRES CHAMBRES SALON _ COTONOU FIDJROSSE GONDOUANA",
+          "description": "Appartement de quatre chambres salon situé à FIDJROSSE GONDOUANA, Cotonou, offrant un cadre de séjour pratique et agréable.",
+          "features": [
+            "4 chambres",
+            "Table à manger",
+            "1 salon avec cuisine( cuisine très bien équipée)",
+            "Douche &visiteur",
+            "Climatisation dans la chambre et au salon",
+            "Télévision au salon",
+            "Canal+, Netflix et wifi disponible.",
+            "Draps fournis",
+            "1eme étage",
+            "GROUPE ÉLECTROGÈNE"
+          ]
+        },
+        "en": {
+          "title": "Four-Bedroom Apartment in FIDJROSSE GONDOUANA",
+          "description": "Four-bedroom apartment in FIDJROSSE GONDOUANA, offering a practical and pleasant setting for your stay.",
+          "features": [
+            "4 bedrooms",
+            "Dining table",
+            "Living room with a fully equipped kitchen",
+            "Bathroom and guest toilet",
+            "Air conditioning in the bedroom and living room",
+            "TV in the living room",
+            "Canal+, Netflix and Wi-Fi available",
+            "Bed linen provided",
+            "First floor",
+            "Generator"
+          ]
+        }
+      }
+    },
+    {
+      "id": 24,
+      "slug": "quatres-chambres-salon-agassa-godomey-24",
+      "type": "apartment",
+      "category": "apartment",
+      "location": {
+        "city": "Cotonou",
+        "district": "Cotonou",
+        "area": ""
+      },
+      "pays": "Bénin",
+      "price": {
+        "amount": 150000,
+        "currency": "XOF",
+        "period": "night"
+      },
+      "contact": {},
+      "images": [
+        "/images/apartments/24/1.jpeg",
+        "/images/apartments/24/2.jpeg",
+        "/images/apartments/24/3.jpeg",
+        "/images/apartments/24/4.jpeg",
+        "/images/apartments/24/5.jpeg",
+        "/images/apartments/24/6.jpeg",
+        "/images/apartments/24/7.jpeg",
+        "/images/apartments/24/8.jpeg",
+        "/images/apartments/24/9.jpeg",
+        "/images/apartments/24/10.jpeg",
+        "/images/apartments/24/11.jpeg",
+        "/images/apartments/24/12.jpeg",
+        "/images/apartments/24/13.jpeg",
+        "/images/apartments/24/14.jpeg",
+        "/images/apartments/24/15.jpeg",
+        "/images/apartments/24/16.jpeg",
+        "/images/apartments/24/17.jpeg",
+        "/images/apartments/24/18.jpeg",
+        "/images/apartments/24/19.jpeg"
+      ],
+      "translations": {
+        "fr": {
+          "title": "QUATRES CHAMBRES SALON _ AGASSA GODOMEY",
+          "description": "Appartement de quatre chambres salon situé à AGASSA GODOMEY, offrant un cadre de séjour pratique et agréable.",
+          "features": [
+            "4 chambres",
+            "Table à manger",
+            "1 salon avec cuisine( cuisine très bien équipée)",
+            "Douche &visiteur",
+            "Climatisation dans la chambre et au salon",
+            "Télévision au salon",
+            "Canal+, Netflix et wifi disponible.",
+            "Draps fournis",
+            "GROUPE ÉLECTROGÈNE"
+          ]
+        },
+        "en": {
+          "title": "Four-Bedroom Apartment in AGASSA GODOMEY",
+          "description": "Four-bedroom apartment in AGASSA GODOMEY, offering a practical and pleasant setting for your stay.",
+          "features": [
+            "4 bedrooms",
+            "Dining table",
+            "Living room with a fully equipped kitchen",
+            "Bathroom and guest toilet",
+            "Air conditioning in the bedroom and living room",
+            "TV in the living room",
+            "Canal+, Netflix and Wi-Fi available",
+            "Bed linen provided",
+            "Generator"
+          ]
+        }
+      }
+    },
+    {
+      "id": 25,
+      "slug": "quatres-chambres-salon-akpakpa-zone-des-ambassade-25",
+      "type": "apartment",
+      "category": "apartment",
+      "location": {
+        "city": "Cotonou",
+        "district": "Zone",
+        "area": "ZONE DES AMBASSADE"
+      },
+      "pays": "Bénin",
+      "price": {
+        "amount": 100000,
+        "currency": "XOF",
+        "period": "night"
+      },
+      "contact": {},
+      "images": [
+        "/images/apartments/25/1.jpeg",
+        "/images/apartments/25/2.jpeg",
+        "/images/apartments/25/3.jpeg",
+        "/images/apartments/25/4.jpeg",
+        "/images/apartments/25/5.jpeg",
+        "/images/apartments/25/6.jpeg",
+        "/images/apartments/25/7.jpeg",
+        "/images/apartments/25/8.jpeg",
+        "/images/apartments/25/9.jpeg",
+        "/images/apartments/25/10.jpeg",
+        "/images/apartments/25/11.jpeg",
+        "/images/apartments/25/12.jpeg",
+        "/images/apartments/25/13.jpeg",
+        "/images/apartments/25/14.jpeg",
+        "/images/apartments/25/15.jpeg"
+      ],
+      "translations": {
+        "fr": {
+          "title": "QUATRES CHAMBRES SALON _ AKPAKPA ZONE DES AMBASSADE",
+          "description": "Appartement de quatre chambres salon situé à AKPAKPA ZONE DES AMBASSADE, offrant un cadre de séjour pratique et agréable.",
+          "features": [
+            "4 chambres",
+            "Table à manger",
+            "1 salon avec cuisine( cuisine très bien équipée)",
+            "Douche &visiteur",
+            "Climatisation dans la chambre et au salon",
+            "Télévision au salon",
+            "Canal+, Netflix et wifi disponible.",
+            "Draps fournis",
+            "GROUPE ÉLECTROGÈNE"
+          ]
+        },
+        "en": {
+          "title": "Four-Bedroom Apartment in Akpakpa ZONE DES AMBASSADE",
+          "description": "Four-bedroom apartment in Akpakpa ZONE DES AMBASSADE, offering a practical and pleasant setting for your stay.",
+          "features": [
+            "4 bedrooms",
+            "Dining table",
+            "Living room with a fully equipped kitchen",
+            "Bathroom and guest toilet",
+            "Air conditioning in the bedroom and living room",
+            "TV in the living room",
+            "Canal+, Netflix and Wi-Fi available",
+            "Bed linen provided",
+            "Generator"
+          ]
+        }
+      }
+    },
+    {
+      "id": 26,
+      "slug": "deux-chambres-salon-akpakpa-agblangandan-26",
+      "type": "apartment",
+      "category": "apartment",
+      "location": {
+        "city": "Cotonou",
+        "district": "Agblangandan",
+        "area": "AGBLANGANDAN"
+      },
+      "pays": "Bénin",
+      "price": {
+        "amount": 40000,
+        "currency": "XOF",
+        "period": "night"
+      },
+      "contact": {
+        "phone": "0162757856"
+      },
+      "images": [
+        "/images/apartments/26/1.jpeg",
+        "/images/apartments/26/2.jpeg",
+        "/images/apartments/26/3.jpeg",
+        "/images/apartments/26/4.jpeg",
+        "/images/apartments/26/5.jpeg",
+        "/images/apartments/26/6.jpeg",
+        "/images/apartments/26/7.jpeg",
+        "/images/apartments/26/8.jpeg",
+        "/images/apartments/26/9.jpeg",
+        "/images/apartments/26/10.jpeg",
+        "/images/apartments/26/11.jpeg",
+        "/images/apartments/26/12.jpeg"
+      ],
+      "translations": {
+        "fr": {
+          "title": "DEUX CHAMBRES SALON _ AKPAKPA AGBLANGANDAN",
+          "description": "Appartement de deux chambres salon situé à AKPAKPA AGBLANGANDAN, offrant un cadre de séjour pratique et agréable.",
+          "features": [
+            "2 chambres",
+            "Table à manger",
+            "1 salon avec cuisine( cuisine très bien équipée)",
+            "Douche &visiteur",
+            "Climatisation dans la chambre et au salon",
+            "Télévision au salon",
+            "Canal+, Netflix et wifi disponible.",
+            "Draps fournis",
+            "PS5"
+          ]
+        },
+        "en": {
+          "title": "Two-Bedroom Apartment in Akpakpa AGBLANGANDAN",
+          "description": "Two-bedroom apartment in Akpakpa AGBLANGANDAN, offering a practical and pleasant setting for your stay.",
+          "features": [
+            "2 bedrooms",
+            "Dining table",
+            "Living room with a fully equipped kitchen",
+            "Bathroom and guest toilet",
+            "Air conditioning in the bedroom and living room",
+            "TV in the living room",
+            "Canal+, Netflix and Wi-Fi available",
+            "Bed linen provided",
+            "PS5"
+          ]
+        }
+      }
+    },
+    {
+      "id": 27,
+      "slug": "une-chambre-une-salon-cotonou-agla-27",
+      "type": "apartment",
+      "category": "1-bedroom",
+      "location": {
+        "city": "Cotonou",
+        "district": "Cotonou",
+        "area": "AGLA"
+      },
+      "pays": "Bénin",
+      "price": {
+        "amount": 45000,
+        "currency": "XOF",
+        "period": "night"
+      },
+      "contact": {},
+      "images": [
+        "/images/apartments/27/1.jpeg",
+        "/images/apartments/27/2.jpeg",
+        "/images/apartments/27/3.jpeg",
+        "/images/apartments/27/4.jpeg",
+        "/images/apartments/27/5.jpeg",
+        "/images/apartments/27/6.jpeg",
+        "/images/apartments/27/7.jpeg",
+        "/images/apartments/27/8.jpeg",
+        "/images/apartments/27/9.jpeg",
+        "/images/apartments/27/10.jpeg",
+        "/images/apartments/27/11.jpeg"
+      ],
+      "translations": {
+        "fr": {
+          "title": "UNE CHAMBRE UNE SALON COTONOU AGLA",
+          "description": "Appartement de une chambre salon situé à AGLA, Cotonou, offrant un cadre de séjour pratique et agréable.",
+          "features": [
+            "Cuisine entièrement équipée",
+            "Wi-Fi haut débit illimité",
+            "Smart TV & climatisation",
+            "Eau chaude",
+            "Agent de sécurité 24h/24 – 7j/7",
+            "Parking sécurisé",
+            "Machine à laver"
+          ]
+        },
+        "en": {
+          "title": "One-Bedroom Apartment in Agla, Cotonou",
+          "description": "One-bedroom apartment in Agla, Cotonou, offering a practical and pleasant setting for your stay.",
+          "features": [
+            "Cuisine entièrement équipée",
+            "Wi-Fi haut débit illimité",
+            "Smart TV & climatisation",
+            "Hot water",
+            "24/7 security – 7j/7",
+            "Parking sécurisé",
+            "Washing machine"
+          ]
+        }
+      }
+    },
+    {
+      "id": 28,
+      "slug": "villa-akpakpa-pk10-offrant-une-vue-sur-l-oc-an-28",
+      "type": "villa",
+      "category": "villa",
+      "location": {
+        "city": "Cotonou",
+        "district": "Cotonou",
+        "area": ""
+      },
+      "pays": "Bénin",
+      "price": {
+        "amount": 130000,
+        "currency": "XOF",
+        "period": "night"
+      },
+      "contact": {},
+      "images": [
+        "/images/apartments/28/1.jpeg",
+        "/images/apartments/28/2.jpeg",
+        "/images/apartments/28/3.jpeg",
+        "/images/apartments/28/4.jpeg",
+        "/images/apartments/28/5.jpeg",
+        "/images/apartments/28/6.jpeg",
+        "/images/apartments/28/7.jpeg",
+        "/images/apartments/28/8.jpeg",
+        "/images/apartments/28/9.jpeg",
+        "/images/apartments/28/10.jpeg",
+        "/images/apartments/28/11.jpeg",
+        "/images/apartments/28/12.jpeg",
+        "/images/apartments/28/13.jpeg",
+        "/images/apartments/28/14.jpeg"
+      ],
+      "translations": {
+        "fr": {
+          "title": "VILLA Akpakpa Pk10 offrant une vue sur l’océan.",
+          "description": "Villa située à Akpakpa PK10, offrant un cadre de séjour pratique et agréable, avec une vue sur l’océan.",
+          "features": []
+        },
+        "en": {
+          "title": "Villa in Akpakpa PK10 with Ocean View",
+          "description": "Villa in Akpakpa PK10 with Ocean View, offering a practical and pleasant setting for your stay. It features an ocean view.",
+          "features": []
+        }
+      }
+    },
+    {
+      "id": 29,
+      "slug": "deux-chambres-salon-akpakpa-degakon-29",
+      "type": "apartment",
+      "category": "apartment",
+      "location": {
+        "city": "Cotonou",
+        "district": "Degakon",
+        "area": "DEGAKON"
+      },
+      "pays": "Bénin",
+      "price": {
+        "amount": 45000,
+        "currency": "XOF",
+        "period": "night"
+      },
+      "contact": {
+        "phone": "0162757856"
+      },
+      "images": [
+        "/images/apartments/29/1.jpeg",
+        "/images/apartments/29/2.jpeg",
+        "/images/apartments/29/3.jpeg",
+        "/images/apartments/29/4.jpeg",
+        "/images/apartments/29/5.jpeg",
+        "/images/apartments/29/6.jpeg",
+        "/images/apartments/29/7.jpeg",
+        "/images/apartments/29/8.jpeg",
+        "/images/apartments/29/9.jpeg",
+        "/images/apartments/29/10.jpeg",
+        "/images/apartments/29/11.jpeg",
+        "/images/apartments/29/12.jpeg",
+        "/images/apartments/29/13.jpeg"
+      ],
+      "translations": {
+        "fr": {
+          "title": "DEUX CHAMBRES SALON _ AKPAKPA DEGAKON",
+          "description": "Appartement de deux chambres salon situé à AKPAKPA DEGAKON, offrant un cadre de séjour pratique et agréable.",
+          "features": [
+            "2 chambres",
+            "Table à manger",
+            "1 salon avec cuisine( cuisine très bien équipée)",
+            "Douche &visiteur",
+            "Climatisation dans la chambre et au salon",
+            "Télévision au salon",
+            "Canal+, Netflix et wifi disponible.",
+            "Draps fournis",
+            "PS5"
+          ]
+        },
+        "en": {
+          "title": "Two-Bedroom Apartment in Akpakpa Dègakon",
+          "description": "Two-bedroom apartment in Akpakpa Dègakon, offering a practical and pleasant setting for your stay.",
+          "features": [
+            "2 bedrooms",
+            "Dining table",
+            "Living room with a fully equipped kitchen",
+            "Bathroom and guest toilet",
+            "Air conditioning in the bedroom and living room",
+            "TV in the living room",
+            "Canal+, Netflix and Wi-Fi available",
+            "Bed linen provided",
+            "PS5"
+          ]
+        }
+      }
+    },
+    {
+      "id": 30,
+      "slug": "deux-chambres-salon-akpakpa-agblangandan-30",
+      "type": "apartment",
+      "category": "apartment",
+      "location": {
+        "city": "Cotonou",
+        "district": "Agblangandan",
+        "area": "AGBLANGANDAN"
+      },
+      "pays": "Bénin",
+      "price": {
+        "amount": 45000,
+        "currency": "XOF",
+        "period": "night"
+      },
+      "contact": {
+        "phone": "0162757856"
+      },
+      "images": [
+        "/images/apartments/30/1.jpeg",
+        "/images/apartments/30/2.jpeg",
+        "/images/apartments/30/3.jpeg",
+        "/images/apartments/30/4.jpeg",
+        "/images/apartments/30/5.jpeg",
+        "/images/apartments/30/6.jpeg",
+        "/images/apartments/30/7.jpeg",
+        "/images/apartments/30/8.jpeg",
+        "/images/apartments/30/9.jpeg",
+        "/images/apartments/30/10.jpeg",
+        "/images/apartments/30/11.jpeg"
+      ],
+      "translations": {
+        "fr": {
+          "title": "DEUX CHAMBRES SALON _ AKPAKPA AGBLANGANDAN",
+          "description": "Appartement de deux chambres salon situé à AKPAKPA AGBLANGANDAN, offrant un cadre de séjour pratique et agréable.",
+          "features": [
+            "2 chambres",
+            "Table à manger",
+            "1 salon avec cuisine( cuisine très bien équipée)",
+            "Douche &visiteur",
+            "Climatisation dans la chambre et au salon",
+            "Télévision au salon",
+            "Canal+, Netflix et wifi disponible.",
+            "Draps fournis",
+            "PS5"
+          ]
+        },
+        "en": {
+          "title": "Two-Bedroom Apartment in Akpakpa AGBLANGANDAN",
+          "description": "Two-bedroom apartment in Akpakpa AGBLANGANDAN, offering a practical and pleasant setting for your stay.",
+          "features": [
+            "2 bedrooms",
+            "Dining table",
+            "Living room with a fully equipped kitchen",
+            "Bathroom and guest toilet",
+            "Air conditioning in the bedroom and living room",
+            "TV in the living room",
+            "Canal+, Netflix and Wi-Fi available",
+            "Bed linen provided",
+            "PS5"
+          ]
+        }
+      }
+    },
+    {
+      "id": 31,
+      "slug": "une-chambre-salon-fidjrosse-fiyegnon-31",
+      "type": "apartment",
+      "category": "1-bedroom",
+      "location": {
+        "city": "Cotonou",
+        "district": "Fidjrosse",
+        "area": "FIDJROSSE _FIYEGNON"
+      },
+      "pays": "Bénin",
+      "price": {
+        "amount": 45000,
+        "currency": "XOF",
+        "period": "night"
+      },
+      "contact": {},
+      "images": [
+        "/images/apartments/31/1.jpeg",
+        "/images/apartments/31/2.jpeg",
+        "/images/apartments/31/3.jpeg",
+        "/images/apartments/31/4.jpeg",
+        "/images/apartments/31/5.jpeg",
+        "/images/apartments/31/6.jpeg",
+        "/images/apartments/31/7.jpeg",
+        "/images/apartments/31/8.jpeg",
+        "/images/apartments/31/9.jpeg",
+        "/images/apartments/31/10.jpeg",
+        "/images/apartments/31/11.jpeg",
+        "/images/apartments/31/12.jpeg",
+        "/images/apartments/31/13.jpeg",
+        "/images/apartments/31/14.jpeg"
+      ],
+      "translations": {
+        "fr": {
+          "title": "UNE CHAMBRE SALON FIDJROSSE _FIYEGNON",
+          "description": "Appartement de une chambre salon situé à FIYEGNON, offrant un cadre de séjour pratique et agréable.",
+          "features": [
+            "1 chambre",
+            "1 salon avec cuisine( cuisine très bien équipée)",
+            "Douche",
+            "Climatisation dans la chambre et au salon",
+            "Télévision au salon",
+            "Canal+, Netflix et wifi disponible.",
+            "Draps fournis",
+            "Deuxième étage.",
+            "Balcon"
+          ],
+          "electricity_included": false,
+          "notes": "L’électricité est à la charge du client."
+        },
+        "en": {
+          "title": "One-Bedroom Apartment in Fidjrossè Fiyègnon",
+          "description": "One-bedroom apartment in Fidjrossè Fiyègnon, offering a practical and pleasant setting for your stay.",
+          "features": [
+            "1 bedroom",
+            "Living room with a fully equipped kitchen",
+            "Bathroom",
+            "Air conditioning in the bedroom and living room",
+            "TV in the living room",
+            "Canal+, Netflix and Wi-Fi available",
+            "Bed linen provided",
+            "Deuxième étage.",
+            "Balcony"
+          ],
+          "electricity_included": false,
+          "notes": "Electricity is paid for by the guest."
+        }
+      }
+    },
+    {
+      "id": 32,
+      "slug": "deux-chambres-salon-cotonou-a-djedo-32",
+      "type": "apartment",
+      "category": "apartment",
+      "location": {
+        "city": "Cotonou",
+        "district": "Aïdjedo",
+        "area": "AÏDJEDO"
+      },
+      "pays": "Bénin",
+      "price": {
+        "amount": 45000,
+        "currency": "XOF",
+        "period": "night"
+      },
+      "contact": {},
+      "images": [
+        "/images/apartments/32/1.jpeg",
+        "/images/apartments/32/2.jpeg",
+        "/images/apartments/32/3.jpeg",
+        "/images/apartments/32/4.jpeg",
+        "/images/apartments/32/5.jpeg",
+        "/images/apartments/32/6.jpeg",
+        "/images/apartments/32/7.jpeg",
+        "/images/apartments/32/8.jpeg",
+        "/images/apartments/32/9.jpeg",
+        "/images/apartments/32/10.jpeg",
+        "/images/apartments/32/11.jpeg",
+        "/images/apartments/32/12.jpeg"
+      ],
+      "translations": {
+        "fr": {
+          "title": "DEUX CHAMBRES SALON _ COTONOU AÏDJEDO",
+          "description": "Appartement de deux chambres salon situé à AÏDJEDO, Cotonou, offrant un cadre de séjour pratique et agréable.",
+          "features": [
+            "2 chambres",
+            "Table à manger",
+            "1 salon avec cuisine( cuisine très bien équipée)",
+            "Douche",
+            "Climatisation dans la chambre et au salon",
+            "Télévision au salon",
+            "Canal+, Netflix et wifi disponible.",
+            "Draps fournis"
+          ]
+        },
+        "en": {
+          "title": "Two-Bedroom Apartment in Aïdjèdo, Cotonou",
+          "description": "Two-bedroom apartment in Aïdjèdo, Cotonou, offering a practical and pleasant setting for your stay.",
+          "features": [
+            "2 bedrooms",
+            "Dining table",
+            "Living room with a fully equipped kitchen",
+            "Bathroom",
+            "Air conditioning in the bedroom and living room",
+            "TV in the living room",
+            "Canal+, Netflix and Wi-Fi available",
+            "Bed linen provided"
+          ]
+        }
+      }
+    },
+    {
+      "id": 33,
+      "slug": "villa-cotonou-fidjrosse-33",
+      "type": "villa",
+      "category": "villa",
+      "location": {
+        "city": "Cotonou",
+        "district": "Cotonou",
+        "area": ""
+      },
+      "pays": "Bénin",
+      "price": {
+        "amount": 150000,
+        "currency": "XOF",
+        "period": "night"
+      },
+      "contact": {},
+      "images": [
+        "/images/apartments/33/1.jpeg",
+        "/images/apartments/33/2.jpeg",
+        "/images/apartments/33/3.jpeg",
+        "/images/apartments/33/4.jpeg",
+        "/images/apartments/33/5.jpeg",
+        "/images/apartments/33/6.jpeg",
+        "/images/apartments/33/7.jpeg",
+        "/images/apartments/33/8.jpeg",
+        "/images/apartments/33/9.jpeg",
+        "/images/apartments/33/10.jpeg",
+        "/images/apartments/33/11.jpeg",
+        "/images/apartments/33/12.jpeg",
+        "/images/apartments/33/13.jpeg",
+        "/images/apartments/33/14.jpeg",
+        "/images/apartments/33/15.jpeg",
+        "/images/apartments/33/16.jpeg"
+      ],
+      "translations": {
+        "fr": {
+          "title": "VILLA COTONOU FIDJROSSE",
+          "description": "Villa située à FIDJROSSE, Cotonou, offrant un cadre de séjour pratique et agréable.",
+          "features": []
+        },
+        "en": {
+          "title": "Villa in Fidjrossè, Cotonou",
+          "description": "Villa in Fidjrossè, Cotonou, offering a practical and pleasant setting for your stay.",
+          "features": []
+        }
+      }
+    },
+    {
+      "id": 34,
+      "slug": "deux-chambres-salon-cotonou-sainte-rita-34",
+      "type": "apartment",
+      "category": "apartment",
+      "location": {
+        "city": "Cotonou",
+        "district": "Sainte",
+        "area": "SAINTE RITA"
+      },
+      "pays": "Bénin",
+      "price": {
+        "amount": 50000,
+        "currency": "XOF",
+        "period": "night"
+      },
+      "contact": {},
+      "images": [
+        "/images/apartments/34/1.jpeg",
+        "/images/apartments/34/2.jpeg",
+        "/images/apartments/34/3.jpeg",
+        "/images/apartments/34/4.jpeg",
+        "/images/apartments/34/5.jpeg",
+        "/images/apartments/34/6.jpeg",
+        "/images/apartments/34/7.jpeg",
+        "/images/apartments/34/8.jpeg",
+        "/images/apartments/34/9.jpeg"
+      ],
+      "translations": {
+        "fr": {
+          "title": "DEUX CHAMBRES SALON _ COTONOU SAINTE RITA",
+          "description": "Appartement de deux chambres salon situé à SAINTE RITA, Cotonou, offrant un cadre de séjour pratique et agréable.",
+          "features": [
+            "2 chambres",
+            "Table à manger",
+            "1 salon avec cuisine( cuisine très bien équipée)",
+            "Douche",
+            "Climatisation dans la chambre et au salon",
+            "Télévision au salon",
+            "Canal+, Netflix et wifi disponible.",
+            "Draps fournis"
+          ]
+        },
+        "en": {
+          "title": "Two-Bedroom Apartment in SAINTE RITA",
+          "description": "Two-bedroom apartment in SAINTE RITA, offering a practical and pleasant setting for your stay.",
+          "features": [
+            "2 bedrooms",
+            "Dining table",
+            "Living room with a fully equipped kitchen",
+            "Bathroom",
+            "Air conditioning in the bedroom and living room",
+            "TV in the living room",
+            "Canal+, Netflix and Wi-Fi available",
+            "Bed linen provided"
+          ]
+        }
+      }
+    },
+    {
+      "id": 35,
+      "slug": "deux-chambres-salon-akpakpa-cine-concorde-35",
+      "type": "apartment",
+      "category": "apartment",
+      "location": {
+        "city": "Cotonou",
+        "district": "Cine",
+        "area": "CINE CONCORDE"
+      },
+      "pays": "Bénin",
+      "price": {
+        "amount": 110000,
+        "currency": "XOF",
+        "period": "night"
+      },
+      "contact": {},
+      "images": [
+        "/images/apartments/35/1.jpeg",
+        "/images/apartments/35/2.jpeg",
+        "/images/apartments/35/3.jpeg",
+        "/images/apartments/35/4.jpeg",
+        "/images/apartments/35/5.jpeg",
+        "/images/apartments/35/6.jpeg",
+        "/images/apartments/35/7.jpeg",
+        "/images/apartments/35/8.jpeg",
+        "/images/apartments/35/9.jpeg",
+        "/images/apartments/35/10.jpeg",
+        "/images/apartments/35/11.jpeg",
+        "/images/apartments/35/12.jpeg"
+      ],
+      "translations": {
+        "fr": {
+          "title": "DEUX CHAMBRES SALON _ AKPAKPA CINE CONCORDE",
+          "description": "Appartement de deux chambres salon situé à AKPAKPA CINE CONCORDE, offrant un cadre de séjour pratique et agréable.",
+          "features": [
+            "2 chambres",
+            "Table à manger",
+            "1 salon avec cuisine( cuisine très bien équipée)",
+            "Douche",
+            "Climatisation dans la chambre et au salon",
+            "Télévision au salon",
+            "Canal+, Netflix et wifi disponible.",
+            "Draps fournis",
+            "GROUPE ÉLECTROGÈNE"
+          ]
+        },
+        "en": {
+          "title": "Two-Bedroom Apartment in Akpakpa CINE CONCORDE",
+          "description": "Two-bedroom apartment in Akpakpa CINE CONCORDE, offering a practical and pleasant setting for your stay.",
+          "features": [
+            "2 bedrooms",
+            "Dining table",
+            "Living room with a fully equipped kitchen",
+            "Bathroom",
+            "Air conditioning in the bedroom and living room",
+            "TV in the living room",
+            "Canal+, Netflix and Wi-Fi available",
+            "Bed linen provided",
+            "Generator"
+          ]
+        }
+      }
+    },
+    {
+      "id": 36,
+      "slug": "villa-cotonou-fidjrosse-36",
+      "type": "villa",
+      "category": "villa",
+      "location": {
+        "city": "Cotonou",
+        "district": "Cotonou",
+        "area": ""
+      },
+      "pays": "Bénin",
+      "price": {
+        "amount": 200000,
+        "currency": "XOF",
+        "period": "night"
+      },
+      "contact": {},
+      "images": [
+        "/images/apartments/36/1.jpeg",
+        "/images/apartments/36/2.jpeg",
+        "/images/apartments/36/3.jpeg",
+        "/images/apartments/36/4.jpeg",
+        "/images/apartments/36/5.jpeg",
+        "/images/apartments/36/6.jpeg",
+        "/images/apartments/36/7.jpeg",
+        "/images/apartments/36/8.jpeg",
+        "/images/apartments/36/9.jpeg",
+        "/images/apartments/36/10.jpeg",
+        "/images/apartments/36/11.jpeg",
+        "/images/apartments/36/12.jpeg"
+      ],
+      "translations": {
+        "fr": {
+          "title": "VILLA COTONOU FIDJROSSE",
+          "description": "Villa située à FIDJROSSE, Cotonou, offrant un cadre de séjour pratique et agréable.",
+          "features": []
+        },
+        "en": {
+          "title": "Villa in Fidjrossè, Cotonou",
+          "description": "Villa in Fidjrossè, Cotonou, offering a practical and pleasant setting for your stay.",
+          "features": []
+        }
+      }
+    },
+    {
+      "id": 37,
+      "slug": "studio-akpakpa-avotrou-37",
+      "type": "studio",
+      "category": "studio",
+      "location": {
+        "city": "Cotonou",
+        "district": "Akpakpa",
+        "area": "AVOTROU"
+      },
+      "pays": "Bénin",
+      "price": {
+        "amount": 25000,
+        "currency": "XOF",
+        "period": "night"
+      },
+      "contact": {},
+      "images": [
+        "/images/apartments/37/1.jpeg",
+        "/images/apartments/37/2.jpeg",
+        "/images/apartments/37/3.jpeg",
+        "/images/apartments/37/4.jpeg",
+        "/images/apartments/37/5.jpeg",
+        "/images/apartments/37/6.jpeg",
+        "/images/apartments/37/7.jpeg",
+        "/images/apartments/37/8.jpeg",
+        "/images/apartments/37/9.jpeg",
+        "/images/apartments/37/10.jpeg",
+        "/images/apartments/37/11.jpeg"
+      ],
+      "translations": {
+        "fr": {
+          "title": "STUDIO AKPAKPA AVOTROU",
+          "description": "Studio situé à AKPAKPA AVOTROU, offrant un cadre de séjour pratique et agréable.",
+          "features": [
+            "Chambre spacieux",
+            "Climatisation",
+            "Cuisine moderne équipée",
+            "Toilette",
+            "Internet haut débit (Fibre optique)",
+            "TV Canal+ & Netflix",
+            "Fer à repasser",
+            "Service de ménage",
+            "Parking (libre accès)",
+            "Sécurité assurée (gardien 24h/24"
+          ]
+        },
+        "en": {
+          "title": "Studio in Akpakpa AVOTROU",
+          "description": "Studio in Akpakpa AVOTROU, offering a practical and pleasant setting for your stay.",
+          "features": [
+            "Spacious bedroom",
+            "Air conditioning",
+            "Modern fully equipped kitchen",
+            "Toilet",
+            "High-speed fiber-optic internet",
+            "Canal+ TV and Netflix",
+            "Iron",
+            "Cleaning service",
+            "Parking (open access)",
+            "24/7 security guard"
+          ]
+        }
+      }
+    },
+    {
+      "id": 38,
+      "slug": "duplex-une-chambre-salon-avec-jacuzzi-akpakpa-avotrou-38",
+      "type": "duplex",
+      "category": "1-bedroom",
+      "location": {
+        "city": "Cotonou",
+        "district": "Akpakpa",
+        "area": "AVOTROU"
+      },
+      "pays": "Bénin",
+      "price": {
+        "amount": 35000,
+        "currency": "XOF",
+        "period": "night"
+      },
+      "contact": {},
+      "images": [
+        "/images/apartments/38/1.jpeg",
+        "/images/apartments/38/2.jpeg",
+        "/images/apartments/38/3.jpeg",
+        "/images/apartments/38/4.jpeg",
+        "/images/apartments/38/5.jpeg",
+        "/images/apartments/38/6.jpeg",
+        "/images/apartments/38/7.jpeg",
+        "/images/apartments/38/8.jpeg",
+        "/images/apartments/38/9.jpeg",
+        "/images/apartments/38/10.jpeg",
+        "/images/apartments/38/11.jpeg",
+        "/images/apartments/38/12.jpeg",
+        "/images/apartments/38/13.jpeg",
+        "/images/apartments/38/14.jpeg"
+      ],
+      "translations": {
+        "fr": {
+          "title": "DUPLEX UNE CHAMBRE SALON AVEC JACUZZI AKPAKPA AVOTROU",
+          "description": "Duplex d’une chambre salon situé à AKPAKPA AVOTROU, offrant un cadre de séjour pratique et agréable, avec un jacuzzi.",
+          "features": [
+            "Chambre spacieux",
+            "Climatisation",
+            "Cuisine moderne équipée",
+            "Toilette",
+            "Internet haut débit (Fibre optique)",
+            "TV Canal+ & Netflix",
+            "Fer à repasser",
+            "Service de ménage",
+            "Parking (libre accès)",
+            "Sécurité assurée (gardien 24h/24"
+          ]
+        },
+        "en": {
+          "title": "Duplex One-Bedroom Apartment with Jacuzzi in Akpakpa AVOTROU",
+          "description": "One-bedroom duplex in Akpakpa AVOTROU, offering a practical and pleasant setting for your stay. It features a jacuzzi.",
+          "features": [
+            "Spacious bedroom",
+            "Air conditioning",
+            "Modern fully equipped kitchen",
+            "Toilet",
+            "High-speed fiber-optic internet",
+            "Canal+ TV and Netflix",
+            "Iron",
+            "Cleaning service",
+            "Parking (open access)",
+            "24/7 security guard"
+          ]
+        }
+      }
+    },
+    {
+      "id": 39,
+      "slug": "studio-avec-piscine-situ-a-grand-popo-39",
+      "type": "studio",
+      "category": "studio",
+      "location": {
+        "city": "Grand-Popo",
+        "district": "Grand Popo",
+        "area": "SITUÉ A"
+      },
+      "pays": "Bénin",
+      "price": {
+        "amount": 60000,
+        "currency": "XOF",
+        "period": "night"
+      },
+      "contact": {},
+      "images": [
+        "/images/apartments/39/1.jpeg",
+        "/images/apartments/39/2.jpeg",
+        "/images/apartments/39/3.jpeg",
+        "/images/apartments/39/4.jpeg",
+        "/images/apartments/39/5.jpeg",
+        "/images/apartments/39/6.jpeg",
+        "/images/apartments/39/7.jpeg",
+        "/images/apartments/39/8.jpeg",
+        "/images/apartments/39/9.jpeg"
+      ],
+      "translations": {
+        "fr": {
+          "title": "STUDIO AVEC PISCINE SITUÉ A GRAND POPO",
+          "description": "Studio situé à GRAND POPO, offrant un cadre de séjour pratique et agréable, avec une piscine.",
+          "features": [
+            "Chambre spacieux",
+            "Climatisation",
+            "Cuisine moderne équipée",
+            "Toilette",
+            "Internet haut débit (Fibre optique)",
+            "TV Canal+ & Netflix",
+            "Fer à repasser",
+            "Service de ménage",
+            "Parking (libre accès)",
+            "Sécurité assurée (gardien 24h/24",
+            "Accès piscine"
+          ]
+        },
+        "en": {
+          "title": "Studio with Pool in Grand-Popo",
+          "description": "Studio in Grand-Popo, offering a practical and pleasant setting for your stay. It features a swimming pool.",
+          "features": [
+            "Spacious bedroom",
+            "Air conditioning",
+            "Modern fully equipped kitchen",
+            "Toilet",
+            "High-speed fiber-optic internet",
+            "Canal+ TV and Netflix",
+            "Iron",
+            "Cleaning service",
+            "Parking (open access)",
+            "24/7 security guard",
+            "Pool access"
+          ]
+        }
+      }
+    },
+    {
+      "id": 40,
+      "slug": "studio-avec-piscine-situ-a-grand-popo-40",
+      "type": "studio",
+      "category": "studio",
+      "location": {
+        "city": "Grand-Popo",
+        "district": "Grand Popo",
+        "area": "SITUÉ A"
+      },
+      "pays": "Bénin",
+      "price": {
+        "amount": 60000,
+        "currency": "XOF",
+        "period": "night"
+      },
+      "contact": {},
+      "images": [
+        "/images/apartments/40/1.jpeg",
+        "/images/apartments/40/2.jpeg",
+        "/images/apartments/40/3.jpeg",
+        "/images/apartments/40/4.jpeg",
+        "/images/apartments/40/5.jpeg",
+        "/images/apartments/40/6.jpeg",
+        "/images/apartments/40/7.jpeg",
+        "/images/apartments/40/8.jpeg"
+      ],
+      "translations": {
+        "fr": {
+          "title": "STUDIO AVEC PISCINE SITUÉ A GRAND POPO",
+          "description": "Studio situé à GRAND POPO, offrant un cadre de séjour pratique et agréable, avec une piscine.",
+          "features": [
+            "Chambre spacieux",
+            "Climatisation",
+            "Cuisine moderne équipée",
+            "Toilette",
+            "Internet haut débit (Fibre optique)",
+            "TV Canal+ & Netflix",
+            "Fer à repasser",
+            "Service de ménage",
+            "Parking (libre accès)",
+            "Sécurité assurée (gardien 24h/24",
+            "Accès piscine"
+          ]
+        },
+        "en": {
+          "title": "Studio with Pool in Grand-Popo",
+          "description": "Studio in Grand-Popo, offering a practical and pleasant setting for your stay. It features a swimming pool.",
+          "features": [
+            "Spacious bedroom",
+            "Air conditioning",
+            "Modern fully equipped kitchen",
+            "Toilet",
+            "High-speed fiber-optic internet",
+            "Canal+ TV and Netflix",
+            "Iron",
+            "Cleaning service",
+            "Parking (open access)",
+            "24/7 security guard",
+            "Pool access"
+          ]
+        }
+      }
+    },
+    {
+      "id": 41,
+      "slug": "trois-chambres-salon-avec-piscine-et-jacuzzi-situ-a-ouidah-41",
+      "type": "apartment",
+      "category": "apartment",
+      "location": {
+        "city": "Ouidah",
+        "district": "Ouidah",
+        "area": "SITUÉ A"
+      },
+      "pays": "Bénin",
+      "price": {
+        "amount": 150000,
+        "currency": "XOF",
+        "period": "night"
+      },
+      "contact": {},
+      "images": [
+        "/images/apartments/41/1.jpeg",
+        "/images/apartments/41/2.jpeg",
+        "/images/apartments/41/3.jpeg",
+        "/images/apartments/41/4.jpeg",
+        "/images/apartments/41/5.jpeg",
+        "/images/apartments/41/6.jpeg",
+        "/images/apartments/41/7.jpeg",
+        "/images/apartments/41/8.jpeg",
+        "/images/apartments/41/9.jpeg"
+      ],
+      "translations": {
+        "fr": {
+          "title": "TROIS CHAMBRES SALON AVEC PISCINE ET JACUZZI SITUÉ A OUIDAH",
+          "description": "Appartement de trois chambres salon situé à OUIDAH, offrant un cadre de séjour pratique et agréable, avec une piscine et un jacuzzi.",
+          "features": [
+            "3 chambres",
+            "Table à manger",
+            "1 salon avec cuisine( cuisine très bien équipée)",
+            "Douche",
+            "Climatisation dans la chambre et au salon",
+            "Télévision au salon",
+            "Canal+, Netflix et wifi disponible.",
+            "Draps fournis",
+            "GROUPE ÉLECTROGÈNE"
+          ]
+        },
+        "en": {
+          "title": "Three-Bedroom Apartment with Pool and Jacuzzi in Ouidah",
+          "description": "Three-bedroom apartment in Ouidah, offering a practical and pleasant setting for your stay. It features a swimming pool and a jacuzzi.",
+          "features": [
+            "3 bedrooms",
+            "Dining table",
+            "Living room with a fully equipped kitchen",
+            "Bathroom",
+            "Air conditioning in the bedroom and living room",
+            "TV in the living room",
+            "Canal+, Netflix and Wi-Fi available",
+            "Bed linen provided",
+            "Generator"
+          ]
+        }
+      }
+    },
+    {
+      "id": 42,
+      "slug": "deux-chambres-salon-avec-piscine-et-jacuzzi-situ-a-ouidah-42",
+      "type": "apartment",
+      "category": "apartment",
+      "location": {
+        "city": "Ouidah",
+        "district": "Ouidah",
+        "area": "SITUÉ A"
+      },
+      "pays": "Bénin",
+      "price": {
+        "amount": 40000,
+        "currency": "XOF",
+        "period": "night"
+      },
+      "contact": {},
+      "images": [
+        "/images/apartments/42/1.jpeg",
+        "/images/apartments/42/2.jpeg",
+        "/images/apartments/42/3.jpeg",
+        "/images/apartments/42/4.jpeg",
+        "/images/apartments/42/5.jpeg",
+        "/images/apartments/42/6.jpeg",
+        "/images/apartments/42/7.jpeg",
+        "/images/apartments/42/8.jpeg",
+        "/images/apartments/42/9.jpeg",
+        "/images/apartments/42/10.jpeg"
+      ],
+      "translations": {
+        "fr": {
+          "title": "DEUX CHAMBRES SALON AVEC PISCINE ET JACUZZI SITUÉ A OUIDAH",
+          "description": "Appartement de deux chambres salon situé à OUIDAH, offrant un cadre de séjour pratique et agréable, avec une piscine et un jacuzzi.",
+          "features": [
+            "2 chambres",
+            "Table à manger",
+            "1 salon avec cuisine( cuisine très bien équipée)",
+            "Douche",
+            "Climatisation dans la chambre et au salon",
+            "Télévision au salon",
+            "Canal+, Netflix et wifi disponible.",
+            "Draps fournis",
+            "GROUPE ÉLECTROGÈNE"
+          ]
+        },
+        "en": {
+          "title": "Two-Bedroom Apartment with Pool and Jacuzzi in Ouidah",
+          "description": "Two-bedroom apartment in Ouidah, offering a practical and pleasant setting for your stay. It features a swimming pool and a jacuzzi.",
+          "features": [
+            "2 bedrooms",
+            "Dining table",
+            "Living room with a fully equipped kitchen",
+            "Bathroom",
+            "Air conditioning in the bedroom and living room",
+            "TV in the living room",
+            "Canal+, Netflix and Wi-Fi available",
+            "Bed linen provided",
+            "Generator"
+          ]
+        }
+      }
+    },
+    {
+      "id": 43,
+      "slug": "une-chambre-salon-avec-piscine-et-jacuzzi-situ-a-ouidah-43",
+      "type": "apartment",
+      "category": "1-bedroom",
+      "location": {
+        "city": "Ouidah",
+        "district": "Ouidah",
+        "area": "SITUÉ A"
+      },
+      "pays": "Bénin",
+      "price": {
+        "amount": 30000,
+        "currency": "XOF",
+        "period": "night"
+      },
+      "contact": {},
+      "images": [
+        "/images/apartments/43/1.jpeg",
+        "/images/apartments/43/2.jpeg",
+        "/images/apartments/43/3.jpeg",
+        "/images/apartments/43/4.jpeg",
+        "/images/apartments/43/5.jpeg",
+        "/images/apartments/43/6.jpeg",
+        "/images/apartments/43/7.jpeg",
+        "/images/apartments/43/8.jpeg",
+        "/images/apartments/43/9.jpeg"
+      ],
+      "translations": {
+        "fr": {
+          "title": "UNE CHAMBRE SALON AVEC PISCINE ET JACUZZI SITUÉ A OUIDAH",
+          "description": "Appartement de une chambre salon situé à OUIDAH, offrant un cadre de séjour pratique et agréable, avec une piscine et un jacuzzi.",
+          "features": [
+            "1 chambre",
+            "1 salon avec cuisine( cuisine très bien équipée)",
+            "Douche",
+            "Climatisation dans la chambre et au salon",
+            "Télévision au salon",
+            "Canal+, Netflix et wifi disponible.",
+            "Draps fournis",
+            "GROUPE ÉLECTROGÈNE"
+          ]
+        },
+        "en": {
+          "title": "One-Bedroom Apartment with Pool and Jacuzzi in Ouidah",
+          "description": "One-bedroom apartment in Ouidah, offering a practical and pleasant setting for your stay. It features a swimming pool and a jacuzzi.",
+          "features": [
+            "1 bedroom",
+            "Living room with a fully equipped kitchen",
+            "Bathroom",
+            "Air conditioning in the bedroom and living room",
+            "TV in the living room",
+            "Canal+, Netflix and Wi-Fi available",
+            "Bed linen provided",
+            "Generator"
+          ]
+        }
+      }
+    },
+    {
+      "id": 44,
+      "slug": "trois-chambres-salon-cotonou-ouidah-44",
+      "type": "apartment",
+      "category": "apartment",
+      "location": {
+        "city": "Ouidah",
+        "district": "Ouidah",
+        "area": "OUIDAH"
+      },
+      "pays": "Bénin",
+      "price": {
+        "amount": 150000,
+        "currency": "XOF",
+        "period": "night"
+      },
+      "contact": {},
+      "images": [
+        "/images/apartments/44/1.jpeg",
+        "/images/apartments/44/2.jpeg",
+        "/images/apartments/44/3.jpeg",
+        "/images/apartments/44/4.jpeg",
+        "/images/apartments/44/5.jpeg",
+        "/images/apartments/44/6.jpeg",
+        "/images/apartments/44/7.jpeg",
+        "/images/apartments/44/8.jpeg",
+        "/images/apartments/44/9.jpeg",
+        "/images/apartments/44/10.jpeg",
+        "/images/apartments/44/11.jpeg"
+      ],
+      "translations": {
+        "fr": {
+          "title": "TROIS CHAMBRES SALON _ COTONOU OUIDAH",
+          "description": "Appartement de trois chambres salon situé à OUIDAH, Cotonou, offrant un cadre de séjour pratique et agréable.",
+          "features": [
+            "3chambres",
+            "Table à manger",
+            "1 salon avec cuisine( cuisine très bien équipée)",
+            "Douche",
+            "Climatisation dans la chambre et au salon",
+            "Télévision au salon",
+            "Canal+, Netflix et wifi disponible.",
+            "Draps fournis",
+            "Gardiennage",
+            "Groupe électrogène"
+          ],
+          "electricity_included": false,
+          "notes": "L’électricité est à la charge du client."
+        },
+        "en": {
+          "title": "Three-Bedroom Apartment in Ouidah",
+          "description": "Three-bedroom apartment in Ouidah, offering a practical and pleasant setting for your stay.",
+          "features": [
+            "3bedrooms",
+            "Dining table",
+            "Living room with a fully equipped kitchen",
+            "Bathroom",
+            "Air conditioning in the bedroom and living room",
+            "TV in the living room",
+            "Canal+, Netflix and Wi-Fi available",
+            "Bed linen provided",
+            "Security service",
+            "Generator"
+          ],
+          "electricity_included": false,
+          "notes": "Electricity is paid for by the guest."
+        }
+      }
+    },
+    {
+      "id": 45,
+      "slug": "deux-chambres-salon-cotonou-fidjrosse-45",
+      "type": "apartment",
+      "category": "apartment",
+      "location": {
+        "city": "Cotonou",
+        "district": "Fidjrosse",
+        "area": "FIDJROSSE"
+      },
+      "pays": "Bénin",
+      "price": {
+        "amount": 70000,
+        "currency": "XOF",
+        "period": "night"
+      },
+      "contact": {
+        "phone": "0162757856"
+      },
+      "images": [
+        "/images/apartments/45/1.jpeg",
+        "/images/apartments/45/2.jpeg",
+        "/images/apartments/45/3.jpeg",
+        "/images/apartments/45/4.jpeg",
+        "/images/apartments/45/5.jpeg",
+        "/images/apartments/45/6.jpeg",
+        "/images/apartments/45/7.jpeg",
+        "/images/apartments/45/8.jpeg",
+        "/images/apartments/45/9.jpeg",
+        "/images/apartments/45/10.jpeg",
+        "/images/apartments/45/11.jpeg"
+      ],
+      "translations": {
+        "fr": {
+          "title": "DEUX CHAMBRES SALON _ COTONOU FIDJROSSE",
+          "description": "Appartement de deux chambres salon situé à FIDJROSSE, Cotonou, offrant un cadre de séjour pratique et agréable.",
+          "features": [
+            "2 chambres",
+            "Table à manger",
+            "1 salon avec cuisine( cuisine très bien équipée)",
+            "Douche",
+            "Climatisation dans la chambre et au salon",
+            "Télévision au salon",
+            "Canal+, Netflix et wifi disponible.",
+            "Draps fournis",
+            "Gardiennage",
+            "Groupe électrogène",
+            "Machine à laver",
+            "Sèche linge"
+          ],
+          "electricity_included": false,
+          "notes": "L’électricité est à la charge du client."
+        },
+        "en": {
+          "title": "Two-Bedroom Apartment in Fidjrossè, Cotonou",
+          "description": "Two-bedroom apartment in Fidjrossè, Cotonou, offering a practical and pleasant setting for your stay.",
+          "features": [
+            "2 bedrooms",
+            "Dining table",
+            "Living room with a fully equipped kitchen",
+            "Bathroom",
+            "Air conditioning in the bedroom and living room",
+            "TV in the living room",
+            "Canal+, Netflix and Wi-Fi available",
+            "Bed linen provided",
+            "Security service",
+            "Generator",
+            "Washing machine",
+            "Dryer"
+          ],
+          "electricity_included": false,
+          "notes": "Electricity is paid for by the guest."
+        }
+      }
+    },
+    {
+      "id": 46,
+      "slug": "deux-chambres-salon-entr-epersonnelle-cotonou-fifadji-46",
+      "type": "apartment",
+      "category": "apartment",
+      "location": {
+        "city": "Cotonou",
+        "district": "Fifadji",
+        "area": "FIFADJI"
+      },
+      "pays": "Bénin",
+      "price": {
+        "amount": 7856,
+        "currency": "XOF",
+        "period": "night"
+      },
+      "contact": {
+        "phone": "0162757856"
+      },
+      "images": [
+        "/images/apartments/46/1.jpeg",
+        "/images/apartments/46/2.jpeg",
+        "/images/apartments/46/3.jpeg",
+        "/images/apartments/46/4.jpeg",
+        "/images/apartments/46/5.jpeg",
+        "/images/apartments/46/6.jpeg",
+        "/images/apartments/46/7.jpeg",
+        "/images/apartments/46/8.jpeg",
+        "/images/apartments/46/9.jpeg",
+        "/images/apartments/46/10.jpeg",
+        "/images/apartments/46/11.jpeg",
+        "/images/apartments/46/12.jpeg",
+        "/images/apartments/46/13.jpeg"
+      ],
+      "translations": {
+        "fr": {
+          "title": "DEUX CHAMBRES SALON ENTRÉEPERSONNELLE_ COTONOU FIFADJI",
+          "description": "Appartement de deux chambres salon situé à FIFADJI, Cotonou, offrant un cadre de séjour pratique et agréable, avec une entrée indépendante.",
+          "features": [
+            "2 chambres",
+            "Table à manger",
+            "1 salon avec cuisine( cuisine très bien équipée)",
+            "Douche & Visiteur",
+            "Climatisation dans la chambre et au salon",
+            "Télévision au salon",
+            "Canal+, Netflix et wifi disponible.",
+            "Draps fournis",
+            "Gardiennage",
+            "Groupe électrogène"
+          ],
+          "electricity_included": false,
+          "notes": "L’électricité est à la charge du client."
+        },
+        "en": {
+          "title": "Two-Bedroom Apartment with Private Entrance in FIFADJI",
+          "description": "Two-bedroom apartment in FIFADJI, offering a practical and pleasant setting for your stay. It features a private entrance.",
+          "features": [
+            "2 bedrooms",
+            "Dining table",
+            "Living room with a fully equipped kitchen",
+            "Bathroom and guest toilet",
+            "Air conditioning in the bedroom and living room",
+            "TV in the living room",
+            "Canal+, Netflix and Wi-Fi available",
+            "Bed linen provided",
+            "Security service",
+            "Generator"
+          ],
+          "electricity_included": false,
+          "notes": "Electricity is paid for by the guest."
+        }
+      }
+    },
+    {
+      "id": 47,
+      "slug": "une-chambre-salon-akpakpa-avotrou-47",
+      "type": "apartment",
+      "category": "1-bedroom",
+      "location": {
+        "city": "Cotonou",
+        "district": "Cotonou",
+        "area": ""
+      },
+      "pays": "Bénin",
+      "price": {
+        "amount": 30000,
+        "currency": "XOF",
+        "period": "night"
+      },
+      "contact": {},
+      "images": [
+        "/images/apartments/47/1.jpeg",
+        "/images/apartments/47/2.jpeg",
+        "/images/apartments/47/3.jpeg",
+        "/images/apartments/47/4.jpeg",
+        "/images/apartments/47/5.jpeg",
+        "/images/apartments/47/6.jpeg",
+        "/images/apartments/47/7.jpeg",
+        "/images/apartments/47/8.jpeg",
+        "/images/apartments/47/9.jpeg",
+        "/images/apartments/47/10.jpeg",
+        "/images/apartments/47/11.jpeg",
+        "/images/apartments/47/12.jpeg"
+      ],
+      "translations": {
+        "fr": {
+          "title": "UNE CHAMBRE SALON AKPAKPA AVOTROU",
+          "description": "Appartement de une chambre salon situé à AKPAKPA AVOTROU, offrant un cadre de séjour pratique et agréable.",
+          "features": [
+            "1 chambre",
+            "1 salon avec cuisine( cuisine très bien équipée)",
+            "Douche",
+            "Climatisation dans la chambre et au salon",
+            "Télévision au salon",
+            "Canal+, Netflix et wifi disponible.",
+            "Draps fournis",
+            "Agent de sécurité 24h/24",
+            "3eme étage."
+          ],
+          "electricity_included": false,
+          "notes": "L’électricité est à la charge du client."
+        },
+        "en": {
+          "title": "One-Bedroom Apartment in Akpakpa AVOTROU",
+          "description": "One-bedroom apartment in Akpakpa AVOTROU, offering a practical and pleasant setting for your stay.",
+          "features": [
+            "1 bedroom",
+            "Living room with a fully equipped kitchen",
+            "Bathroom",
+            "Air conditioning in the bedroom and living room",
+            "TV in the living room",
+            "Canal+, Netflix and Wi-Fi available",
+            "Bed linen provided",
+            "24/7 security",
+            "Third floor"
+          ],
+          "electricity_included": false,
+          "notes": "Electricity is paid for by the guest."
+        }
+      }
+    },
+    {
+      "id": 48,
+      "slug": "une-chambre-salon-akpakpa-avotrou-48",
+      "type": "apartment",
+      "category": "1-bedroom",
+      "location": {
+        "city": "Cotonou",
+        "district": "Cotonou",
+        "area": ""
+      },
+      "pays": "Bénin",
+      "price": {
+        "amount": 25000,
+        "currency": "XOF",
+        "period": "night"
+      },
+      "contact": {},
+      "images": [
+        "/images/apartments/48/1.jpeg",
+        "/images/apartments/48/2.jpeg",
+        "/images/apartments/48/3.jpeg",
+        "/images/apartments/48/4.jpeg",
+        "/images/apartments/48/5.jpeg",
+        "/images/apartments/48/6.jpeg",
+        "/images/apartments/48/7.jpeg"
+      ],
+      "translations": {
+        "fr": {
+          "title": "UNE CHAMBRE SALON AKPAKPA AVOTROU",
+          "description": "Appartement de une chambre salon situé à AKPAKPA AVOTROU, offrant un cadre de séjour pratique et agréable.",
+          "features": [
+            "1 chambre",
+            "1 salon avec cuisine( cuisine très bien équipée)",
+            "Douche",
+            "Climatisation dans la chambre et au salon",
+            "Télévision au salon",
+            "Canal+, Netflix et wifi disponible.",
+            "Draps fournis",
+            "Agent de sécurité 24h/24"
+          ],
+          "electricity_included": false,
+          "notes": "L’électricité est à la charge du client."
+        },
+        "en": {
+          "title": "One-Bedroom Apartment in Akpakpa AVOTROU",
+          "description": "One-bedroom apartment in Akpakpa AVOTROU, offering a practical and pleasant setting for your stay.",
+          "features": [
+            "1 bedroom",
+            "Living room with a fully equipped kitchen",
+            "Bathroom",
+            "Air conditioning in the bedroom and living room",
+            "TV in the living room",
+            "Canal+, Netflix and Wi-Fi available",
+            "Bed linen provided",
+            "24/7 security"
+          ],
+          "electricity_included": false,
+          "notes": "Electricity is paid for by the guest."
+        }
+      }
+    },
+    {
+      "id": 49,
+      "slug": "une-chambre-salon-akpakpa-avotrou-49",
+      "type": "apartment",
+      "category": "1-bedroom",
+      "location": {
+        "city": "Cotonou",
+        "district": "Cotonou",
+        "area": ""
+      },
+      "pays": "Bénin",
+      "price": {
+        "amount": 25000,
+        "currency": "XOF",
+        "period": "night"
+      },
+      "contact": {},
+      "images": [
+        "/images/apartments/49/1.jpeg",
+        "/images/apartments/49/2.jpeg",
+        "/images/apartments/49/3.jpeg",
+        "/images/apartments/49/4.jpeg",
+        "/images/apartments/49/5.jpeg",
+        "/images/apartments/49/6.jpeg",
+        "/images/apartments/49/7.jpeg",
+        "/images/apartments/49/8.jpeg",
+        "/images/apartments/49/9.jpeg",
+        "/images/apartments/49/10.jpeg"
+      ],
+      "translations": {
+        "fr": {
+          "title": "UNE CHAMBRE SALON AKPAKPA AVOTROU",
+          "description": "Appartement de une chambre salon situé à AKPAKPA AVOTROU, offrant un cadre de séjour pratique et agréable.",
+          "features": [
+            "1 chambre",
+            "1 salon avec cuisine( cuisine très bien équipée)",
+            "Douche",
+            "Climatisation dans la chambre et au salon",
+            "Télévision au salon",
+            "Canal+, Netflix et wifi disponible.",
+            "Draps fournis",
+            "Agent de sécurité 24h/24"
+          ],
+          "electricity_included": false,
+          "notes": "L’électricité est à la charge du client."
+        },
+        "en": {
+          "title": "One-Bedroom Apartment in Akpakpa AVOTROU",
+          "description": "One-bedroom apartment in Akpakpa AVOTROU, offering a practical and pleasant setting for your stay.",
+          "features": [
+            "1 bedroom",
+            "Living room with a fully equipped kitchen",
+            "Bathroom",
+            "Air conditioning in the bedroom and living room",
+            "TV in the living room",
+            "Canal+, Netflix and Wi-Fi available",
+            "Bed linen provided",
+            "24/7 security"
+          ],
+          "electricity_included": false,
+          "notes": "Electricity is paid for by the guest."
+        }
+      }
+    },
+    {
+      "id": 50,
+      "slug": "une-chambre-salon-akpakpa-avotrou-50",
+      "type": "apartment",
+      "category": "1-bedroom",
+      "location": {
+        "city": "Cotonou",
+        "district": "Cotonou",
+        "area": ""
+      },
+      "pays": "Bénin",
+      "price": {
+        "amount": 25000,
+        "currency": "XOF",
+        "period": "night"
+      },
+      "contact": {},
+      "images": [
+        "/images/apartments/50/1.jpeg",
+        "/images/apartments/50/2.jpeg",
+        "/images/apartments/50/3.jpeg",
+        "/images/apartments/50/4.jpeg",
+        "/images/apartments/50/5.jpeg",
+        "/images/apartments/50/6.jpeg",
+        "/images/apartments/50/7.jpeg"
+      ],
+      "translations": {
+        "fr": {
+          "title": "UNE CHAMBRE SALON AKPAKPA AVOTROU",
+          "description": "Appartement de une chambre salon situé à AKPAKPA AVOTROU, offrant un cadre de séjour pratique et agréable.",
+          "features": [
+            "1 chambre",
+            "1 salon avec cuisine( cuisine très bien équipée)",
+            "Douche",
+            "Climatisation dans la chambre et au salon",
+            "Télévision au salon",
+            "Canal+, Netflix et wifi disponible.",
+            "Draps fournis",
+            "Agent de sécurité 24h/24"
+          ],
+          "electricity_included": false,
+          "notes": "L’électricité est à la charge du client."
+        },
+        "en": {
+          "title": "One-Bedroom Apartment in Akpakpa AVOTROU",
+          "description": "One-bedroom apartment in Akpakpa AVOTROU, offering a practical and pleasant setting for your stay.",
+          "features": [
+            "1 bedroom",
+            "Living room with a fully equipped kitchen",
+            "Bathroom",
+            "Air conditioning in the bedroom and living room",
+            "TV in the living room",
+            "Canal+, Netflix and Wi-Fi available",
+            "Bed linen provided",
+            "24/7 security"
+          ],
+          "electricity_included": false,
+          "notes": "Electricity is paid for by the guest."
+        }
+      }
+    },
+    {
+      "id": 51,
+      "slug": "une-chambre-salon-akpakpa-avotrou-51",
+      "type": "apartment",
+      "category": "1-bedroom",
+      "location": {
+        "city": "Cotonou",
+        "district": "Cotonou",
+        "area": ""
+      },
+      "pays": "Bénin",
+      "price": {
+        "amount": 25000,
+        "currency": "XOF",
+        "period": "night"
+      },
+      "contact": {},
+      "images": [
+        "/images/apartments/51/1.jpeg",
+        "/images/apartments/51/2.jpeg",
+        "/images/apartments/51/3.jpeg",
+        "/images/apartments/51/4.jpeg",
+        "/images/apartments/51/5.jpeg",
+        "/images/apartments/51/6.jpeg",
+        "/images/apartments/51/7.jpeg"
+      ],
+      "translations": {
+        "fr": {
+          "title": "UNE CHAMBRE SALON AKPAKPA AVOTROU",
+          "description": "Appartement de une chambre salon situé à AKPAKPA AVOTROU, offrant un cadre de séjour pratique et agréable.",
+          "features": [
+            "1 chambre",
+            "1 salon avec cuisine( cuisine très bien équipée)",
+            "Douche",
+            "Climatisation dans la chambre et au salon",
+            "Télévision au salon",
+            "Canal+, Netflix et wifi disponible.",
+            "Draps fournis",
+            "Agent de sécurité 24h/24"
+          ],
+          "electricity_included": false,
+          "notes": "L’électricité est à la charge du client."
+        },
+        "en": {
+          "title": "One-Bedroom Apartment in Akpakpa AVOTROU",
+          "description": "One-bedroom apartment in Akpakpa AVOTROU, offering a practical and pleasant setting for your stay.",
+          "features": [
+            "1 bedroom",
+            "Living room with a fully equipped kitchen",
+            "Bathroom",
+            "Air conditioning in the bedroom and living room",
+            "TV in the living room",
+            "Canal+, Netflix and Wi-Fi available",
+            "Bed linen provided",
+            "24/7 security"
+          ],
+          "electricity_included": false,
+          "notes": "Electricity is paid for by the guest."
+        }
+      }
+    },
+    {
+      "id": 52,
+      "slug": "une-chambre-salon-entr-e-personnelle-akpakpa-avotrou-52",
+      "type": "apartment",
+      "category": "1-bedroom",
+      "location": {
+        "city": "Cotonou",
+        "district": "Cotonou",
+        "area": ""
+      },
+      "pays": "Bénin",
+      "price": {
+        "amount": 35000,
+        "currency": "XOF",
+        "period": "night"
+      },
+      "contact": {},
+      "images": [
+        "/images/apartments/52/1.jpeg",
+        "/images/apartments/52/2.jpeg",
+        "/images/apartments/52/3.jpeg",
+        "/images/apartments/52/4.jpeg",
+        "/images/apartments/52/5.jpeg",
+        "/images/apartments/52/6.jpeg",
+        "/images/apartments/52/7.jpeg",
+        "/images/apartments/52/8.jpeg",
+        "/images/apartments/52/9.jpeg",
+        "/images/apartments/52/10.jpeg"
+      ],
+      "translations": {
+        "fr": {
+          "title": "UNE CHAMBRE SALON ENTRÉE PERSONNELLE AKPAKPA AVOTROU",
+          "description": "Appartement de une chambre salon situé à AKPAKPA AVOTROU, offrant un cadre de séjour pratique et agréable, avec une entrée indépendante.",
+          "features": [
+            "1 chambre",
+            "1 salon avec cuisine( cuisine très bien équipée)",
+            "Douche",
+            "Climatisation dans la chambre et au salon",
+            "Télévision au salon",
+            "Canal+, Netflix et wifi disponible.",
+            "Draps fournis",
+            "Agent de sécurité 24h/24"
+          ],
+          "electricity_included": false,
+          "notes": "L’électricité est à la charge du client."
+        },
+        "en": {
+          "title": "One-Bedroom Apartment Private Entrance in Akpakpa AVOTROU",
+          "description": "One-bedroom apartment in Akpakpa AVOTROU, offering a practical and pleasant setting for your stay. It features a private entrance.",
+          "features": [
+            "1 bedroom",
+            "Living room with a fully equipped kitchen",
+            "Bathroom",
+            "Air conditioning in the bedroom and living room",
+            "TV in the living room",
+            "Canal+, Netflix and Wi-Fi available",
+            "Bed linen provided",
+            "24/7 security"
+          ],
+          "electricity_included": false,
+          "notes": "Electricity is paid for by the guest."
+        }
+      }
+    },
+    {
+      "id": 53,
+      "slug": "une-chambre-salon-akpakpa-senade-53",
+      "type": "apartment",
+      "category": "1-bedroom",
+      "location": {
+        "city": "Cotonou",
+        "district": "Cotonou",
+        "area": ""
+      },
+      "pays": "Bénin",
+      "price": {
+        "amount": 25000,
+        "currency": "XOF",
+        "period": "night"
+      },
+      "contact": {},
+      "images": [
+        "/images/apartments/53/1.jpeg",
+        "/images/apartments/53/2.jpeg",
+        "/images/apartments/53/3.jpeg",
+        "/images/apartments/53/4.jpeg",
+        "/images/apartments/53/5.jpeg",
+        "/images/apartments/53/6.jpeg",
+        "/images/apartments/53/7.jpeg",
+        "/images/apartments/53/8.jpeg",
+        "/images/apartments/53/9.jpeg",
+        "/images/apartments/53/10.jpeg",
+        "/images/apartments/53/11.jpeg"
+      ],
+      "translations": {
+        "fr": {
+          "title": "UNE CHAMBRE SALON AKPAKPA SENADE",
+          "description": "Appartement de une chambre salon situé à AKPAKPA SENADE, offrant un cadre de séjour pratique et agréable.",
+          "features": [
+            "1 chambre",
+            "1 salon avec cuisine( cuisine très bien équipée)",
+            "Douche",
+            "Climatisation dans la chambre et au salon",
+            "Télévision au salon",
+            "Canal+, Netflix et wifi disponible.",
+            "Draps fournis",
+            "Agent de sécurité 24h/24"
+          ],
+          "electricity_included": false,
+          "notes": "L’électricité est à la charge du client."
+        },
+        "en": {
+          "title": "One-Bedroom Apartment in Akpakpa SENADE",
+          "description": "One-bedroom apartment in Akpakpa SENADE, offering a practical and pleasant setting for your stay.",
+          "features": [
+            "1 bedroom",
+            "Living room with a fully equipped kitchen",
+            "Bathroom",
+            "Air conditioning in the bedroom and living room",
+            "TV in the living room",
+            "Canal+, Netflix and Wi-Fi available",
+            "Bed linen provided",
+            "24/7 security"
+          ],
+          "electricity_included": false,
+          "notes": "Electricity is paid for by the guest."
+        }
+      }
+    },
+    {
+      "id": 54,
+      "slug": "une-chambre-salon-calavi-womey-54",
+      "type": "apartment",
+      "category": "1-bedroom",
+      "location": {
+        "city": "Cotonou",
+        "district": "Cotonou",
+        "area": ""
+      },
+      "pays": "Bénin",
+      "price": {
+        "amount": 30000,
+        "currency": "XOF",
+        "period": "night"
+      },
+      "contact": {},
+      "images": [
+        "/images/apartments/54/1.jpeg",
+        "/images/apartments/54/2.jpeg",
+        "/images/apartments/54/3.jpeg",
+        "/images/apartments/54/4.jpeg",
+        "/images/apartments/54/5.jpeg"
+      ],
+      "translations": {
+        "fr": {
+          "title": "UNE CHAMBRE SALON CALAVI WOMEY",
+          "description": "Appartement de une chambre salon situé à CALAVI WOMEY, offrant un cadre de séjour pratique et agréable.",
+          "features": [
+            "1 chambre",
+            "1 salon avec cuisine( cuisine très bien équipée)",
+            "Douche",
+            "Climatisation dans la chambre et au salon",
+            "Télévision au salon",
+            "Canal+, Netflix et wifi disponible.",
+            "Draps fournis",
+            "Agent de sécurité 24h/24"
+          ],
+          "electricity_included": false,
+          "notes": "L’électricité est à la charge du client."
+        },
+        "en": {
+          "title": "One-Bedroom Apartment in Calavi WOMEY",
+          "description": "One-bedroom apartment in Calavi WOMEY, offering a practical and pleasant setting for your stay.",
+          "features": [
+            "1 bedroom",
+            "Living room with a fully equipped kitchen",
+            "Bathroom",
+            "Air conditioning in the bedroom and living room",
+            "TV in the living room",
+            "Canal+, Netflix and Wi-Fi available",
+            "Bed linen provided",
+            "24/7 security"
+          ],
+          "electricity_included": false,
+          "notes": "Electricity is paid for by the guest."
+        }
+      }
+    },
+    {
+      "id": 55,
+      "slug": "une-chambre-salon-akpakpa-agblangandan-55",
+      "type": "apartment",
+      "category": "1-bedroom",
+      "location": {
+        "city": "Cotonou",
+        "district": "Cotonou",
+        "area": ""
+      },
+      "pays": "Bénin",
+      "price": {
+        "amount": 25000,
+        "currency": "XOF",
+        "period": "night"
+      },
+      "contact": {},
+      "images": [
+        "/images/apartments/55/1.jpeg",
+        "/images/apartments/55/2.jpeg",
+        "/images/apartments/55/3.jpeg",
+        "/images/apartments/55/4.jpeg",
+        "/images/apartments/55/5.jpeg",
+        "/images/apartments/55/6.jpeg",
+        "/images/apartments/55/7.jpeg",
+        "/images/apartments/55/8.jpeg",
+        "/images/apartments/55/9.jpeg",
+        "/images/apartments/55/10.jpeg",
+        "/images/apartments/55/11.jpeg",
+        "/images/apartments/55/12.jpeg",
+        "/images/apartments/55/13.jpeg",
+        "/images/apartments/55/14.jpeg",
+        "/images/apartments/55/15.jpeg",
+        "/images/apartments/55/16.jpeg",
+        "/images/apartments/55/17.jpeg"
+      ],
+      "translations": {
+        "fr": {
+          "title": "UNE CHAMBRE SALON AKPAKPA AGBLANGANDAN",
+          "description": "Appartement de une chambre salon situé à AKPAKPA AGBLANGANDAN, offrant un cadre de séjour pratique et agréable.",
+          "features": [
+            "1 chambre",
+            "1 salon avec cuisine( cuisine très bien équipée)",
+            "Douche & Visiteur",
+            "Climatisation dans la chambre et au salon",
+            "Télévision au salon",
+            "Canal+, Netflix et wifi disponible.",
+            "Draps fournis",
+            "Agent de sécurité 24h/24"
+          ],
+          "electricity_included": false,
+          "notes": "L’électricité est à la charge du client."
+        },
+        "en": {
+          "title": "One-Bedroom Apartment in Akpakpa AGBLANGANDAN",
+          "description": "One-bedroom apartment in Akpakpa AGBLANGANDAN, offering a practical and pleasant setting for your stay.",
+          "features": [
+            "1 bedroom",
+            "Living room with a fully equipped kitchen",
+            "Bathroom and guest toilet",
+            "Air conditioning in the bedroom and living room",
+            "TV in the living room",
+            "Canal+, Netflix and Wi-Fi available",
+            "Bed linen provided",
+            "24/7 security"
+          ],
+          "electricity_included": false,
+          "notes": "Electricity is paid for by the guest."
+        }
+      }
+    },
+    {
+      "id": 56,
+      "slug": "une-chambre-salon-entr-e-personnelle-akpakpa-kowegbo-56",
+      "type": "apartment",
+      "category": "1-bedroom",
+      "location": {
+        "city": "Cotonou",
+        "district": "Cotonou",
+        "area": ""
+      },
+      "pays": "Bénin",
+      "price": {
+        "amount": 30000,
+        "currency": "XOF",
+        "period": "night"
+      },
+      "contact": {},
+      "images": [
+        "/images/apartments/56/1.jpeg",
+        "/images/apartments/56/2.jpeg",
+        "/images/apartments/56/3.jpeg",
+        "/images/apartments/56/4.jpeg",
+        "/images/apartments/56/5.jpeg",
+        "/images/apartments/56/6.jpeg",
+        "/images/apartments/56/7.jpeg",
+        "/images/apartments/56/8.jpeg",
+        "/images/apartments/56/9.jpeg",
+        "/images/apartments/56/10.jpeg",
+        "/images/apartments/56/11.jpeg"
+      ],
+      "translations": {
+        "fr": {
+          "title": "UNE CHAMBRE SALON ENTRÉE PERSONNELLE AKPAKPA KOWEGBO",
+          "description": "Appartement de une chambre salon situé à AKPAKPA KOWEGBO, offrant un cadre de séjour pratique et agréable, avec une entrée indépendante.",
+          "features": [
+            "1 chambre",
+            "1 salon avec cuisine( cuisine très bien équipée)",
+            "Douche",
+            "Climatisation dans la chambre et au salon",
+            "Télévision au salon",
+            "Canal+, Netflix et wifi disponible.",
+            "Draps fournis"
+          ],
+          "electricity_included": false,
+          "notes": "L’électricité est à la charge du client."
+        },
+        "en": {
+          "title": "One-Bedroom Apartment Private Entrance in Akpakpa KOWEGBO",
+          "description": "One-bedroom apartment in Akpakpa KOWEGBO, offering a practical and pleasant setting for your stay. It features a private entrance.",
+          "features": [
+            "1 bedroom",
+            "Living room with a fully equipped kitchen",
+            "Bathroom",
+            "Air conditioning in the bedroom and living room",
+            "TV in the living room",
+            "Canal+, Netflix and Wi-Fi available",
+            "Bed linen provided"
+          ],
+          "electricity_included": false,
+          "notes": "Electricity is paid for by the guest."
+        }
+      }
+    },
+    {
+      "id": 57,
+      "slug": "deux-chambres-salon-cotonou-fidjrosse-57",
+      "type": "apartment",
+      "category": "apartment",
+      "location": {
+        "city": "Cotonou",
+        "district": "Fidjrosse",
+        "area": "FIDJROSSE"
+      },
+      "pays": "Bénin",
+      "price": {
+        "amount": 60000,
+        "currency": "XOF",
+        "period": "night"
+      },
+      "contact": {
+        "phone": "0162757856"
+      },
+      "images": [
+        "/images/apartments/57/1.jpeg",
+        "/images/apartments/57/2.jpeg",
+        "/images/apartments/57/3.jpeg",
+        "/images/apartments/57/4.jpeg",
+        "/images/apartments/57/5.jpeg",
+        "/images/apartments/57/6.jpeg",
+        "/images/apartments/57/7.jpeg",
+        "/images/apartments/57/8.jpeg",
+        "/images/apartments/57/9.jpeg",
+        "/images/apartments/57/10.jpeg"
+      ],
+      "translations": {
+        "fr": {
+          "title": "DEUX CHAMBRES SALON _ COTONOU FIDJROSSE",
+          "description": "Appartement de deux chambres salon situé à FIDJROSSE, Cotonou, offrant un cadre de séjour pratique et agréable.",
+          "features": [
+            "2 chambres",
+            "Table à manger",
+            "1 salon avec cuisine( cuisine très bien équipée)",
+            "Douche",
+            "Climatisation dans la chambre et au salon",
+            "Télévision au salon",
+            "Canal+, Netflix et wifi disponible.",
+            "Draps fournis",
+            "Gardiennage",
+            "Groupe électrogène",
+            "Machine à laver",
+            "Sèche linge"
+          ],
+          "electricity_included": false,
+          "notes": "L’électricité est à la charge du client."
+        },
+        "en": {
+          "title": "Two-Bedroom Apartment in Fidjrossè, Cotonou",
+          "description": "Two-bedroom apartment in Fidjrossè, Cotonou, offering a practical and pleasant setting for your stay.",
+          "features": [
+            "2 bedrooms",
+            "Dining table",
+            "Living room with a fully equipped kitchen",
+            "Bathroom",
+            "Air conditioning in the bedroom and living room",
+            "TV in the living room",
+            "Canal+, Netflix and Wi-Fi available",
+            "Bed linen provided",
+            "Security service",
+            "Generator",
+            "Washing machine",
+            "Dryer"
+          ],
+          "electricity_included": false,
+          "notes": "Electricity is paid for by the guest."
+        }
+      }
+    },
+    {
+      "id": 58,
+      "slug": "trois-chambres-salon-cotonou-fidjrosse-58",
+      "type": "apartment",
+      "category": "apartment",
+      "location": {
+        "city": "Cotonou",
+        "district": "Fidjrosse",
+        "area": "FIDJROSSE"
+      },
+      "pays": "Bénin",
+      "price": {
+        "amount": 60000,
+        "currency": "XOF",
+        "period": "night"
+      },
+      "contact": {
+        "phone": "0162757856"
+      },
+      "images": [
+        "/images/apartments/58/1.jpeg",
+        "/images/apartments/58/2.jpeg",
+        "/images/apartments/58/3.jpeg",
+        "/images/apartments/58/4.jpeg",
+        "/images/apartments/58/5.jpeg",
+        "/images/apartments/58/6.jpeg",
+        "/images/apartments/58/7.jpeg",
+        "/images/apartments/58/8.jpeg",
+        "/images/apartments/58/9.jpeg",
+        "/images/apartments/58/10.jpeg",
+        "/images/apartments/58/11.jpeg",
+        "/images/apartments/58/12.jpeg"
+      ],
+      "translations": {
+        "fr": {
+          "title": "TROIS CHAMBRES SALON _ COTONOU FIDJROSSE",
+          "description": "Appartement de trois chambres salon situé à FIDJROSSE, Cotonou, offrant un cadre de séjour pratique et agréable.",
+          "features": [
+            "2 chambres",
+            "Table à manger",
+            "1 salon avec cuisine( cuisine très bien équipée)",
+            "Douche",
+            "Climatisation dans la chambre et au salon",
+            "Télévision au salon",
+            "Canal+, Netflix et wifi disponible.",
+            "Draps fournis",
+            "Gardiennage",
+            "Groupe électrogène",
+            "Machine à laver",
+            "Sèche linge"
+          ],
+          "electricity_included": false,
+          "notes": "L’électricité est à la charge du client."
+        },
+        "en": {
+          "title": "Three-Bedroom Apartment in Fidjrossè, Cotonou",
+          "description": "Three-bedroom apartment in Fidjrossè, Cotonou, offering a practical and pleasant setting for your stay.",
+          "features": [
+            "2 bedrooms",
+            "Dining table",
+            "Living room with a fully equipped kitchen",
+            "Bathroom",
+            "Air conditioning in the bedroom and living room",
+            "TV in the living room",
+            "Canal+, Netflix and Wi-Fi available",
+            "Bed linen provided",
+            "Security service",
+            "Generator",
+            "Washing machine",
+            "Dryer"
+          ],
+          "electricity_included": false,
+          "notes": "Electricity is paid for by the guest."
+        }
+      }
+    },
+    {
+      "id": 59,
+      "slug": "deux-chambres-salon-akpakpa-agblangandan-59",
+      "type": "apartment",
+      "category": "apartment",
+      "location": {
+        "city": "Cotonou",
+        "district": "Agblangandan",
+        "area": "AGBLANGANDAN"
+      },
+      "pays": "Bénin",
+      "price": {
+        "amount": 45000,
+        "currency": "XOF",
+        "period": "night"
+      },
+      "contact": {
+        "phone": "0162757856"
+      },
+      "images": [
+        "/images/apartments/59/1.jpeg",
+        "/images/apartments/59/2.jpeg",
+        "/images/apartments/59/3.jpeg",
+        "/images/apartments/59/4.jpeg",
+        "/images/apartments/59/5.jpeg",
+        "/images/apartments/59/6.jpeg",
+        "/images/apartments/59/7.jpeg",
+        "/images/apartments/59/8.jpeg",
+        "/images/apartments/59/9.jpeg"
+      ],
+      "translations": {
+        "fr": {
+          "title": "DEUX CHAMBRES SALON _ AKPAKPA AGBLANGANDAN",
+          "description": "Appartement de deux chambres salon situé à AKPAKPA AGBLANGANDAN, offrant un cadre de séjour pratique et agréable.",
+          "features": [
+            "2 chambres",
+            "Table à manger",
+            "1 salon avec cuisine( cuisine très bien équipée)",
+            "Douche",
+            "Climatisation dans la chambre et au salon",
+            "Télévision au salon",
+            "Canal+, Netflix et wifi disponible.",
+            "Draps fournis",
+            "Gardiennage",
+            "Groupe électrogène",
+            "Machine à laver",
+            "Sèche linge"
+          ],
+          "electricity_included": false,
+          "notes": "L’électricité est à la charge du client."
+        },
+        "en": {
+          "title": "Two-Bedroom Apartment in Akpakpa AGBLANGANDAN",
+          "description": "Two-bedroom apartment in Akpakpa AGBLANGANDAN, offering a practical and pleasant setting for your stay.",
+          "features": [
+            "2 bedrooms",
+            "Dining table",
+            "Living room with a fully equipped kitchen",
+            "Bathroom",
+            "Air conditioning in the bedroom and living room",
+            "TV in the living room",
+            "Canal+, Netflix and Wi-Fi available",
+            "Bed linen provided",
+            "Security service",
+            "Generator",
+            "Washing machine",
+            "Dryer"
+          ],
+          "electricity_included": false,
+          "notes": "Electricity is paid for by the guest."
+        }
+      }
+    },
+    {
+      "id": 60,
+      "slug": "deux-chambres-salon-cotonou-fidjrosse-60",
+      "type": "apartment",
+      "category": "apartment",
+      "location": {
+        "city": "Cotonou",
+        "district": "Fidjrosse",
+        "area": "FIDJROSSE"
+      },
+      "pays": "Bénin",
+      "price": {
+        "amount": 70000,
+        "currency": "XOF",
+        "period": "night"
+      },
+      "contact": {
+        "phone": "0162757856"
+      },
+      "images": [
+        "/images/apartments/60/1.jpeg",
+        "/images/apartments/60/2.jpeg",
+        "/images/apartments/60/3.jpeg",
+        "/images/apartments/60/4.jpeg",
+        "/images/apartments/60/5.jpeg",
+        "/images/apartments/60/6.jpeg",
+        "/images/apartments/60/7.jpeg",
+        "/images/apartments/60/8.jpeg",
+        "/images/apartments/60/9.jpeg",
+        "/images/apartments/60/10.jpeg",
+        "/images/apartments/60/11.jpeg",
+        "/images/apartments/60/12.jpeg",
+        "/images/apartments/60/13.jpeg",
+        "/images/apartments/60/14.jpeg",
+        "/images/apartments/60/15.jpeg"
+      ],
+      "translations": {
+        "fr": {
+          "title": "DEUX CHAMBRES SALON _ COTONOU FIDJROSSE",
+          "description": "Appartement de deux chambres salon situé à FIDJROSSE, Cotonou, offrant un cadre de séjour pratique et agréable.",
+          "features": [
+            "2 chambres",
+            "Table à manger",
+            "1 salon avec cuisine( cuisine très bien équipée)",
+            "Douche",
+            "Climatisation dans la chambre et au salon",
+            "Télévision au salon",
+            "Canal+, Netflix et wifi disponible.",
+            "Draps fournis",
+            "Gardiennage",
+            "Groupe électrogène",
+            "Machine à laver",
+            "Sèche linge"
+          ],
+          "electricity_included": false,
+          "notes": "L’électricité est à la charge du client."
+        },
+        "en": {
+          "title": "Two-Bedroom Apartment in Fidjrossè, Cotonou",
+          "description": "Two-bedroom apartment in Fidjrossè, Cotonou, offering a practical and pleasant setting for your stay.",
+          "features": [
+            "2 bedrooms",
+            "Dining table",
+            "Living room with a fully equipped kitchen",
+            "Bathroom",
+            "Air conditioning in the bedroom and living room",
+            "TV in the living room",
+            "Canal+, Netflix and Wi-Fi available",
+            "Bed linen provided",
+            "Security service",
+            "Generator",
+            "Washing machine",
+            "Dryer"
+          ],
+          "electricity_included": false,
+          "notes": "Electricity is paid for by the guest."
+        }
+      }
+    },
+    {
+      "id": 61,
+      "slug": "penthouse-trois-chambres-salon-avec-piscine-akpakpa-pkondehou-61",
+      "type": "penthouse",
+      "category": "penthouse",
+      "location": {
+        "city": "Cotonou",
+        "district": "Pkondehou",
+        "area": "PKONDEHOU"
+      },
+      "pays": "Bénin",
+      "price": {
+        "amount": 500000,
+        "currency": "XOF",
+        "period": "night"
+      },
+      "contact": {
+        "phone": "0162757856"
+      },
+      "images": [
+        "/images/apartments/61/1.jpeg",
+        "/images/apartments/61/2.jpeg",
+        "/images/apartments/61/3.jpeg",
+        "/images/apartments/61/4.jpeg",
+        "/images/apartments/61/5.jpeg",
+        "/images/apartments/61/6.jpeg",
+        "/images/apartments/61/7.jpeg",
+        "/images/apartments/61/8.jpeg",
+        "/images/apartments/61/9.jpeg",
+        "/images/apartments/61/10.jpeg",
+        "/images/apartments/61/11.jpeg",
+        "/images/apartments/61/12.jpeg",
+        "/images/apartments/61/13.jpeg",
+        "/images/apartments/61/14.jpeg",
+        "/images/apartments/61/15.jpeg",
+        "/images/apartments/61/16.jpeg",
+        "/images/apartments/61/17.jpeg"
+      ],
+      "translations": {
+        "fr": {
+          "title": "PENTHOUSE TROIS CHAMBRES SALON AVEC PISCINE _ AKPAKPA PKONDEHOU",
+          "description": "Penthouse de trois chambres salon situé à AKPAKPA PKONDEHOU, offrant un cadre de séjour pratique et agréable, avec une piscine.",
+          "features": [
+            "3 chambres",
+            "Table à manger",
+            "1 salon avec cuisine( cuisine très bien équipée)",
+            "Douche",
+            "Climatisation dans la chambre et au salon",
+            "Télévision au salon",
+            "Canal+, Netflix et wifi disponible.",
+            "Draps fournis",
+            "Gardiennage",
+            "Groupe électrogène",
+            "Machine à laver",
+            "Sèche linge"
+          ],
+          "electricity_included": false,
+          "notes": "L’électricité est à la charge du client."
+        },
+        "en": {
+          "title": "Three-Bedroom Penthouse with Pool in Akpakpa PKONDEHOU",
+          "description": "Three-bedroom penthouse in Akpakpa PKONDEHOU, offering a practical and pleasant setting for your stay. It features a swimming pool.",
+          "features": [
+            "3 bedrooms",
+            "Dining table",
+            "Living room with a fully equipped kitchen",
+            "Bathroom",
+            "Air conditioning in the bedroom and living room",
+            "TV in the living room",
+            "Canal+, Netflix and Wi-Fi available",
+            "Bed linen provided",
+            "Security service",
+            "Generator",
+            "Washing machine",
+            "Dryer"
+          ],
+          "electricity_included": false,
+          "notes": "Electricity is paid for by the guest."
+        }
+      }
+    },
+    {
+      "id": 62,
+      "slug": "deux-chambres-salon-cotonou-fidjrosse-62",
+      "type": "apartment",
+      "category": "apartment",
+      "location": {
+        "city": "Cotonou",
+        "district": "Fidjrosse",
+        "area": "FIDJROSSE"
+      },
+      "pays": "Bénin",
+      "price": {
+        "amount": 70000,
+        "currency": "XOF",
+        "period": "night"
+      },
+      "contact": {
+        "phone": "0162757856"
+      },
+      "images": [
+        "/images/apartments/62/1.jpeg",
+        "/images/apartments/62/2.jpeg",
+        "/images/apartments/62/3.jpeg",
+        "/images/apartments/62/4.jpeg",
+        "/images/apartments/62/5.jpeg",
+        "/images/apartments/62/6.jpeg",
+        "/images/apartments/62/7.jpeg",
+        "/images/apartments/62/8.jpeg",
+        "/images/apartments/62/9.jpeg",
+        "/images/apartments/62/10.jpeg",
+        "/images/apartments/62/11.jpeg",
+        "/images/apartments/62/12.jpeg",
+        "/images/apartments/62/13.jpeg",
+        "/images/apartments/62/14.jpeg",
+        "/images/apartments/62/15.jpeg",
+        "/images/apartments/62/16.jpeg",
+        "/images/apartments/62/17.jpeg",
+        "/images/apartments/62/18.jpeg",
+        "/images/apartments/62/19.jpeg",
+        "/images/apartments/62/20.jpeg"
+      ],
+      "translations": {
+        "fr": {
+          "title": "DEUX CHAMBRES SALON _ COTONOU FIDJROSSE",
+          "description": "Appartement de deux chambres salon situé à FIDJROSSE, Cotonou, offrant un cadre de séjour pratique et agréable.",
+          "features": [
+            "2 chambres",
+            "Table à manger",
+            "1 salon avec cuisine( cuisine très bien équipée)",
+            "Douche",
+            "Climatisation dans la chambre et au salon",
+            "Télévision au salon",
+            "Canal+, Netflix et wifi disponible.",
+            "Draps fournis",
+            "Gardiennage",
+            "Groupe électrogène",
+            "Machine à laver",
+            "Sèche linge"
+          ],
+          "electricity_included": false,
+          "notes": "L’électricité est à la charge du client."
+        },
+        "en": {
+          "title": "Two-Bedroom Apartment in Fidjrossè, Cotonou",
+          "description": "Two-bedroom apartment in Fidjrossè, Cotonou, offering a practical and pleasant setting for your stay.",
+          "features": [
+            "2 bedrooms",
+            "Dining table",
+            "Living room with a fully equipped kitchen",
+            "Bathroom",
+            "Air conditioning in the bedroom and living room",
+            "TV in the living room",
+            "Canal+, Netflix and Wi-Fi available",
+            "Bed linen provided",
+            "Security service",
+            "Generator",
+            "Washing machine",
+            "Dryer"
+          ],
+          "electricity_included": false,
+          "notes": "Electricity is paid for by the guest."
+        }
+      }
+    },
+    {
+      "id": 63,
+      "slug": "une-chambre-salon-akpakpa-avotrou-63",
+      "type": "apartment",
+      "category": "1-bedroom",
+      "location": {
+        "city": "Cotonou",
+        "district": "Cotonou",
+        "area": ""
+      },
+      "pays": "Bénin",
+      "price": {
+        "amount": 25000,
+        "currency": "XOF",
+        "period": "night"
+      },
+      "contact": {},
+      "images": [
+        "/images/apartments/63/1.jpeg",
+        "/images/apartments/63/2.jpeg",
+        "/images/apartments/63/3.jpeg",
+        "/images/apartments/63/4.jpeg",
+        "/images/apartments/63/5.jpeg",
+        "/images/apartments/63/6.jpeg",
+        "/images/apartments/63/7.jpeg",
+        "/images/apartments/63/8.jpeg",
+        "/images/apartments/63/9.jpeg",
+        "/images/apartments/63/10.jpeg",
+        "/images/apartments/63/11.jpeg",
+        "/images/apartments/63/12.jpeg",
+        "/images/apartments/63/13.jpeg"
+      ],
+      "translations": {
+        "fr": {
+          "title": "UNE CHAMBRE SALON AKPAKPA AVOTROU",
+          "description": "Appartement de une chambre salon situé à AKPAKPA AVOTROU, offrant un cadre de séjour pratique et agréable.",
+          "features": [
+            "1 chambre",
+            "1 salon avec cuisine( cuisine très bien équipée)",
+            "Douche",
+            "Climatisation dans la chambre et au salon",
+            "Télévision au salon",
+            "Canal+, Netflix et wifi disponible.",
+            "Draps fournis",
+            "Agent de sécurité 24h/24"
+          ],
+          "electricity_included": false,
+          "notes": "L’électricité est à la charge du client."
+        },
+        "en": {
+          "title": "One-Bedroom Apartment in Akpakpa AVOTROU",
+          "description": "One-bedroom apartment in Akpakpa AVOTROU, offering a practical and pleasant setting for your stay.",
+          "features": [
+            "1 bedroom",
+            "Living room with a fully equipped kitchen",
+            "Bathroom",
+            "Air conditioning in the bedroom and living room",
+            "TV in the living room",
+            "Canal+, Netflix and Wi-Fi available",
+            "Bed linen provided",
+            "24/7 security"
+          ],
+          "electricity_included": false,
+          "notes": "Electricity is paid for by the guest."
+        }
+      }
+    },
+    {
+      "id": 64,
+      "slug": "une-chambre-salon-akpakpa-avotrou-64",
+      "type": "apartment",
+      "category": "1-bedroom",
+      "location": {
+        "city": "Cotonou",
+        "district": "Cotonou",
+        "area": ""
+      },
+      "pays": "Bénin",
+      "price": {
+        "amount": 25000,
+        "currency": "XOF",
+        "period": "night"
+      },
+      "contact": {},
+      "images": [
+        "/images/apartments/64/1.jpeg",
+        "/images/apartments/64/2.jpeg",
+        "/images/apartments/64/3.jpeg",
+        "/images/apartments/64/4.jpeg",
+        "/images/apartments/64/5.jpeg",
+        "/images/apartments/64/6.jpeg",
+        "/images/apartments/64/7.jpeg",
+        "/images/apartments/64/8.jpeg",
+        "/images/apartments/64/9.jpeg",
+        "/images/apartments/64/10.jpeg"
+      ],
+      "translations": {
+        "fr": {
+          "title": "UNE CHAMBRE SALON AKPAKPA AVOTROU",
+          "description": "Appartement de une chambre salon situé à AKPAKPA AVOTROU, offrant un cadre de séjour pratique et agréable.",
+          "features": [
+            "1 chambre",
+            "1 salon avec cuisine( cuisine très bien équipée)",
+            "Douche",
+            "Climatisation dans la chambre et au salon",
+            "Télévision au salon",
+            "Canal+, Netflix et wifi disponible.",
+            "Draps fournis",
+            "Agent de sécurité 24h/24"
+          ],
+          "electricity_included": false,
+          "notes": "L’électricité est à la charge du client."
+        },
+        "en": {
+          "title": "One-Bedroom Apartment in Akpakpa AVOTROU",
+          "description": "One-bedroom apartment in Akpakpa AVOTROU, offering a practical and pleasant setting for your stay.",
+          "features": [
+            "1 bedroom",
+            "Living room with a fully equipped kitchen",
+            "Bathroom",
+            "Air conditioning in the bedroom and living room",
+            "TV in the living room",
+            "Canal+, Netflix and Wi-Fi available",
+            "Bed linen provided",
+            "24/7 security"
+          ],
+          "electricity_included": false,
+          "notes": "Electricity is paid for by the guest."
+        }
+      }
+    },
+    {
+      "id": 65,
+      "slug": "deux-chambres-salon-akpakpa-segbeya-65",
+      "type": "apartment",
+      "category": "apartment",
+      "location": {
+        "city": "Cotonou",
+        "district": "Segbeya",
+        "area": "SEGBEYA"
+      },
+      "pays": "Bénin",
+      "price": {
+        "amount": 45000,
+        "currency": "XOF",
+        "period": "night"
+      },
+      "contact": {
+        "phone": "0162757856"
+      },
+      "images": [
+        "/images/apartments/65/1.jpeg",
+        "/images/apartments/65/2.jpeg",
+        "/images/apartments/65/3.jpeg",
+        "/images/apartments/65/4.jpeg",
+        "/images/apartments/65/5.jpeg",
+        "/images/apartments/65/6.jpeg",
+        "/images/apartments/65/7.jpeg",
+        "/images/apartments/65/8.jpeg",
+        "/images/apartments/65/9.jpeg",
+        "/images/apartments/65/10.jpeg"
+      ],
+      "translations": {
+        "fr": {
+          "title": "DEUX CHAMBRES SALON _ AKPAKPA SEGBEYA",
+          "description": "Appartement de deux chambres salon situé à AKPAKPA SEGBEYA, offrant un cadre de séjour pratique et agréable.",
+          "features": [
+            "2 chambres",
+            "Table à manger",
+            "1 salon avec cuisine( cuisine très bien équipée)",
+            "Douche",
+            "Climatisation dans la chambre et au salon",
+            "Télévision au salon",
+            "Canal+, Netflix et wifi disponible.",
+            "Draps fournis",
+            "Gardiennage",
+            "Machine à laver",
+            "Sèche linge"
+          ],
+          "electricity_included": false,
+          "notes": "L’électricité est à la charge du client."
+        },
+        "en": {
+          "title": "Two-Bedroom Apartment in Akpakpa SEGBEYA",
+          "description": "Two-bedroom apartment in Akpakpa SEGBEYA, offering a practical and pleasant setting for your stay.",
+          "features": [
+            "2 bedrooms",
+            "Dining table",
+            "Living room with a fully equipped kitchen",
+            "Bathroom",
+            "Air conditioning in the bedroom and living room",
+            "TV in the living room",
+            "Canal+, Netflix and Wi-Fi available",
+            "Bed linen provided",
+            "Security service",
+            "Washing machine",
+            "Dryer"
+          ],
+          "electricity_included": false,
+          "notes": "Electricity is paid for by the guest."
+        }
+      }
+    },
+    {
+      "id": 66,
+      "slug": "une-chambre-salon-akpakpa-senade-66",
+      "type": "apartment",
+      "category": "1-bedroom",
+      "location": {
+        "city": "Cotonou",
+        "district": "Cotonou",
+        "area": ""
+      },
+      "pays": "Bénin",
+      "price": {
+        "amount": 30000,
+        "currency": "XOF",
+        "period": "night"
+      },
+      "contact": {},
+      "images": [
+        "/images/apartments/66/1.jpeg",
+        "/images/apartments/66/2.jpeg",
+        "/images/apartments/66/3.jpeg",
+        "/images/apartments/66/4.jpeg",
+        "/images/apartments/66/5.jpeg",
+        "/images/apartments/66/6.jpeg",
+        "/images/apartments/66/7.jpeg",
+        "/images/apartments/66/8.jpeg",
+        "/images/apartments/66/9.jpeg"
+      ],
+      "translations": {
+        "fr": {
+          "title": "UNE CHAMBRE SALON AKPAKPA SENADE",
+          "description": "Appartement de une chambre salon situé à AKPAKPA SENADE, offrant un cadre de séjour pratique et agréable.",
+          "features": [
+            "1 chambre",
+            "1 salon avec cuisine( cuisine très bien équipée)",
+            "Douche",
+            "Climatisation dans la chambre et au salon",
+            "Télévision au salon",
+            "Canal+, Netflix et wifi disponible.",
+            "Draps fournis",
+            "Agent de sécurité 24h/24"
+          ],
+          "electricity_included": false,
+          "notes": "L’électricité est à la charge du client."
+        },
+        "en": {
+          "title": "One-Bedroom Apartment in Akpakpa SENADE",
+          "description": "One-bedroom apartment in Akpakpa SENADE, offering a practical and pleasant setting for your stay.",
+          "features": [
+            "1 bedroom",
+            "Living room with a fully equipped kitchen",
+            "Bathroom",
+            "Air conditioning in the bedroom and living room",
+            "TV in the living room",
+            "Canal+, Netflix and Wi-Fi available",
+            "Bed linen provided",
+            "24/7 security"
+          ],
+          "electricity_included": false,
+          "notes": "Electricity is paid for by the guest."
+        }
+      }
+    },
+    {
+      "id": 67,
+      "slug": "une-chambre-salon-akpakpa-segbeya-67",
+      "type": "apartment",
+      "category": "1-bedroom",
+      "location": {
+        "city": "Cotonou",
+        "district": "Cotonou",
+        "area": ""
+      },
+      "pays": "Bénin",
+      "price": {
+        "amount": 25000,
+        "currency": "XOF",
+        "period": "night"
+      },
+      "contact": {},
+      "images": [
+        "/images/apartments/67/1.jpeg",
+        "/images/apartments/67/2.jpeg",
+        "/images/apartments/67/3.jpeg",
+        "/images/apartments/67/4.jpeg",
+        "/images/apartments/67/5.jpeg",
+        "/images/apartments/67/6.jpeg",
+        "/images/apartments/67/7.jpeg",
+        "/images/apartments/67/8.jpeg",
+        "/images/apartments/67/9.jpeg",
+        "/images/apartments/67/10.jpeg",
+        "/images/apartments/67/11.jpeg"
+      ],
+      "translations": {
+        "fr": {
+          "title": "UNE CHAMBRE SALON AKPAKPA SEGBEYA",
+          "description": "Appartement de une chambre salon situé à AKPAKPA SEGBEYA, offrant un cadre de séjour pratique et agréable.",
+          "features": [
+            "1 chambre",
+            "1 salon avec cuisine( cuisine très bien équipée)",
+            "Douche",
+            "Climatisation dans la chambre et au salon",
+            "Télévision au salon",
+            "Canal+, Netflix et wifi disponible.",
+            "Draps fournis",
+            "Agent de sécurité 24h/24"
+          ],
+          "electricity_included": false,
+          "notes": "L’électricité est à la charge du client."
+        },
+        "en": {
+          "title": "One-Bedroom Apartment in Akpakpa SEGBEYA",
+          "description": "One-bedroom apartment in Akpakpa SEGBEYA, offering a practical and pleasant setting for your stay.",
+          "features": [
+            "1 bedroom",
+            "Living room with a fully equipped kitchen",
+            "Bathroom",
+            "Air conditioning in the bedroom and living room",
+            "TV in the living room",
+            "Canal+, Netflix and Wi-Fi available",
+            "Bed linen provided",
+            "24/7 security"
+          ],
+          "electricity_included": false,
+          "notes": "Electricity is paid for by the guest."
+        }
+      }
+    },
+    {
+      "id": 68,
+      "slug": "une-chambre-salon-akpakpa-senade-68",
+      "type": "apartment",
+      "category": "1-bedroom",
+      "location": {
+        "city": "Cotonou",
+        "district": "Cotonou",
+        "area": ""
+      },
+      "pays": "Bénin",
+      "price": {
+        "amount": 40000,
+        "currency": "XOF",
+        "period": "night"
+      },
+      "contact": {},
+      "images": [
+        "/images/apartments/68/1.jpeg",
+        "/images/apartments/68/2.jpeg",
+        "/images/apartments/68/3.jpeg",
+        "/images/apartments/68/4.jpeg",
+        "/images/apartments/68/5.jpeg",
+        "/images/apartments/68/6.jpeg",
+        "/images/apartments/68/7.jpeg",
+        "/images/apartments/68/8.jpeg",
+        "/images/apartments/68/9.jpeg",
+        "/images/apartments/68/10.jpeg",
+        "/images/apartments/68/11.jpeg",
+        "/images/apartments/68/12.jpeg",
+        "/images/apartments/68/13.jpeg",
+        "/images/apartments/68/14.jpeg",
+        "/images/apartments/68/15.jpeg"
+      ],
+      "translations": {
+        "fr": {
+          "title": "UNE CHAMBRE SALON AKPAKPA SENADE",
+          "description": "Appartement de une chambre salon situé à AKPAKPA SENADE, offrant un cadre de séjour pratique et agréable.",
+          "features": [
+            "1 chambre",
+            "1 salon avec cuisine( cuisine très bien équipée)",
+            "Douche",
+            "Climatisation dans la chambre et au salon",
+            "Télévision au salon",
+            "Canal+, Netflix et wifi disponible.",
+            "Draps fournis",
+            "Agent de sécurité 24h/24"
+          ],
+          "electricity_included": false,
+          "notes": "L’électricité est à la charge du client."
+        },
+        "en": {
+          "title": "One-Bedroom Apartment in Akpakpa SENADE",
+          "description": "One-bedroom apartment in Akpakpa SENADE, offering a practical and pleasant setting for your stay.",
+          "features": [
+            "1 bedroom",
+            "Living room with a fully equipped kitchen",
+            "Bathroom",
+            "Air conditioning in the bedroom and living room",
+            "TV in the living room",
+            "Canal+, Netflix and Wi-Fi available",
+            "Bed linen provided",
+            "24/7 security"
+          ],
+          "electricity_included": false,
+          "notes": "Electricity is paid for by the guest."
+        }
+      }
+    },
+    {
+      "id": 69,
+      "slug": "deux-chambres-salon-akpakpa-senade-69",
+      "type": "apartment",
+      "category": "apartment",
+      "location": {
+        "city": "Cotonou",
+        "district": "Cotonou",
+        "area": ""
+      },
+      "pays": "Bénin",
+      "price": {
+        "amount": 60000,
+        "currency": "XOF",
+        "period": "night"
+      },
+      "contact": {},
+      "images": [
+        "/images/apartments/69/1.jpeg",
+        "/images/apartments/69/2.jpeg",
+        "/images/apartments/69/3.jpeg",
+        "/images/apartments/69/4.jpeg",
+        "/images/apartments/69/5.jpeg",
+        "/images/apartments/69/6.jpeg",
+        "/images/apartments/69/7.jpeg",
+        "/images/apartments/69/8.jpeg",
+        "/images/apartments/69/9.jpeg"
+      ],
+      "translations": {
+        "fr": {
+          "title": "DEUX CHAMBRES SALON AKPAKPA SENADE",
+          "description": "Appartement de deux chambres salon situé à AKPAKPA SENADE, offrant un cadre de séjour pratique et agréable.",
+          "features": [
+            "2 chambres",
+            "1 salon avec cuisine( cuisine très bien équipée)",
+            "Douche",
+            "Climatisation dans la chambre et au salon",
+            "Télévision au salon",
+            "Canal+, Netflix et wifi disponible.",
+            "Draps fournis",
+            "Agent de sécurité 24h/24"
+          ],
+          "electricity_included": false,
+          "notes": "L’électricité est à la charge du client."
+        },
+        "en": {
+          "title": "Two-Bedroom Apartment in Akpakpa SENADE",
+          "description": "Two-bedroom apartment in Akpakpa SENADE, offering a practical and pleasant setting for your stay.",
+          "features": [
+            "2 bedrooms",
+            "Living room with a fully equipped kitchen",
+            "Bathroom",
+            "Air conditioning in the bedroom and living room",
+            "TV in the living room",
+            "Canal+, Netflix and Wi-Fi available",
+            "Bed linen provided",
+            "24/7 security"
+          ],
+          "electricity_included": false,
+          "notes": "Electricity is paid for by the guest."
+        }
+      }
+    },
+    {
+      "id": 70,
+      "slug": "une-chambre-salon-cotonou-sainte-rita-70",
+      "type": "apartment",
+      "category": "1-bedroom",
+      "location": {
+        "city": "Cotonou",
+        "district": "Cotonou",
+        "area": ""
+      },
+      "pays": "Bénin",
+      "price": {
+        "amount": 30000,
+        "currency": "XOF",
+        "period": "night"
+      },
+      "contact": {},
+      "images": [
+        "/images/apartments/70/1.jpeg",
+        "/images/apartments/70/2.jpeg",
+        "/images/apartments/70/3.jpeg",
+        "/images/apartments/70/4.jpeg",
+        "/images/apartments/70/5.jpeg",
+        "/images/apartments/70/6.jpeg",
+        "/images/apartments/70/7.jpeg",
+        "/images/apartments/70/8.jpeg",
+        "/images/apartments/70/9.jpeg"
+      ],
+      "translations": {
+        "fr": {
+          "title": "UNE CHAMBRE SALON COTONOU SAINTE RITA",
+          "description": "Appartement de une chambre salon situé à SAINTE RITA, Cotonou, offrant un cadre de séjour pratique et agréable.",
+          "features": [
+            "1 chambre",
+            "1 salon avec cuisine( cuisine très bien équipée)",
+            "Douche",
+            "Climatisation dans la chambre et au salon",
+            "Télévision au salon",
+            "Canal+, Netflix et wifi disponible.",
+            "Draps fournis",
+            "Agent de sécurité 24h/24"
+          ],
+          "electricity_included": false,
+          "notes": "L’électricité est à la charge du client."
+        },
+        "en": {
+          "title": "One-Bedroom Apartment in SAINTE RITA",
+          "description": "One-bedroom apartment in SAINTE RITA, offering a practical and pleasant setting for your stay.",
+          "features": [
+            "1 bedroom",
+            "Living room with a fully equipped kitchen",
+            "Bathroom",
+            "Air conditioning in the bedroom and living room",
+            "TV in the living room",
+            "Canal+, Netflix and Wi-Fi available",
+            "Bed linen provided",
+            "24/7 security"
+          ],
+          "electricity_included": false,
+          "notes": "Electricity is paid for by the guest."
+        }
+      }
+    },
+    {
+      "id": 71,
+      "slug": "deux-chambres-salon-akpakpa-senade-71",
+      "type": "apartment",
+      "category": "apartment",
+      "location": {
+        "city": "Cotonou",
+        "district": "Cotonou",
+        "area": ""
+      },
+      "pays": "Bénin",
+      "price": {
+        "amount": 60000,
+        "currency": "XOF",
+        "period": "night"
+      },
+      "contact": {},
+      "images": [
+        "/images/apartments/71/1.jpeg",
+        "/images/apartments/71/2.jpeg",
+        "/images/apartments/71/3.jpeg",
+        "/images/apartments/71/4.jpeg",
+        "/images/apartments/71/5.jpeg",
+        "/images/apartments/71/6.jpeg",
+        "/images/apartments/71/7.jpeg",
+        "/images/apartments/71/8.jpeg",
+        "/images/apartments/71/9.jpeg",
+        "/images/apartments/71/10.jpeg",
+        "/images/apartments/71/11.jpeg",
+        "/images/apartments/71/12.jpeg",
+        "/images/apartments/71/13.jpeg",
+        "/images/apartments/71/14.jpeg",
+        "/images/apartments/71/15.jpeg",
+        "/images/apartments/71/16.jpeg",
+        "/images/apartments/71/17.jpeg"
+      ],
+      "translations": {
+        "fr": {
+          "title": "DEUX CHAMBRES SALON AKPAKPA SENADE",
+          "description": "Appartement de deux chambres salon situé à AKPAKPA SENADE, offrant un cadre de séjour pratique et agréable.",
+          "features": [
+            "2 chambres",
+            "1 salon avec cuisine( cuisine très bien équipée)",
+            "Douche",
+            "Climatisation dans la chambre et au salon",
+            "Télévision au salon",
+            "Canal+, Netflix et wifi disponible.",
+            "Draps fournis",
+            "Agent de sécurité 24h/24"
+          ],
+          "electricity_included": false,
+          "notes": "L’électricité est à la charge du client."
+        },
+        "en": {
+          "title": "Two-Bedroom Apartment in Akpakpa SENADE",
+          "description": "Two-bedroom apartment in Akpakpa SENADE, offering a practical and pleasant setting for your stay.",
+          "features": [
+            "2 bedrooms",
+            "Living room with a fully equipped kitchen",
+            "Bathroom",
+            "Air conditioning in the bedroom and living room",
+            "TV in the living room",
+            "Canal+, Netflix and Wi-Fi available",
+            "Bed linen provided",
+            "24/7 security"
+          ],
+          "electricity_included": false,
+          "notes": "Electricity is paid for by the guest."
+        }
+      }
+    },
+    {
+      "id": 72,
+      "slug": "deux-chambres-salon-akpakpa-senade-72",
+      "type": "apartment",
+      "category": "apartment",
+      "location": {
+        "city": "Cotonou",
+        "district": "Cotonou",
+        "area": ""
+      },
+      "pays": "Bénin",
+      "price": {
+        "amount": 60000,
+        "currency": "XOF",
+        "period": "night"
+      },
+      "contact": {},
+      "images": [
+        "/images/apartments/72/1.jpeg",
+        "/images/apartments/72/2.jpeg",
+        "/images/apartments/72/3.jpeg",
+        "/images/apartments/72/4.jpeg",
+        "/images/apartments/72/5.jpeg",
+        "/images/apartments/72/6.jpeg",
+        "/images/apartments/72/7.jpeg",
+        "/images/apartments/72/8.jpeg",
+        "/images/apartments/72/9.jpeg",
+        "/images/apartments/72/10.jpeg"
+      ],
+      "translations": {
+        "fr": {
+          "title": "DEUX CHAMBRES SALON AKPAKPA SENADE",
+          "description": "Appartement de deux chambres salon situé à AKPAKPA SENADE, offrant un cadre de séjour pratique et agréable.",
+          "features": [
+            "2 chambres",
+            "1 salon avec cuisine( cuisine très bien équipée)",
+            "Douche",
+            "Climatisation dans la chambre et au salon",
+            "Télévision au salon",
+            "Canal+, Netflix et wifi disponible.",
+            "Draps fournis",
+            "Agent de sécurité 24h/24"
+          ],
+          "electricity_included": false,
+          "notes": "L’électricité est à la charge du client."
+        },
+        "en": {
+          "title": "Two-Bedroom Apartment in Akpakpa SENADE",
+          "description": "Two-bedroom apartment in Akpakpa SENADE, offering a practical and pleasant setting for your stay.",
+          "features": [
+            "2 bedrooms",
+            "Living room with a fully equipped kitchen",
+            "Bathroom",
+            "Air conditioning in the bedroom and living room",
+            "TV in the living room",
+            "Canal+, Netflix and Wi-Fi available",
+            "Bed linen provided",
+            "24/7 security"
+          ],
+          "electricity_included": false,
+          "notes": "Electricity is paid for by the guest."
+        }
+      }
+    },
+    {
+      "id": 73,
+      "slug": "une-chambre-salon-entr-e-personelle-cotonou-godomey-73",
+      "type": "apartment",
+      "category": "1-bedroom",
+      "location": {
+        "city": "Cotonou",
+        "district": "Cotonou",
+        "area": ""
+      },
+      "pays": "Bénin",
+      "price": {
+        "amount": 25000,
+        "currency": "XOF",
+        "period": "night"
+      },
+      "contact": {},
+      "images": [
+        "/images/apartments/73/1.jpeg",
+        "/images/apartments/73/2.jpeg",
+        "/images/apartments/73/3.jpeg",
+        "/images/apartments/73/4.jpeg",
+        "/images/apartments/73/5.jpeg",
+        "/images/apartments/73/6.jpeg",
+        "/images/apartments/73/7.jpeg",
+        "/images/apartments/73/8.jpeg",
+        "/images/apartments/73/9.jpeg",
+        "/images/apartments/73/10.jpeg",
+        "/images/apartments/73/11.jpeg"
+      ],
+      "translations": {
+        "fr": {
+          "title": "UNE CHAMBRE SALON ENTRÉE PERSONELLE COTONOU GODOMEY",
+          "description": "Appartement de une chambre salon situé à GODOMEY, Cotonou, offrant un cadre de séjour pratique et agréable, avec une entrée indépendante.",
+          "features": [
+            "1 chambre",
+            "1 salon avec cuisine( cuisine très bien équipée)",
+            "Douche",
+            "Climatisation dans la chambre et au salon",
+            "Télévision au salon",
+            "Canal+, Netflix et wifi disponible.",
+            "Draps fournis"
+          ],
+          "electricity_included": false,
+          "notes": "L’électricité est à la charge du client."
+        },
+        "en": {
+          "title": "One-Bedroom Apartment Private Entrance in GODOMEY",
+          "description": "One-bedroom apartment in GODOMEY, offering a practical and pleasant setting for your stay. It features a private entrance.",
+          "features": [
+            "1 bedroom",
+            "Living room with a fully equipped kitchen",
+            "Bathroom",
+            "Air conditioning in the bedroom and living room",
+            "TV in the living room",
+            "Canal+, Netflix and Wi-Fi available",
+            "Bed linen provided"
+          ],
+          "electricity_included": false,
+          "notes": "Electricity is paid for by the guest."
+        }
+      }
+    },
+    {
+      "id": 74,
+      "slug": "une-chambre-salon-entr-e-personelle-cotonou-fidjrosse-74",
+      "type": "apartment",
+      "category": "1-bedroom",
+      "location": {
+        "city": "Cotonou",
+        "district": "Cotonou",
+        "area": ""
+      },
+      "pays": "Bénin",
+      "price": {
+        "amount": 35000,
+        "currency": "XOF",
+        "period": "night"
+      },
+      "contact": {},
+      "images": [
+        "/images/apartments/74/1.jpeg",
+        "/images/apartments/74/2.jpeg",
+        "/images/apartments/74/3.jpeg",
+        "/images/apartments/74/4.jpeg",
+        "/images/apartments/74/5.jpeg",
+        "/images/apartments/74/6.jpeg",
+        "/images/apartments/74/7.jpeg",
+        "/images/apartments/74/8.jpeg",
+        "/images/apartments/74/9.jpeg",
+        "/images/apartments/74/10.jpeg",
+        "/images/apartments/74/11.jpeg",
+        "/images/apartments/74/12.jpeg"
+      ],
+      "translations": {
+        "fr": {
+          "title": "UNE CHAMBRE SALON ENTRÉE PERSONELLE COTONOU FIDJROSSE",
+          "description": "Appartement de une chambre salon situé à FIDJROSSE, Cotonou, offrant un cadre de séjour pratique et agréable, avec une entrée indépendante.",
+          "features": [
+            "1 chambre",
+            "1 salon avec cuisine( cuisine très bien équipée)",
+            "Douche",
+            "Climatisation dans la chambre et au salon",
+            "Télévision au salon",
+            "Canal+, Netflix et wifi disponible.",
+            "Draps fournis"
+          ],
+          "electricity_included": false,
+          "notes": "L’électricité est à la charge du client."
+        },
+        "en": {
+          "title": "One-Bedroom Apartment Private Entrance in FIDJROSSE",
+          "description": "One-bedroom apartment in FIDJROSSE, offering a practical and pleasant setting for your stay. It features a private entrance.",
+          "features": [
+            "1 bedroom",
+            "Living room with a fully equipped kitchen",
+            "Bathroom",
+            "Air conditioning in the bedroom and living room",
+            "TV in the living room",
+            "Canal+, Netflix and Wi-Fi available",
+            "Bed linen provided"
+          ],
+          "electricity_included": false,
+          "notes": "Electricity is paid for by the guest."
+        }
+      }
+    },
+    {
+      "id": 75,
+      "slug": "une-chambre-salon-akpakpa-segbeya-75",
+      "type": "apartment",
+      "category": "1-bedroom",
+      "location": {
+        "city": "Cotonou",
+        "district": "Cotonou",
+        "area": ""
+      },
+      "pays": "Bénin",
+      "price": {
+        "amount": 30000,
+        "currency": "XOF",
+        "period": "night"
+      },
+      "contact": {},
+      "images": [
+        "/images/apartments/75/1.jpeg",
+        "/images/apartments/75/2.jpeg",
+        "/images/apartments/75/3.jpeg",
+        "/images/apartments/75/4.jpeg",
+        "/images/apartments/75/5.jpeg",
+        "/images/apartments/75/6.jpeg",
+        "/images/apartments/75/7.jpeg",
+        "/images/apartments/75/8.jpeg",
+        "/images/apartments/75/9.jpeg",
+        "/images/apartments/75/10.jpeg"
+      ],
+      "translations": {
+        "fr": {
+          "title": "UNE CHAMBRE SALON AKPAKPA SEGBEYA",
+          "description": "Appartement de une chambre salon situé à AKPAKPA SEGBEYA, offrant un cadre de séjour pratique et agréable.",
+          "features": [
+            "1 chambre",
+            "1 salon avec cuisine( cuisine très bien équipée)",
+            "Douche",
+            "Climatisation dans la chambre et au salon",
+            "Télévision au salon",
+            "Canal+, Netflix et wifi disponible.",
+            "Draps fournis",
+            "Agent de sécurité 24h/24"
+          ],
+          "electricity_included": false,
+          "notes": "L’électricité est à la charge du client."
+        },
+        "en": {
+          "title": "One-Bedroom Apartment in Akpakpa SEGBEYA",
+          "description": "One-bedroom apartment in Akpakpa SEGBEYA, offering a practical and pleasant setting for your stay.",
+          "features": [
+            "1 bedroom",
+            "Living room with a fully equipped kitchen",
+            "Bathroom",
+            "Air conditioning in the bedroom and living room",
+            "TV in the living room",
+            "Canal+, Netflix and Wi-Fi available",
+            "Bed linen provided",
+            "24/7 security"
+          ],
+          "electricity_included": false,
+          "notes": "Electricity is paid for by the guest."
+        }
+      }
+    },
+    {
+      "id": 76,
+      "slug": "studio-avec-jacuzzi-akpakpa-gangbodo-76",
+      "type": "studio",
+      "category": "studio",
+      "location": {
+        "city": "Cotonou",
+        "district": "Akpakpa",
+        "area": "GANGBODO"
+      },
+      "pays": "Bénin",
+      "price": {
+        "amount": 35000,
+        "currency": "XOF",
+        "period": "night"
+      },
+      "contact": {},
+      "images": [
+        "/images/apartments/76/1.jpeg",
+        "/images/apartments/76/2.jpeg",
+        "/images/apartments/76/3.jpeg",
+        "/images/apartments/76/4.jpeg",
+        "/images/apartments/76/5.jpeg",
+        "/images/apartments/76/6.jpeg"
+      ],
+      "translations": {
+        "fr": {
+          "title": "STUDIO AVEC JACUZZI AKPAKPA GANGBODO",
+          "description": "Studio situé à AKPAKPA GANGBODO, offrant un cadre de séjour pratique et agréable, avec un jacuzzi.",
+          "features": [
+            "Chambre spacieux",
+            "Climatisation",
+            "Cuisine moderne équipée",
+            "Toilette",
+            "Internet haut débit (Fibre optique)",
+            "TV Canal+ & Netflix",
+            "Fer à repasser",
+            "Service de ménage",
+            "Parking (libre accès)",
+            "Sécurité assurée (gardien 24h/24"
+          ]
+        },
+        "en": {
+          "title": "Studio with Jacuzzi in Akpakpa GANGBODO",
+          "description": "Studio in Akpakpa GANGBODO, offering a practical and pleasant setting for your stay. It features a jacuzzi.",
+          "features": [
+            "Spacious bedroom",
+            "Air conditioning",
+            "Modern fully equipped kitchen",
+            "Toilet",
+            "High-speed fiber-optic internet",
+            "Canal+ TV and Netflix",
+            "Iron",
+            "Cleaning service",
+            "Parking (open access)",
+            "24/7 security guard"
+          ]
+        }
+      }
+    },
+    {
+      "id": 77,
+      "slug": "villa-meubl-e-haut-standing-louer-agla-77",
+      "type": "villa",
+      "category": "villa",
+      "location": {
+        "city": "Cotonou",
+        "district": "Cotonou",
+        "area": ""
+      },
+      "pays": "Bénin",
+      "price": {
+        "amount": 65000,
+        "currency": "XOF",
+        "period": "night"
+      },
+      "contact": {},
+      "images": [
+        "/images/apartments/77/1.jpeg",
+        "/images/apartments/77/2.jpeg",
+        "/images/apartments/77/3.jpeg",
+        "/images/apartments/77/4.jpeg",
+        "/images/apartments/77/5.jpeg",
+        "/images/apartments/77/6.jpeg",
+        "/images/apartments/77/7.jpeg",
+        "/images/apartments/77/8.jpeg",
+        "/images/apartments/77/9.jpeg",
+        "/images/apartments/77/10.jpeg",
+        "/images/apartments/77/11.jpeg",
+        "/images/apartments/77/12.jpeg",
+        "/images/apartments/77/13.jpeg",
+        "/images/apartments/77/14.jpeg",
+        "/images/apartments/77/15.jpeg"
+      ],
+      "translations": {
+        "fr": {
+          "title": "Villa Meublée Haut Standing à Louer – Agla",
+          "description": "Villa meublée située à Agla, offrant un cadre de séjour pratique et agréable.",
+          "features": []
+        },
+        "en": {
+          "title": "Luxury Furnished Villa for Rent – Agla",
+          "description": "Furnished villa in Agla, offering a practical and pleasant setting for your stay. It features a high-end setting and furnished accommodation.",
+          "features": []
+        }
+      }
+    },
+    {
+      "id": 78,
+      "slug": "studio-haut-standing-calavi-zogbadj-78",
+      "type": "studio",
+      "category": "studio",
+      "location": {
+        "city": "Cotonou",
+        "district": "Cotonou",
+        "area": ""
+      },
+      "pays": "Bénin",
+      "price": {
+        "amount": 20000,
+        "currency": "XOF",
+        "period": "night"
+      },
+      "contact": {},
+      "images": [
+        "/images/apartments/78/1.jpeg",
+        "/images/apartments/78/2.jpeg",
+        "/images/apartments/78/3.jpeg",
+        "/images/apartments/78/4.jpeg",
+        "/images/apartments/78/5.jpeg",
+        "/images/apartments/78/6.jpeg",
+        "/images/apartments/78/7.jpeg",
+        "/images/apartments/78/8.jpeg"
+      ],
+      "translations": {
+        "fr": {
+          "title": "🏠STUDIO HAUT STANDING À CALAVI ZOGBADJÈ",
+          "description": "Studio situé à CALAVI ZOGBADJÈ, offrant un cadre de séjour pratique et agréable.",
+          "features": [
+            "Prix : 20.000 fcfa"
+          ],
+          "electricity_included": false,
+          "notes": "L’électricité est à la charge du client."
+        },
+        "en": {
+          "title": "🏠Luxury Studio in Calavi Zogbadjè",
+          "description": "Studio in Calavi Zogbadjè, offering a practical and pleasant setting for your stay. It features a high-end setting.",
+          "features": [
+            "Price: 20,000 XOF"
+          ],
+          "electricity_included": false,
+          "notes": "Electricity is paid for by the guest."
+        }
+      }
+    },
+    {
+      "id": 79,
+      "slug": "studio-haut-standing-calavi-zogbadj-79",
+      "type": "studio",
+      "category": "studio",
+      "location": {
+        "city": "Cotonou",
+        "district": "Cotonou",
+        "area": ""
+      },
+      "pays": "Bénin",
+      "price": {
+        "amount": 20000,
+        "currency": "XOF",
+        "period": "night"
+      },
+      "contact": {},
+      "images": [
+        "/images/apartments/79/1.jpeg",
+        "/images/apartments/79/2.jpeg",
+        "/images/apartments/79/3.jpeg",
+        "/images/apartments/79/4.jpeg",
+        "/images/apartments/79/5.jpeg",
+        "/images/apartments/79/6.jpeg",
+        "/images/apartments/79/7.jpeg",
+        "/images/apartments/79/8.jpeg",
+        "/images/apartments/79/9.jpeg"
+      ],
+      "translations": {
+        "fr": {
+          "title": "🏠STUDIO HAUT STANDING À CALAVI ZOGBADJÈ",
+          "description": "Studio situé à CALAVI ZOGBADJÈ, offrant un cadre de séjour pratique et agréable.",
+          "features": [
+            "Prix : 20.000 fcfa"
+          ],
+          "electricity_included": false,
+          "notes": "L’électricité est à la charge du client."
+        },
+        "en": {
+          "title": "🏠Luxury Studio in Calavi Zogbadjè",
+          "description": "Studio in Calavi Zogbadjè, offering a practical and pleasant setting for your stay. It features a high-end setting.",
+          "features": [
+            "Price: 20,000 XOF"
+          ],
+          "electricity_included": false,
+          "notes": "Electricity is paid for by the guest."
+        }
+      }
+    },
+    {
+      "id": 80,
+      "slug": "deux-chambres-salon-entr-e-personelle-calavi-womey-80",
+      "type": "apartment",
+      "category": "apartment",
+      "location": {
+        "city": "Cotonou",
+        "district": "Cotonou",
+        "area": ""
+      },
+      "pays": "Bénin",
+      "price": {
+        "amount": 40000,
+        "currency": "XOF",
+        "period": "night"
+      },
+      "contact": {},
+      "images": [
+        "/images/apartments/80/1.jpeg",
+        "/images/apartments/80/2.jpeg",
+        "/images/apartments/80/3.jpeg",
+        "/images/apartments/80/4.jpeg",
+        "/images/apartments/80/5.jpeg",
+        "/images/apartments/80/6.jpeg",
+        "/images/apartments/80/7.jpeg",
+        "/images/apartments/80/8.jpeg",
+        "/images/apartments/80/9.jpeg"
+      ],
+      "translations": {
+        "fr": {
+          "title": "DEUX CHAMBRES SALON ENTRÉE PERSONELLE CALAVI WOMEY",
+          "description": "Appartement de deux chambres salon situé à CALAVI WOMEY, offrant un cadre de séjour pratique et agréable, avec une entrée indépendante.",
+          "features": [
+            "2 chambres",
+            "1 salon avec cuisine( cuisine très bien équipée)",
+            "Douche",
+            "Climatisation dans la chambre et au salon",
+            "Télévision au salon",
+            "Canal+, Netflix et wifi disponible.",
+            "Draps fournis"
+          ],
+          "electricity_included": false,
+          "notes": "L’électricité est à la charge du client."
+        },
+        "en": {
+          "title": "Two-Bedroom Apartment Private Entrance in Calavi WOMEY",
+          "description": "Two-bedroom apartment in Calavi WOMEY, offering a practical and pleasant setting for your stay. It features a private entrance.",
+          "features": [
+            "2 bedrooms",
+            "Living room with a fully equipped kitchen",
+            "Bathroom",
+            "Air conditioning in the bedroom and living room",
+            "TV in the living room",
+            "Canal+, Netflix and Wi-Fi available",
+            "Bed linen provided"
+          ],
+          "electricity_included": false,
+          "notes": "Electricity is paid for by the guest."
+        }
+      }
+    },
+    {
+      "id": 81,
+      "slug": "deux-chambres-salon-avec-piscine-cotonou-agla-81",
+      "type": "apartment",
+      "category": "apartment",
+      "location": {
+        "city": "Cotonou",
+        "district": "Cotonou",
+        "area": ""
+      },
+      "pays": "Bénin",
+      "price": {
+        "amount": 65000,
+        "currency": "XOF",
+        "period": "night"
+      },
+      "contact": {},
+      "images": [
+        "/images/apartments/81/1.jpeg",
+        "/images/apartments/81/2.jpeg",
+        "/images/apartments/81/3.jpeg",
+        "/images/apartments/81/4.jpeg",
+        "/images/apartments/81/5.jpeg",
+        "/images/apartments/81/6.jpeg",
+        "/images/apartments/81/7.jpeg",
+        "/images/apartments/81/8.jpeg",
+        "/images/apartments/81/9.jpeg",
+        "/images/apartments/81/10.jpeg",
+        "/images/apartments/81/11.jpeg"
+      ],
+      "translations": {
+        "fr": {
+          "title": "DEUX CHAMBRES SALON AVEC PISCINE COTONOU AGLA",
+          "description": "Appartement de deux chambres salon situé à AGLA, Cotonou, offrant un cadre de séjour pratique et agréable, avec une piscine.",
+          "features": [
+            "2 chambres",
+            "1 salon avec cuisine( cuisine très bien équipée)",
+            "Douche",
+            "Climatisation dans la chambre et au salon",
+            "Télévision au salon",
+            "Canal+, Netflix et wifi disponible.",
+            "Draps fournis"
+          ],
+          "electricity_included": false,
+          "notes": "L’électricité est à la charge du client."
+        },
+        "en": {
+          "title": "Two-Bedroom Apartment with Pool in AGLA",
+          "description": "Two-bedroom apartment in AGLA, offering a practical and pleasant setting for your stay. It features a swimming pool.",
+          "features": [
+            "2 bedrooms",
+            "Living room with a fully equipped kitchen",
+            "Bathroom",
+            "Air conditioning in the bedroom and living room",
+            "TV in the living room",
+            "Canal+, Netflix and Wi-Fi available",
+            "Bed linen provided"
+          ],
+          "electricity_included": false,
+          "notes": "Electricity is paid for by the guest."
+        }
+      }
+    },
+    {
+      "id": 82,
+      "slug": "deux-chambres-salon-avec-piscine-cotonou-agla-82",
+      "type": "apartment",
+      "category": "apartment",
+      "location": {
+        "city": "Cotonou",
+        "district": "Cotonou",
+        "area": ""
+      },
+      "pays": "Bénin",
+      "price": {
+        "amount": 65000,
+        "currency": "XOF",
+        "period": "night"
+      },
+      "contact": {},
+      "images": [
+        "/images/apartments/82/1.jpeg",
+        "/images/apartments/82/2.jpeg",
+        "/images/apartments/82/3.jpeg",
+        "/images/apartments/82/4.jpeg",
+        "/images/apartments/82/5.jpeg",
+        "/images/apartments/82/6.jpeg",
+        "/images/apartments/82/7.jpeg",
+        "/images/apartments/82/8.jpeg"
+      ],
+      "translations": {
+        "fr": {
+          "title": "DEUX CHAMBRES SALON AVEC PISCINE COTONOU AGLA",
+          "description": "Appartement de deux chambres salon situé à AGLA, Cotonou, offrant un cadre de séjour pratique et agréable, avec une piscine.",
+          "features": [
+            "2 chambres",
+            "1 salon avec cuisine( cuisine très bien équipée)",
+            "Douche",
+            "Climatisation dans la chambre et au salon",
+            "Télévision au salon",
+            "Canal+, Netflix et wifi disponible.",
+            "Draps fournis"
+          ],
+          "electricity_included": false,
+          "notes": "L’électricité est à la charge du client."
+        },
+        "en": {
+          "title": "Two-Bedroom Apartment with Pool in AGLA",
+          "description": "Two-bedroom apartment in AGLA, offering a practical and pleasant setting for your stay. It features a swimming pool.",
+          "features": [
+            "2 bedrooms",
+            "Living room with a fully equipped kitchen",
+            "Bathroom",
+            "Air conditioning in the bedroom and living room",
+            "TV in the living room",
+            "Canal+, Netflix and Wi-Fi available",
+            "Bed linen provided"
+          ],
+          "electricity_included": false,
+          "notes": "Electricity is paid for by the guest."
+        }
+      }
+    },
+    {
+      "id": 83,
+      "slug": "05-chambres-salon-avec-piscine-cotonou-agla-83",
+      "type": "apartment",
+      "category": "5-bedroom",
+      "location": {
+        "city": "Cotonou",
+        "district": "Cotonou",
+        "area": ""
+      },
+      "pays": "Bénin",
+      "price": {
+        "amount": 110000,
+        "currency": "XOF",
+        "period": "night"
+      },
+      "contact": {},
+      "images": [
+        "/images/apartments/83/1.jpeg",
+        "/images/apartments/83/2.jpeg",
+        "/images/apartments/83/3.jpeg",
+        "/images/apartments/83/4.jpeg",
+        "/images/apartments/83/5.jpeg",
+        "/images/apartments/83/6.jpeg",
+        "/images/apartments/83/7.jpeg",
+        "/images/apartments/83/8.jpeg",
+        "/images/apartments/83/9.jpeg",
+        "/images/apartments/83/10.jpeg",
+        "/images/apartments/83/11.jpeg",
+        "/images/apartments/83/12.jpeg",
+        "/images/apartments/83/13.jpeg",
+        "/images/apartments/83/14.jpeg",
+        "/images/apartments/83/15.jpeg",
+        "/images/apartments/83/16.jpeg",
+        "/images/apartments/83/17.jpeg",
+        "/images/apartments/83/18.jpeg",
+        "/images/apartments/83/19.jpeg",
+        "/images/apartments/83/20.jpeg"
+      ],
+      "translations": {
+        "fr": {
+          "title": "05 CHAMBRES SALON AVEC PISCINE COTONOU AGLA",
+          "description": "Appartement de cinq chambres salon situé à AGLA, Cotonou, offrant un cadre de séjour pratique et agréable, avec une piscine.",
+          "features": [
+            "5 chambres",
+            "1 salon avec cuisine( cuisine très bien équipée)",
+            "Douche",
+            "Climatisation dans la chambre et au salon",
+            "Télévision au salon",
+            "Canal+, Netflix et wifi disponible.",
+            "Draps fournis"
+          ],
+          "electricity_included": false,
+          "notes": "L’électricité est à la charge du client."
+        },
+        "en": {
+          "title": "Five-Bedroom Apartment with Pool in AGLA",
+          "description": "Five-bedroom apartment in AGLA, offering a practical and pleasant setting for your stay. It features a swimming pool.",
+          "features": [
+            "5 bedrooms",
+            "Living room with a fully equipped kitchen",
+            "Bathroom",
+            "Air conditioning in the bedroom and living room",
+            "TV in the living room",
+            "Canal+, Netflix and Wi-Fi available",
+            "Bed linen provided"
+          ],
+          "electricity_included": false,
+          "notes": "Electricity is paid for by the guest."
+        }
+      }
+    },
+    {
+      "id": 84,
+      "slug": "duplex-une-chambre-salon-akpakpa-avotrou-84",
+      "type": "duplex",
+      "category": "1-bedroom",
+      "location": {
+        "city": "Cotonou",
+        "district": "Cotonou",
+        "area": ""
+      },
+      "pays": "Bénin",
+      "price": {
+        "amount": 35000,
+        "currency": "XOF",
+        "period": "night"
+      },
+      "contact": {},
+      "images": [
+        "/images/apartments/84/1.jpeg",
+        "/images/apartments/84/2.jpeg",
+        "/images/apartments/84/3.jpeg",
+        "/images/apartments/84/4.jpeg",
+        "/images/apartments/84/5.jpeg",
+        "/images/apartments/84/6.jpeg",
+        "/images/apartments/84/7.jpeg",
+        "/images/apartments/84/8.jpeg",
+        "/images/apartments/84/9.jpeg",
+        "/images/apartments/84/10.jpeg",
+        "/images/apartments/84/11.jpeg",
+        "/images/apartments/84/12.jpeg",
+        "/images/apartments/84/13.jpeg",
+        "/images/apartments/84/14.jpeg"
+      ],
+      "translations": {
+        "fr": {
+          "title": "DUPLEX UNE CHAMBRE SALON AKPAKPA AVOTROU",
+          "description": "Duplex d’une chambre salon situé à AKPAKPA AVOTROU, offrant un cadre de séjour pratique et agréable.",
+          "features": [
+            "1 chambre",
+            "1 salon avec cuisine( cuisine très bien équipée)",
+            "Douche",
+            "Climatisation dans la chambre et au salon",
+            "Télévision au salon",
+            "Canal+, Netflix et wifi disponible.",
+            "Draps fournis",
+            "Agent de sécurité 24h/24"
+          ],
+          "electricity_included": false,
+          "notes": "L’électricité est à la charge du client."
+        },
+        "en": {
+          "title": "Duplex One-Bedroom Apartment in Akpakpa AVOTROU",
+          "description": "One-bedroom duplex in Akpakpa AVOTROU, offering a practical and pleasant setting for your stay.",
+          "features": [
+            "1 bedroom",
+            "Living room with a fully equipped kitchen",
+            "Bathroom",
+            "Air conditioning in the bedroom and living room",
+            "TV in the living room",
+            "Canal+, Netflix and Wi-Fi available",
+            "Bed linen provided",
+            "24/7 security"
+          ],
+          "electricity_included": false,
+          "notes": "Electricity is paid for by the guest."
+        }
+      }
+    },
+    {
+      "id": 85,
+      "slug": "deux-chambres-salon-calavi-goudron-kerekou-85",
+      "type": "apartment",
+      "category": "apartment",
+      "location": {
+        "city": "Cotonou",
+        "district": "Cotonou",
+        "area": ""
+      },
+      "pays": "Bénin",
+      "price": {
+        "amount": 50000,
+        "currency": "XOF",
+        "period": "night"
+      },
+      "contact": {},
+      "images": [
+        "/images/apartments/85/1.jpeg",
+        "/images/apartments/85/2.jpeg",
+        "/images/apartments/85/3.jpeg",
+        "/images/apartments/85/4.jpeg",
+        "/images/apartments/85/5.jpeg",
+        "/images/apartments/85/6.jpeg",
+        "/images/apartments/85/7.jpeg",
+        "/images/apartments/85/8.jpeg",
+        "/images/apartments/85/9.jpeg",
+        "/images/apartments/85/10.jpeg",
+        "/images/apartments/85/11.jpeg",
+        "/images/apartments/85/12.jpeg",
+        "/images/apartments/85/13.jpeg",
+        "/images/apartments/85/14.jpeg",
+        "/images/apartments/85/15.jpeg"
+      ],
+      "translations": {
+        "fr": {
+          "title": "DEUX CHAMBRES SALON CALAVI GOUDRON KEREKOU",
+          "description": "Appartement de deux chambres salon situé à CALAVI GOUDRON KEREKOU, offrant un cadre de séjour pratique et agréable.",
+          "features": [
+            "2 chambres",
+            "1 salon avec cuisine( cuisine très bien équipée)",
+            "Douche",
+            "Climatisation dans la chambre et au salon",
+            "Télévision au salon",
+            "Canal+, Netflix et wifi disponible.",
+            "Draps fournis",
+            "Machine à laver"
+          ],
+          "electricity_included": false,
+          "notes": "L’électricité est à la charge du client."
+        },
+        "en": {
+          "title": "Two-Bedroom Apartment in Calavi GOUDRON KEREKOU",
+          "description": "Two-bedroom apartment in Calavi GOUDRON KEREKOU, offering a practical and pleasant setting for your stay.",
+          "features": [
+            "2 bedrooms",
+            "Living room with a fully equipped kitchen",
+            "Bathroom",
+            "Air conditioning in the bedroom and living room",
+            "TV in the living room",
+            "Canal+, Netflix and Wi-Fi available",
+            "Bed linen provided",
+            "Washing machine"
+          ],
+          "electricity_included": false,
+          "notes": "Electricity is paid for by the guest."
+        }
+      }
+    },
+    {
+      "id": 86,
+      "slug": "studio-avec-jacuzzi-akpakpa-gangbodo-86",
+      "type": "studio",
+      "category": "studio",
+      "location": {
+        "city": "Cotonou",
+        "district": "Akpakpa",
+        "area": "GANGBODO"
+      },
+      "pays": "Bénin",
+      "price": {
+        "amount": 35000,
+        "currency": "XOF",
+        "period": "night"
+      },
+      "contact": {},
+      "images": [
+        "/images/apartments/86/1.jpeg",
+        "/images/apartments/86/2.jpeg",
+        "/images/apartments/86/3.jpeg",
+        "/images/apartments/86/4.jpeg",
+        "/images/apartments/86/5.jpeg",
+        "/images/apartments/86/6.jpeg",
+        "/images/apartments/86/7.jpeg",
+        "/images/apartments/86/8.jpeg",
+        "/images/apartments/86/9.jpeg"
+      ],
+      "translations": {
+        "fr": {
+          "title": "STUDIO AVEC JACUZZI AKPAKPA GANGBODO",
+          "description": "Studio situé à AKPAKPA GANGBODO, offrant un cadre de séjour pratique et agréable, avec un jacuzzi.",
+          "features": [
+            "Chambre spacieux",
+            "Climatisation",
+            "Cuisine moderne équipée",
+            "Toilette",
+            "Internet haut débit (Fibre optique)",
+            "TV Canal+ & Netflix",
+            "Fer à repasser",
+            "Service de ménage",
+            "Parking (libre accès)",
+            "Sécurité assurée (gardien 24h/24"
+          ]
+        },
+        "en": {
+          "title": "Studio with Jacuzzi in Akpakpa GANGBODO",
+          "description": "Studio in Akpakpa GANGBODO, offering a practical and pleasant setting for your stay. It features a jacuzzi.",
+          "features": [
+            "Spacious bedroom",
+            "Air conditioning",
+            "Modern fully equipped kitchen",
+            "Toilet",
+            "High-speed fiber-optic internet",
+            "Canal+ TV and Netflix",
+            "Iron",
+            "Cleaning service",
+            "Parking (open access)",
+            "24/7 security guard"
+          ]
+        }
+      }
+    },
+    {
+      "id": 87,
+      "slug": "studio-meubl-aida-palmeraie-87",
+      "type": "studio",
+      "category": "studio",
+      "location": {
+        "city": "Abidjan",
+        "district": "Cotonou",
+        "area": ""
+      },
+      "pays": "Côte d'Ivoire",
+      "price": {
+        "amount": 25000,
+        "currency": "XOF",
+        "period": "night"
+      },
+      "contact": {},
+      "images": [
+        "/images/apartments/87/1.jpeg",
+        "/images/apartments/87/2.jpeg",
+        "/images/apartments/87/3.jpeg",
+        "/images/apartments/87/4.jpeg",
+        "/images/apartments/87/5.jpeg",
+        "/images/apartments/87/6.jpeg",
+        "/images/apartments/87/7.jpeg",
+        "/images/apartments/87/8.jpeg",
+        "/images/apartments/87/9.jpeg",
+        "/images/apartments/87/10.jpeg",
+        "/images/apartments/87/11.jpeg",
+        "/images/apartments/87/12.jpeg",
+        "/images/apartments/87/13.jpeg",
+        "/images/apartments/87/14.jpeg"
+      ],
+      "translations": {
+        "fr": {
+          "title": "STUDIO MEUBLÉ \"AIDA\" – PALMERAIE",
+          "description": "Studio meublé situé à Palmeraie, offrant un cadre de séjour pratique et agréable.",
+          "features": []
+        },
+        "en": {
+          "title": "Furnished Studio “AIDA” – Palmeraie",
+          "description": "Furnished studio in Palmeraie, offering a practical and pleasant setting for your stay. It features furnished accommodation.",
+          "features": []
+        }
+      }
+    },
+    {
+      "id": 88,
+      "slug": "r-servez-maintenant-cette-r-sidence-meubl-e-disponible-la-riviera-palmeraie-88",
+      "type": "apartment",
+      "category": "apartment",
+      "location": {
+        "city": "Abidjan",
+        "district": "Cotonou",
+        "area": ""
+      },
+      "pays": "Côte d'Ivoire",
+      "price": {
+        "amount": 40000,
+        "currency": "XOF",
+        "period": "night"
+      },
+      "contact": {},
+      "images": [
+        "/images/apartments/88/1.jpeg",
+        "/images/apartments/88/2.jpeg",
+        "/images/apartments/88/3.jpeg",
+        "/images/apartments/88/4.jpeg",
+        "/images/apartments/88/5.jpeg",
+        "/images/apartments/88/6.jpeg",
+        "/images/apartments/88/7.jpeg",
+        "/images/apartments/88/8.jpeg",
+        "/images/apartments/88/9.jpeg",
+        "/images/apartments/88/10.jpeg",
+        "/images/apartments/88/11.jpeg",
+        "/images/apartments/88/12.jpeg",
+        "/images/apartments/88/13.jpeg",
+        "/images/apartments/88/14.jpeg",
+        "/images/apartments/88/15.jpeg",
+        "/images/apartments/88/16.jpeg",
+        "/images/apartments/88/17.jpeg"
+      ],
+      "translations": {
+        "fr": {
+          "title": "Réservez maintenant cette résidence meublée disponible à la Riviera palmeraie.",
+          "description": "Résidence meublée située à Riviera Palmeraie, disponible à la réservation.",
+          "features": [
+            "Wi-Fi illimité",
+            "TV + chaînes (YouTube, Canal+)",
+            "Climatisation",
+            "Cuisine équipée",
+            "Eau chaude",
+            "Parking disponible"
+          ]
+        },
+        "en": {
+          "title": "Book this furnished residence in Riviera Palmeraie now.",
+          "description": "Discover this furnished residence in Riviera Palmeraie, available for booking.",
+          "features": [
+            "Unlimited Wi-Fi",
+            "TV with channels (YouTube, Canal+)",
+            "Air conditioning",
+            "Equipped kitchen",
+            "Hot water",
+            "Parking available"
+          ]
+        }
+      }
+    },
+    {
+      "id": 89,
+      "slug": "r-servez-maintenant-cet-appartement-89",
+      "type": "apartment",
+      "category": "apartment",
+      "location": {
+        "city": "Yamoussoukro",
+        "district": "Cotonou",
+        "area": ""
+      },
+      "pays": "Côte d'Ivoire",
+      "price": {
+        "amount": null,
+        "currency": "XOF",
+        "period": "night"
+      },
+      "contact": {},
+      "images": [
+        "/images/apartments/89/1.jpeg",
+        "/images/apartments/89/2.jpeg",
+        "/images/apartments/89/3.jpeg",
+        "/images/apartments/89/4.jpeg",
+        "/images/apartments/89/5.jpeg",
+        "/images/apartments/89/6.jpeg",
+        "/images/apartments/89/7.jpeg",
+        "/images/apartments/89/8.jpeg",
+        "/images/apartments/89/9.jpeg"
+      ],
+      "translations": {
+        "fr": {
+          "title": "Réservez maintenant cet appartement",
+          "description": "Découvrez cet appartement disponible à la réservation.",
+          "features": []
+        },
+        "en": {
+          "title": "Book this apartment now",
+          "description": "Discover this apartment, available for booking.",
+          "features": []
+        }
+      }
+    },
+    {
+      "id": 90,
+      "slug": "studio-cotonou-togbin-90",
+      "type": "studio",
+      "category": "studio",
+      "location": {
+        "city": "Cotonou",
+        "district": "Togbin",
+        "area": "TOGBIN"
+      },
+      "pays": "Bénin",
+      "price": {
+        "amount": 7856,
+        "currency": "XOF",
+        "period": "night"
+      },
+      "contact": {
+        "phone": "0162757856"
+      },
+      "images": [
+        "/images/apartments/90/1.jpeg",
+        "/images/apartments/90/2.jpeg",
+        "/images/apartments/90/3.jpeg",
+        "/images/apartments/90/4.jpeg"
+      ],
+      "translations": {
+        "fr": {
+          "title": "STUDIO _ COTONOU TOGBIN",
+          "description": "Studio situé à TOGBIN, Cotonou, offrant un cadre de séjour pratique et agréable.",
+          "features": [
+            "1 chambre",
+            "Cuisine( cuisine très bien équipée)",
+            "Douche & visiteur",
+            "Climatisation dans la chambre",
+            "Télévision au salon",
+            "Canal+, Netflix et wifi disponible.",
+            "Draps fournis",
+            "Machine à laver"
+          ]
+        },
+        "en": {
+          "title": "Studio in Togbin, Cotonou",
+          "description": "Studio in Togbin, Cotonou, offering a practical and pleasant setting for your stay.",
+          "features": [
+            "1 bedroom",
+            "Fully equipped kitchen",
+            "Bathroom and guest toilet",
+            "Air conditioning in the bedroom",
+            "TV in the living room",
+            "Canal+, Netflix and Wi-Fi available",
+            "Bed linen provided",
+            "Washing machine"
+          ]
+        }
+      }
+    },
+    {
+      "id": 91,
+      "slug": "studio-calavi-womey-91",
+      "type": "studio",
+      "category": "studio",
+      "location": {
+        "city": "Abomey-Calavi",
+        "district": "Calavi",
+        "area": "WOMEY"
+      },
+      "pays": "Bénin",
+      "price": {
+        "amount": 25000,
+        "currency": "XOF",
+        "period": "night"
+      },
+      "contact": {},
+      "images": [
+        "/images/apartments/91/1.jpeg",
+        "/images/apartments/91/2.jpeg",
+        "/images/apartments/91/3.jpeg",
+        "/images/apartments/91/4.jpeg",
+        "/images/apartments/91/5.jpeg",
+        "/images/apartments/91/6.jpeg"
+      ],
+      "translations": {
+        "fr": {
+          "title": "STUDIO CALAVI WOMEY",
+          "description": "Studio situé à Calavi Womey, offrant un cadre de séjour pratique et agréable.",
+          "features": [
+            "Chambre spacieux",
+            "Climatisation",
+            "Cuisine moderne équipée",
+            "Toilette",
+            "Internet haut débit (Fibre optique)",
+            "TV Canal+ & Netflix",
+            "Service de ménage",
+            "Parking (libre accès)",
+            "Sécurité assurée (gardien 24h/24"
+          ]
+        },
+        "en": {
+          "title": "Studio in Calavi WOMEY",
+          "description": "Studio in Calavi WOMEY, offering a practical and pleasant setting for your stay.",
+          "features": [
+            "Spacious bedroom",
+            "Air conditioning",
+            "Modern fully equipped kitchen",
+            "Toilet",
+            "High-speed fiber-optic internet",
+            "Canal+ TV and Netflix",
+            "Cleaning service",
+            "Parking (open access)",
+            "24/7 security guard"
+          ]
+        }
+      }
+    },
+    {
+      "id": 92,
+      "slug": "studio-calavi-womey-92",
+      "type": "studio",
+      "category": "studio",
+      "location": {
+        "city": "Abomey-Calavi",
+        "district": "Calavi",
+        "area": "WOMEY"
+      },
+      "pays": "Bénin",
+      "price": {
+        "amount": 25000,
+        "currency": "XOF",
+        "period": "night"
+      },
+      "contact": {},
+      "images": [
+        "/images/apartments/92/1.jpeg",
+        "/images/apartments/92/2.jpeg",
+        "/images/apartments/92/3.jpeg",
+        "/images/apartments/92/4.jpeg",
+        "/images/apartments/92/5.jpeg",
+        "/images/apartments/92/6.jpeg"
+      ],
+      "translations": {
+        "fr": {
+          "title": "STUDIO CALAVI WOMEY",
+          "description": "Studio situé à Calavi Womey, offrant un cadre de séjour pratique et agréable.",
+          "features": [
+            "Chambre spacieux",
+            "Climatisation",
+            "Cuisine moderne équipée",
+            "Toilette",
+            "Internet haut débit (Fibre optique)",
+            "TV Canal+ & Netflix",
+            "Service de ménage",
+            "Parking (libre accès)",
+            "Sécurité assurée (gardien 24h/24"
+          ]
+        },
+        "en": {
+          "title": "Studio in Calavi WOMEY",
+          "description": "Studio in Calavi WOMEY, offering a practical and pleasant setting for your stay.",
+          "features": [
+            "Spacious bedroom",
+            "Air conditioning",
+            "Modern fully equipped kitchen",
+            "Toilet",
+            "High-speed fiber-optic internet",
+            "Canal+ TV and Netflix",
+            "Cleaning service",
+            "Parking (open access)",
+            "24/7 security guard"
+          ]
+        }
+      }
+    },
+    {
+      "id": 93,
+      "slug": "une-chambre-salon-calavi-womey-93",
+      "type": "apartment",
+      "category": "1-bedroom",
+      "location": {
+        "city": "Abomey-Calavi",
+        "district": "Calavi",
+        "area": "WOMEY"
+      },
+      "pays": "Bénin",
+      "price": {
+        "amount": 40000,
+        "currency": "XOF",
+        "period": "night"
+      },
+      "contact": {},
+      "images": [
+        "/images/apartments/93/1.jpeg",
+        "/images/apartments/93/2.jpeg",
+        "/images/apartments/93/3.jpeg",
+        "/images/apartments/93/4.jpeg",
+        "/images/apartments/93/5.jpeg",
+        "/images/apartments/93/6.jpeg",
+        "/images/apartments/93/7.jpeg",
+        "/images/apartments/93/8.jpeg",
+        "/images/apartments/93/9.jpeg",
+        "/images/apartments/93/10.jpeg",
+        "/images/apartments/93/11.jpeg"
+      ],
+      "translations": {
+        "fr": {
+          "title": "UNE CHAMBRE SALON CALAVI WOMEY",
+          "description": "Appartement de une chambre salon situé à CALAVI WOMEY, offrant un cadre de séjour pratique et agréable.",
+          "features": [
+            "Chambre spacieux",
+            "Climatisation",
+            "Cuisine moderne équipée",
+            "Toilette",
+            "Internet haut débit (Fibre optique)",
+            "TV Canal+ & Netflix",
+            "Service de ménage",
+            "Parking (libre accès)",
+            "Sécurité assurée (gardien 24h/24",
+            "Balcon"
+          ]
+        },
+        "en": {
+          "title": "One-Bedroom Apartment in Calavi WOMEY",
+          "description": "One-bedroom apartment in Calavi WOMEY, offering a practical and pleasant setting for your stay.",
+          "features": [
+            "Spacious bedroom",
+            "Air conditioning",
+            "Modern fully equipped kitchen",
+            "Toilet",
+            "High-speed fiber-optic internet",
+            "Canal+ TV and Netflix",
+            "Cleaning service",
+            "Parking (open access)",
+            "24/7 security guard",
+            "Balcony"
+          ]
+        }
+      }
+    },
+    {
+      "id": 94,
+      "slug": "une-chambre-salon-calavi-womey-94",
+      "type": "apartment",
+      "category": "1-bedroom",
+      "location": {
+        "city": "Abomey-Calavi",
+        "district": "Calavi",
+        "area": "WOMEY"
+      },
+      "pays": "Bénin",
+      "price": {
+        "amount": 30000,
+        "currency": "XOF",
+        "period": "night"
+      },
+      "contact": {},
+      "images": [
+        "/images/apartments/94/1.jpeg",
+        "/images/apartments/94/2.jpeg",
+        "/images/apartments/94/3.jpeg",
+        "/images/apartments/94/4.jpeg",
+        "/images/apartments/94/5.jpeg"
+      ],
+      "translations": {
+        "fr": {
+          "title": "UNE CHAMBRE SALON CALAVI WOMEY",
+          "description": "Appartement de une chambre salon situé à CALAVI WOMEY, offrant un cadre de séjour pratique et agréable.",
+          "features": [
+            "Chambre spacieux",
+            "Climatisation",
+            "Cuisine moderne équipée",
+            "Toilette",
+            "Internet haut débit (Fibre optique)",
+            "TV Canal+ & Netflix",
+            "Service de ménage",
+            "Parking (libre accès)",
+            "Sécurité assurée (gardien 24h/24"
+          ]
+        },
+        "en": {
+          "title": "One-Bedroom Apartment in Calavi WOMEY",
+          "description": "One-bedroom apartment in Calavi WOMEY, offering a practical and pleasant setting for your stay.",
+          "features": [
+            "Spacious bedroom",
+            "Air conditioning",
+            "Modern fully equipped kitchen",
+            "Toilet",
+            "High-speed fiber-optic internet",
+            "Canal+ TV and Netflix",
+            "Cleaning service",
+            "Parking (open access)",
+            "24/7 security guard"
+          ]
+        }
+      }
+    },
+    {
+      "id": 95,
+      "slug": "deux-chambres-salon-calavi-womey-95",
+      "type": "apartment",
+      "category": "apartment",
+      "location": {
+        "city": "Abomey-Calavi",
+        "district": "Calavi",
+        "area": "WOMEY"
+      },
+      "pays": "Bénin",
+      "price": {
+        "amount": 45000,
+        "currency": "XOF",
+        "period": "night"
+      },
+      "contact": {},
+      "images": [
+        "/images/apartments/95/1.jpeg",
+        "/images/apartments/95/2.jpeg",
+        "/images/apartments/95/3.jpeg",
+        "/images/apartments/95/4.jpeg",
+        "/images/apartments/95/5.jpeg",
+        "/images/apartments/95/6.jpeg",
+        "/images/apartments/95/7.jpeg",
+        "/images/apartments/95/8.jpeg",
+        "/images/apartments/95/9.jpeg",
+        "/images/apartments/95/10.jpeg"
+      ],
+      "translations": {
+        "fr": {
+          "title": "DEUX CHAMBRES SALON CALAVI WOMEY",
+          "description": "Appartement de deux chambres salon situé à CALAVI WOMEY, offrant un cadre de séjour pratique et agréable.",
+          "features": [
+            "Chambre spacieux",
+            "Climatisation",
+            "Cuisine moderne équipée",
+            "Toilette",
+            "Internet haut débit (Fibre optique)",
+            "TV Canal+ & Netflix",
+            "Service de ménage",
+            "Parking (libre accès)",
+            "Sécurité assurée (gardien 24h/24"
+          ]
+        },
+        "en": {
+          "title": "Two-Bedroom Apartment in Calavi WOMEY",
+          "description": "Two-bedroom apartment in Calavi WOMEY, offering a practical and pleasant setting for your stay.",
+          "features": [
+            "Spacious bedroom",
+            "Air conditioning",
+            "Modern fully equipped kitchen",
+            "Toilet",
+            "High-speed fiber-optic internet",
+            "Canal+ TV and Netflix",
+            "Cleaning service",
+            "Parking (open access)",
+            "24/7 security guard"
           ]
         }
       }

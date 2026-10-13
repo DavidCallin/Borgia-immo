@@ -21,7 +21,7 @@
       "view": "Voir nos appartements",
       "message": "Bonjour, je souhaite réserver un séjour chez Borgia Immobilier."
     },
-    "heroReservation" : "Réservation"
+    "heroReservation": "Réservation"
   },
   "search": {
     "transaction": "Transaction",
@@ -42,70 +42,82 @@
       "grandpopo": "Grand-Popo"
     },
     "budgetIndifferent": "Indifférent",
-    "budgetValues": ["50 M FCFA", "100 M FCFA", "200 M FCFA"],
+    "budgetValues": [
+      "50 M FCFA",
+      "100 M FCFA",
+      "200 M FCFA"
+    ],
     "submit": "Rechercher"
   },
   "biens": {
-      "eyebrow": "Nos biens",
-      "title": "Séjours, locations et ventes à Cotonou",
-      "intro": "Des hébergements à la nuit, des logements à louer et des biens à acheter, sélectionnés par Borgia Immobilier.",
-      "offerLabel": "Type d'offre",
-      "categoryLabel": "Type de bien",
-      "offers": {
-        "all": "Tous",
-        "stay": "Séjours",
-        "rent": "Location",
-        "sale": "Vente"
-      },
-      "offerTag": {
-        "stay": "Séjour",
-        "rent": "Location",
-        "sale": "Vente"
-      },
-      "categories": {
-        "all": "Tous",
-        "studio": "Studios",
-        "1-bedroom": "1 chambre",
-        "2-bedroom": "2 chambres",
-        "3-bedroom": "3 chambres",
-        "4-bedroom-plus": "4 chambres et +",
-        "villa": "Villas",
-        "land": "Terrains"
-      },
-      "types": {
-        "apartment": "Appartement",
-        "duplex": "Duplex",
-        "studio": "Studio",
-        "villa": "Villa",
-        "house": "Maison",
-        "land": "Terrain"
-      },
-      "units": {
-        "night": "/ nuit",
-        "month": "/ mois"
-      },
-      "count": "{count, plural, one {# bien} other {# biens}}",
-      "electricityIncluded": "Électricité incluse",
-      "view": "Voir le bien",
-      "back": "Tous les biens",
-      "features": "Caractéristiques",
-      "cta": {
-        "stay": "Réserver sur WhatsApp",
-        "rent": "Demander une visite",
-        "sale": "Demander une visite"
-      },
-      "ctaMessage": {
-        "stay": "Bonjour, je souhaite réserver : {title}",
-        "rent": "Bonjour, je suis intéressé(e) par la location de : {title}",
-        "sale": "Bonjour, je suis intéressé(e) par l'achat de : {title}"
-      },
-      "booking": {
+    "eyebrow": "Nos biens",
+    "title": "Séjours, locations et ventes à Cotonou",
+    "intro": "Des hébergements à la nuit, des logements à louer et des biens à acheter, sélectionnés par Borgia Immobilier.",
+    "offerLabel": "Type d'offre",
+    "categoryLabel": "Type de bien",
+    "countryLabel": "Pays",
+    "cityLabel" : "Ville",
+    "offers": {
+      "all": "Tous",
+      "stay": "Séjours",
+      "rent": "Location",
+      "sale": "Vente"
+    },
+    "offerTag": {
+      "stay": "Séjour",
+      "rent": "Location",
+      "sale": "Vente"
+    },
+    "categories": {
+      "all": "Tous",
+      "studio": "Studios",
+      "1-bedroom": "1 chambre",
+      "2-bedroom": "2 chambres",
+      "3-bedroom": "3 chambres",
+      "4-bedroom-plus": "4 chambres et +",
+      "villa": "Villas",
+      "land": "Terrains"
+    },
+    "types": {
+      "apartment": "Appartement",
+      "duplex": "Duplex",
+      "studio": "Studio",
+      "villa": "Villa",
+      "house": "Maison",
+      "land": "Terrain",
+      "penthouse" : "Penthouse"
+    },
+    "units": {
+      "night": "/ nuit",
+      "month": "/ mois"
+    },
+    "count": "{count, plural, one {# bien} other {# biens}}",
+    "electricityIncluded": "Électricité incluse",
+    "view": "Voir le bien",
+    "back": "Tous les biens",
+    "features": "Caractéristiques",
+    "cta": {
+      "stay": "Réserver sur WhatsApp",
+      "rent": "Demander une visite",
+      "sale": "Demander une visite",
+      "nb" : "Ce prix est une estimation indicative, à confirmer avec un conseiller Borgia Immobilier."
+    },
+    "ctaMessage": {
+      "stay": "Bonjour, je souhaite réserver : {title}",
+      "rent": "Bonjour, je suis intéressé(e) par la location de : {title}",
+      "sale": "Bonjour, je suis intéressé(e) par l'achat de : {title}"
+    },
+    "booking": {
       "label": "Nombre de nuits",
       "nights": "{count, plural, one {# nuit} other {# nuits}}",
       "estimate": "Estimation",
-      "message": "Bonjour, je souhaite réserver l'appartement {title} de Borgia Immo pour {count, plural, one {# nuitée} other {# nuitées}} (estimation {price} FCFA). Quelles sont vos disponibilités ?"
-    }
+      "message": "Bonjour, je souhaite réserver l'appartement {title} de Borgia Immo pour {count, plural, one {# nuitée} other {# nuitées}} (estimation {price} FCFA). Quelles sont vos disponibilités ?\n\nLien de l'appartement : {url}"
     },
+    "quartierLabel": "Quartier",
+    "typeLabel": "Type de bien",
+    "bedroomsLabel": "Nombre de chambres",
+    "reset": "Réinitialiser les filtres"
+  },
   "galerie": {
     "eyebrow": "Visite guidée",
     "title": "Chaque bien, en images",
@@ -116,7 +128,7 @@
       "appartements": "Appartements",
       "terrains": "Terrains"
     },
-    "more" : "Voir Plus"
+    "more": "Voir Plus"
   },
   "stats": {
     "services": "Univers de services",
@@ -129,10 +141,22 @@
     "title": "Bien plus que de l'immobilier",
     "subtitle": "Un univers de services complémentaires pour une expérience complète et personnalisée.",
     "items": {
-      "immo": { "title": "Immobilier", "desc": "Vente, location, gestion locative et promotion immobilière." },
-      "tourisme": { "title": "Tourisme & séjour", "desc": "Des séjours pensés pour votre confort, au Bénin et au-delà." },
-      "vehicules": { "title": "Location de véhicules", "desc": "Une mobilité simple et fiable pour vos déplacements." },
-      "deco": { "title": "Décoration d'intérieur", "desc": "Valorisez votre bien avec un aménagement soigné." }
+      "immo": {
+        "title": "Immobilier",
+        "desc": "Vente, location, gestion locative et promotion immobilière."
+      },
+      "tourisme": {
+        "title": "Tourisme & séjour",
+        "desc": "Des séjours pensés pour votre confort, au Bénin et au-delà."
+      },
+      "vehicules": {
+        "title": "Location de véhicules",
+        "desc": "Une mobilité simple et fiable pour vos déplacements."
+      },
+      "deco": {
+        "title": "Décoration d'intérieur",
+        "desc": "Valorisez votre bien avec un aménagement soigné."
+      }
     }
   },
   "estimation": {
@@ -154,30 +178,72 @@
     "eyebrow": "Notre ambition ",
     "title": "Transformer chaque projet, chaque séjour  en une expérience d’exception.",
     "items": {
-      "excellence": { "title": "", "desc": "Nous recherchons constamment la qualité et le professionnalisme dans chacun de nos services." },
-      "intégrite": { "title": "", "desc": "Nous travaillons avec transparence, honnêteté et respect envers nos clients et nos partenaires." },
-      "confiance": { "title": "", "desc": "Nous construisons des relations durables basées sur la fiabilité et le respect des engagements." },
-      "innovation": { "title": "", "desc": "Nous cherchons de nouvelles solutions pour améliorer l’expérience de nos clients et faire évoluer nos services." },
-      "Satisfaction client": { "title": "", "desc": "Chaque projet est pensé autour des besoins, des attentes et de la satisfaction de nos clients." }
+      "excellence": {
+        "title": "",
+        "desc": "Nous recherchons constamment la qualité et le professionnalisme dans chacun de nos services."
+      },
+      "intégrite": {
+        "title": "",
+        "desc": "Nous travaillons avec transparence, honnêteté et respect envers nos clients et nos partenaires."
+      },
+      "confiance": {
+        "title": "",
+        "desc": "Nous construisons des relations durables basées sur la fiabilité et le respect des engagements."
+      },
+      "innovation": {
+        "title": "",
+        "desc": "Nous cherchons de nouvelles solutions pour améliorer l’expérience de nos clients et faire évoluer nos services."
+      },
+      "Satisfaction client": {
+        "title": "",
+        "desc": "Chaque projet est pensé autour des besoins, des attentes et de la satisfaction de nos clients."
+      }
     }
   },
   "avis": {
     "eyebrow": "Avis clients",
     "title": "Ils nous font confiance",
     "items": [
-      { "initials": "AK", "name": "Aminata K.", "role": "Acheteuse - Cotonou", "text": "Un accompagnement attentif du début à la fin. L'équipe a compris nos attentes et trouvé le bien qu'il nous fallait." },
-      { "initials": "RA", "name": "Rodrigue A.", "role": "Propriétaire - Calavi", "text": "Professionnalisme et réactivité. La gestion locative de notre appartement est enfin sereine." },
-      { "initials": "CH", "name": "Carine H.", "role": "Investisseuse - Porto-Novo", "text": "Des conseils pertinents et un suivi irréprochable pour notre projet d'investissement." }
+      {
+        "initials": "AK",
+        "name": "Aminata K.",
+        "role": "Acheteuse - Cotonou",
+        "text": "Un accompagnement attentif du début à la fin. L'équipe a compris nos attentes et trouvé le bien qu'il nous fallait."
+      },
+      {
+        "initials": "RA",
+        "name": "Rodrigue A.",
+        "role": "Propriétaire - Calavi",
+        "text": "Professionnalisme et réactivité. La gestion locative de notre appartement est enfin sereine."
+      },
+      {
+        "initials": "CH",
+        "name": "Carine H.",
+        "role": "Investisseuse - Porto-Novo",
+        "text": "Des conseils pertinents et un suivi irréprochable pour notre projet d'investissement."
+      }
     ]
   },
   "faq": {
     "eyebrow": "Questions fréquentes",
     "title": "Tout savoir avant de vous lancer",
     "items": [
-      { "q": "Comment se déroule une visite avec BORGIA ?", "a": "Vous nous contactez par téléphone ou WhatsApp, nous sélectionnons les biens qui correspondent à votre budget et vos critères, puis organisons la visite à votre convenance." },
-      { "q": "Proposez-vous la gestion locative complète ?", "a": "Oui : recherche de locataire, rédaction du bail, encaissement des loyers et suivi technique du bien, pour une gestion sereine côté propriétaire." },
-      { "q": "Intervenez-vous en dehors de Cotonou ?", "a": "Nous couvrons Calavi, Porto-Novo, Ouidah et Grand-Popo au Bénin, ainsi que le Togo et la Côte d'Ivoire pour certains projets." },
-      { "q": "Quels sont vos autres services ?", "a": "Au-delà de l'immobilier, BORGIA propose le tourisme et séjour, la location de véhicules et la décoration d'intérieur, pour un accompagnement complet." }
+      {
+        "q": "Comment se déroule une visite avec BORGIA ?",
+        "a": "Vous nous contactez par téléphone ou WhatsApp, nous sélectionnons les biens qui correspondent à votre budget et vos critères, puis organisons la visite à votre convenance."
+      },
+      {
+        "q": "Proposez-vous la gestion locative complète ?",
+        "a": "Oui : recherche de locataire, rédaction du bail, encaissement des loyers et suivi technique du bien, pour une gestion sereine côté propriétaire."
+      },
+      {
+        "q": "Intervenez-vous en dehors de Cotonou ?",
+        "a": "Nous couvrons Calavi, Porto-Novo, Ouidah et Grand-Popo au Bénin, ainsi que le Togo et la Côte d'Ivoire pour certains projets."
+      },
+      {
+        "q": "Quels sont vos autres services ?",
+        "a": "Au-delà de l'immobilier, BORGIA propose le tourisme et séjour, la location de véhicules et la décoration d'intérieur, pour un accompagnement complet."
+      }
     ]
   },
   "localisation": {
@@ -215,6 +281,5 @@
     "submit": "Envoyer sur WhatsApp",
     "note": "Votre message s'ouvrira dans WhatsApp, prêt à être envoyé.",
     "greeting": "Bonjour, je suis {name}"
-    }
-    
+  }
 }

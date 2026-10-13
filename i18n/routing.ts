@@ -1,5 +1,6 @@
 import { defineRouting } from 'next-intl/routing';
 import { createNavigation } from 'next-intl/navigation'; // ✅ Correction ici
+import { link } from 'fs/promises';
 
 export const routing = defineRouting({
   locales: ['fr', 'en'],
