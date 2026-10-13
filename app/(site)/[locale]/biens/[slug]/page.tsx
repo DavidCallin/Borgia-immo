@@ -50,7 +50,7 @@ export default async function BienPage({ params }: Props) {
   const power = c.electricity_included ? t('electricityIncluded') : c.notes;
   const unit = p.price.period === 'total' ? null : t(`units.${p.price.period}`);
   const [main, ...others] = p.images;
-  const siteUrl = (process.env.NEXT_PUBLIC_SITE_URL ?? 'http://localhost:3001').replace(/\/$/, '');
+  const siteUrl = (process.env.NEXT_PUBLIC_SITE_URL ?? 'https://borgia-immo.com').replace(/\/$/, '');
   const prefix = locale === routing.defaultLocale ? '' : `/${locale}`;
   const url = `${siteUrl}${prefix}/biens/${encodeURIComponent(p.slug)}`;
   
