@@ -20,8 +20,8 @@ export async function generateMetadata({
   const { locale } = await params; // ✅ await ajouté
   
   const titles: Record<string, string> = {
-    fr: "BORGIA IMMO — Pour le Comfort et l'Élégance",
-    en: "BORGIA IMMO — For Comfort and Elegance",
+    fr: "BORGIA IMMO - Pour le Comfort et l'Élégance",
+    en: "BORGIA IMMO - For Comfort and Elegance",
   };
   const descriptions: Record<string, string> = {
     fr: "Acheter, vendre, louer ou investir au Bénin. BORGIA vous accompagne avec des solutions fiables, adaptées et élégantes.",
