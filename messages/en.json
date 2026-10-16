@@ -85,7 +85,7 @@
       "villa": "Villa",
       "house": "House",
       "land": "Land",
-      "penthouse" : "Penthouse"
+      "penthouse": "Penthouse"
     },
     "units": {
       "night": "/ night",
@@ -100,7 +100,7 @@
       "stay": "Book on WhatsApp",
       "rent": "Request a visit",
       "sale": "Request a visit",
-      "nb" : "This price is an indicative estimate, to be confirmed with a Borgia Immobilier advisor."
+      "nb": "This price is an indicative estimate, to be confirmed with a Borgia Immobilier advisor."
     },
     "ctaMessage": {
       "stay": "Hello, I would like to book: {title}",
@@ -116,7 +116,9 @@
     "quartierLabel": "Neighbourhood",
     "typeLabel": "Property type",
     "bedroomsLabel": "Bedrooms",
-    "reset": "Reset filters"
+    "reset": "Reset filters",
+    "showAll": "View all our properties",
+    "showLess": "View less"
   },
   "galerie": {
     "eyebrow": "Guided tour",
@@ -205,22 +207,82 @@
     "title": "They trust us",
     "items": [
       {
-        "initials": "AK",
-        "name": "Aminata K.",
-        "role": "Buyer - Cotonou",
-        "text": "Attentive support from start to finish. The team understood our expectations and found the property we needed."
+        "initials": "MA",
+        "name": "Marc A.",
+        "role": "Stay - Cotonou",
+        "text": "Impeccable service! I stayed in a furnished apartment in Cotonou for 2 weeks for work. The place was spotlessly clean, very well equipped and the Wi-Fi worked perfectly. The team is super responsive. I will gladly come back!"
       },
       {
-        "initials": "RA",
-        "name": "Rodrigue A.",
-        "role": "Owner - Calavi",
-        "text": "Professionalism and responsiveness. The rental management of our apartment is finally peaceful."
+        "initials": "SL",
+        "name": "Sarah L.",
+        "role": "Stay - Cotonou",
+        "text": "A 5-star experience. Back home for the holidays, I was looking for a secure, modern and elegant setting for my family. Borgia Immobilier exceeded our expectations: from the first contact on WhatsApp to the key handover, everything was smooth. The comfort is truly there."
       },
       {
-        "initials": "CH",
-        "name": "Carine H.",
-        "role": "Investor - Porto-Novo",
-        "text": "Relevant advice and flawless follow-up for our investment project."
+        "initials": "MK",
+        "name": "Modeste K.",
+        "role": "Stay - Agla",
+        "text": "An eye for detail and comfort. The apartment in Agla is beautiful, exactly like the photos on the website (even better in person!). The decoration is done with great taste. Many thanks to the whole team for the warm welcome."
+      },
+      {
+        "initials": "CD",
+        "name": "Claire & Julien D.",
+        "role": "Stay - Cotonou",
+        "text": "My favorite address in Cotonou. It is rare to find a service of such quality. A peaceful setting, functional amenities, and a team that takes great care of you from start to finish. You can book with complete peace of mind."
+      },
+      {
+        "initials": "CT",
+        "name": "Christian T.",
+        "role": "Stay - Benin",
+        "text": "Reliability and professionalism. This is the third time I have used Borgia Immobilier for my stays in Benin. Never a bad surprise, and the transparency on prices and electricity is exemplary. Congratulations on this level of service!"
+      },
+      {
+        "initials": "FB",
+        "name": "Fatou B.",
+        "role": "Stay - Duplex",
+        "text": "Perfect stay! We rented a spacious duplex for a long weekend. The kitchen was very well equipped, the bedding very comfortable and the neighbourhood very quiet. The children loved it. Thank you to Borgia Immobilier for being so available."
+      },
+      {
+        "initials": "HM",
+        "name": "Hervé M.",
+        "role": "Stay - Cotonou",
+        "text": "Luxury embodied. Booking was easy and fast from abroad. The apartment was ready as soon as I arrived, with very attentive assistance. An ideal place to rest after a day of meetings."
+      },
+      {
+        "initials": "MG",
+        "name": "Mireille G.",
+        "role": "Stay - Cotonou",
+        "text": "A very courteous welcome. The team is highly professional, punctual and attentive to every need. You really feel looked after and safe from the very first moments."
+      },
+      {
+        "initials": "BN",
+        "name": "Boris N.",
+        "role": "Stay - Benin",
+        "text": "Elegance and cleanliness. I particularly appreciated the design of the apartment and the quality of the facilities. Everything is designed to make you feel at home. A benchmark for furnished rentals in Benin!"
+      },
+      {
+        "initials": "NV",
+        "name": "Nathalie V.",
+        "role": "Stay - Cotonou",
+        "text": "A wonderful discovery. Everything was perfect from the beginning to the end of my stay. The accommodation matched the description in every way, well located and very pleasant to live in. I highly recommend Borgia Immobilier!"
+      },
+      {
+        "initials": "SM",
+        "name": "Serge M.",
+        "role": "Stay - Remote booking",
+        "text": "No stress booking remotely! Booking from abroad is not always reassuring, but with Borgia Immobilier everything was done transparently. The photos match reality exactly, and payment and confirmation were secure and instant. You can book with complete peace of mind."
+      },
+      {
+        "initials": "PK",
+        "name": "Patricia K.",
+        "role": "Stay - Cotonou",
+        "text": "An honest and completely reliable agency. It was my first time renting a furnished apartment in Cotonou and I had many concerns. The team reassured me from the first call, the contracts are clear and there are no bad surprises on site. Exemplary responsiveness and professionalism!"
+      },
+      {
+        "initials": "AT",
+        "name": "Dr. Alain T.",
+        "role": "Stay - Benin",
+        "text": "Absolute reliability on every booking. I use Borgia Immobilier for all my trips. Booking through their platform and WhatsApp is smooth, keys are handed over at the agreed time, and customer service is always available when needed. A truly trusted brand."
       }
     ]
   },

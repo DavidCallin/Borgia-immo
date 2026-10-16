@@ -56,7 +56,7 @@
     "offerLabel": "Type d'offre",
     "categoryLabel": "Type de bien",
     "countryLabel": "Pays",
-    "cityLabel" : "Ville",
+    "cityLabel": "Ville",
     "offers": {
       "all": "Tous",
       "stay": "Séjours",
@@ -85,7 +85,7 @@
       "villa": "Villa",
       "house": "Maison",
       "land": "Terrain",
-      "penthouse" : "Penthouse"
+      "penthouse": "Penthouse"
     },
     "units": {
       "night": "/ nuit",
@@ -100,7 +100,7 @@
       "stay": "Réserver sur WhatsApp",
       "rent": "Demander une visite",
       "sale": "Demander une visite",
-      "nb" : "Ce prix est une estimation indicative, à confirmer avec un conseiller Borgia Immobilier."
+      "nb": "Ce prix est une estimation indicative, à confirmer avec un conseiller Borgia Immobilier."
     },
     "ctaMessage": {
       "stay": "Bonjour, je souhaite réserver : {title}",
@@ -116,7 +116,9 @@
     "quartierLabel": "Quartier",
     "typeLabel": "Type de bien",
     "bedroomsLabel": "Nombre de chambres",
-    "reset": "Réinitialiser les filtres"
+    "reset": "Réinitialiser les filtres",
+    "showAll": "Voir tous nos biens",
+    "showLess": "Voir moins"
   },
   "galerie": {
     "eyebrow": "Visite guidée",
@@ -205,22 +207,82 @@
     "title": "Ils nous font confiance",
     "items": [
       {
-        "initials": "AK",
-        "name": "Aminata K.",
-        "role": "Acheteuse - Cotonou",
-        "text": "Un accompagnement attentif du début à la fin. L'équipe a compris nos attentes et trouvé le bien qu'il nous fallait."
+        "initials": "MA",
+        "name": "Marc A.",
+        "role": "Séjour - Cotonou",
+        "text": "Service irréprochable ! J'ai séjourné dans un appartement meublé à Cotonou pendant 2 semaines pour le travail. Le logement était d'une propreté impeccable, très bien équipé et le Wi-Fi tournait à merveille. L'équipe est super réactive. Je reviendrai sans hésiter !"
       },
       {
-        "initials": "RA",
-        "name": "Rodrigue A.",
-        "role": "Propriétaire - Calavi",
-        "text": "Professionnalisme et réactivité. La gestion locative de notre appartement est enfin sereine."
+        "initials": "SL",
+        "name": "Sarah L.",
+        "role": "Séjour - Cotonou",
+        "text": "Une expérience 5 étoiles. De retour au pays pour les vacances, je cherchais un cadre sécurisé, moderne et élégant pour ma famille. Borgia Immobilier a dépassé nos attentes : de la prise de contact sur WhatsApp jusqu'à la remise des clés, tout a été fluide. Le confort est vraiment au rendez-vous."
       },
       {
-        "initials": "CH",
-        "name": "Carine H.",
-        "role": "Investisseuse - Porto-Novo",
-        "text": "Des conseils pertinents et un suivi irréprochable pour notre projet d'investissement."
+        "initials": "MK",
+        "name": "Modeste K.",
+        "role": "Séjour - Agla",
+        "text": "Le sens du détail et du confort. L'appartement à Agla est magnifique, exactement comme sur les photos du site (voire mieux en vrai !). La décoration est faite avec beaucoup de goût. Un grand merci à toute l'équipe pour l'accueil chaleureux."
+      },
+      {
+        "initials": "CD",
+        "name": "Claire & Julien D.",
+        "role": "Séjour - Cotonou",
+        "text": "Mon adresse coup de cœur à Cotonou. C'est rare de trouver un service d'une telle qualité. Cadre paisible, équipements fonctionnels, et une équipe aux petits soins du début à la fin. Vous pouvez réserver les yeux fermés."
+      },
+      {
+        "initials": "CT",
+        "name": "Christian T.",
+        "role": "Séjour - Bénin",
+        "text": "Fiabilité et professionnalisme. C'est la troisième fois que je passe par Borgia Immobilier pour mes séjours au Bénin. Jamais de mauvaise surprise, la transparence sur les prix et l'électricité est exemplaire. Bravo pour ce niveau de prestation !"
+      },
+      {
+        "initials": "FB",
+        "name": "Fatou B.",
+        "role": "Séjour - Duplex",
+        "text": "Séjour parfait ! Nous avons loué un duplex spacieux pour un week-end prolongé. La cuisine était super bien équipée, la literie très confortable et le quartier très calme. Les enfants ont adoré. Merci à Borgia Immobilier pour la disponibilité."
+      },
+      {
+        "initials": "HM",
+        "name": "Hervé M.",
+        "role": "Séjour - Cotonou",
+        "text": "Le standing incarné. Réservation facile et rapide depuis l'étranger. L'appartement était prêt dès mon arrivée avec une assistance très attentionnée. Un endroit idéal pour se reposer après une journée de réunions."
+      },
+      {
+        "initials": "MG",
+        "name": "Mireille G.",
+        "role": "Séjour - Cotonou",
+        "text": "Un accueil d'une grande courtoisie. L'équipe est très professionnelle, ponctuelle et attentive à chaque besoin. On se sent vraiment pris en charge et en sécurité dès les premiers instants."
+      },
+      {
+        "initials": "BN",
+        "name": "Boris N.",
+        "role": "Séjour - Bénin",
+        "text": "Élégance et propreté. J'ai particulièrement apprécié le design de l'appartement et la qualité des installations. Tout est pensé pour qu'on se sente comme chez soi. Une référence pour la location meublée au Bénin !"
+      },
+      {
+        "initials": "NV",
+        "name": "Nathalie V.",
+        "role": "Séjour - Cotonou",
+        "text": "Une très belle découverte. Tout a été parfait du début à la fin de mon séjour. Le logement correspondait en tout point au descriptif, bien situé et très agréable à vivre. Je recommande vivement Borgia Immobilier !"
+      },
+      {
+        "initials": "SM",
+        "name": "Serge M.",
+        "role": "Séjour - Réservation à distance",
+        "text": "Aucun stress pour la réservation à distance ! Réserver depuis l'étranger n'est pas toujours rassurant, mais avec Borgia Immobilier, tout s'est fait en toute transparence. Les photos correspondent exactement à la réalité, le paiement et la confirmation ont été sécurisés et instantanés. Vous pouvez réserver les yeux fermés."
+      },
+      {
+        "initials": "PK",
+        "name": "Patricia K.",
+        "role": "Séjour - Cotonou",
+        "text": "Une agence honnête et d'une fiabilité totale. C'était la première fois que je louais un meublé à Cotonou et j'avais beaucoup d'appréhensions. L'équipe m'a rassurée dès le premier appel, les contrats sont clairs et il n'y a aucune mauvaise surprise sur place. Une réactivité et un professionnalisme exemplaires !"
+      },
+      {
+        "initials": "AT",
+        "name": "Dr. Alain T.",
+        "role": "Séjour - Bénin",
+        "text": "Fiabilité absolue à chaque réservation. Je fais appel à Borgia Immobilier pour tous mes déplacements. La réservation via leur plateforme et WhatsApp est fluide, les clés sont remises à l'heure convenue, et le service client est toujours disponible en cas de besoin. Une vraie marque de confiance."
       }
     ]
   },

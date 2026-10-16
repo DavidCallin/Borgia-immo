@@ -8,29 +8,29 @@ import { WHATSAPP } from "@/lib/contact";
 // Pour ajouter ou retirer une diapositive, modifie simplement cette liste.
 const slides = [
   {
-    src: "/images/hero/hero-1.jpg",
+    src: "/images/hero/hero-7.jpg",
     label: { fr: "Villa contemporaine — Cotonou", en: "Contemporary villa — Cotonou" },
   },
   {
-    src: "/images/hero/hero-2.jpg",
+    src: "/images/hero/hero-8.jpg",
     label: { fr: "Appartement standing — Wologuèdè", en: "Upscale apartment — Wologuèdè" },
   },
-  {
-    src: "/images/hero/hero-3.jpg",
-    label: { fr: "Terrain viabilisé — Calavi", en: "Serviced plot — Calavi" },
-  },
-  {
-    src: "/images/hero/hero-4.jpg",
-    label: { fr: "Terrain viabilisé — Calavi", en: "Serviced plot — Calavi" },
-  },
-  {
-    src: "/images/hero/hero-5.jpg",
-    label: { fr: "Terrain viabilisé — Calavi", en: "Serviced plot — Calavi" },
-  },
-  {
-    src: "/images/hero/hero-6.jpg",
-    label: { fr: "Terrain viabilisé — Calavi", en: "Serviced plot — Calavi" },
-  },
+  // {
+  //   src: "/images/hero/hero-3.jpg",
+  //   label: { fr: "Terrain viabilisé — Calavi", en: "Serviced plot — Calavi" },
+  // },
+  // {
+  //   src: "/images/hero/hero-4.jpg",
+  //   label: { fr: "Terrain viabilisé — Calavi", en: "Serviced plot — Calavi" },
+  // },
+  // {
+  //   src: "/images/hero/hero-5.jpg",
+  //   label: { fr: "Terrain viabilisé — Calavi", en: "Serviced plot — Calavi" },
+  // },
+  // {
+  //   src: "/images/hero/hero-6.jpg",
+  //   label: { fr: "Terrain viabilisé — Calavi", en: "Serviced plot — Calavi" },
+  // },
 ];
 
 export default function Hero() {

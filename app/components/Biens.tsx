@@ -119,6 +119,9 @@ function SelectField({ id, label, value, allLabel, options, onChange, disabled }
   );
 }
 
+// Nombre de biens affichés avant le bouton « Voir tous nos biens »
+const INITIAL_COUNT = 9;
+
 type Props = { items: Property[] };
 
 export default function Biens({ items }: Props) {
@@ -130,6 +133,7 @@ export default function Biens({ items }: Props) {
   const [quartier, setQuartier] = useState('all');
   const [propType, setPropType] = useState<'all' | PropType>('all');
   const [category, setCategory] = useState<'all' | CategoryKey>('all');
+  const [showAll, setShowAll] = useState(false);
 
   const availableOffers = useMemo(() => offersOf(items), [items]);
 
@@ -208,6 +212,17 @@ export default function Biens({ items }: Props) {
         : inBeforeCategory.filter((p) => categoryKey(p) === activeCategory),
     [inBeforeCategory, activeCategory],
   );
+
+  // Au départ, seuls les 9 premiers biens sont affichés
+  const visible = showAll ? list : list.slice(0, INITIAL_COUNT);
+
+  // « Voir tous nos biens » / « Voir moins » : en refermant, on remonte au début de la section
+  const toggleShowAll = () => {
+    if (showAll) {
+      document.getElementById('biens')?.scrollIntoView({ behavior: 'smooth', block: 'start' });
+    }
+    setShowAll((v) => !v);
+  };
 
   const hasActiveFilters =
     offer !== 'all' ||
@@ -324,7 +339,7 @@ export default function Biens({ items }: Props) {
         </p>
 
         <div className="grid3">
-          {list.map((p) => {
+          {visible.map((p) => {
             const c = copyOf(p, locale);
             const href = `/biens/${p.slug}`;
             const power = c.electricity_included ? t('electricityIncluded') : c.notes;
@@ -363,6 +378,17 @@ export default function Biens({ items }: Props) {
             );
           })}
         </div>
+
+        {list.length > INITIAL_COUNT && (
+          <button
+            type="button"
+            className="btn ghost more"
+            aria-expanded={showAll}
+            onClick={toggleShowAll}
+          >
+            {showAll ? t('showLess') : t('showAll')}
+          </button>
+        )}
       </div>
     </section>
   );
