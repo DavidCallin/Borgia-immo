@@ -6,9 +6,9 @@ Disponible en **français et en anglais**, la plateforme propose une expérience
 
 ---
 
-## ✨ Fonctionnalités principales
+## Fonctionnalités principales
 
-### 🏘️ Gestion et présentation immobilière
+### Gestion et présentation immobilière
 - Catalogue de biens immobiliers avec présentation détaillée.
 - Fiches individuelles pour chaque propriété.
 - Affichage des caractéristiques et informations des biens.
@@ -16,25 +16,25 @@ Disponible en **français et en anglais**, la plateforme propose une expérience
 - Présentation des services immobiliers.
 - Section dédiée à l'estimation immobilière.
 
-### 🌍 Internationalisation (i18n)
+### Internationalisation (i18n)
 - Interface disponible en français et en anglais.
 - Système de changement de langue.
 - Gestion des traductions et des contenus multilingues.
 - Adaptation des éléments de navigation et des différentes sections selon la langue sélectionnée.
 
-### 📅 Réservation et interaction
+### Réservation et interaction
 - Possibilité d'effectuer des demandes de réservation en ligne.
 - Formulaires de contact.
 - Appels à l'action pour faciliter la prise de contact.
 - Mise en relation entre les visiteurs et l'agence immobilière.
 
-### 🧩 Gestion de contenu
+### Gestion de contenu
 - Intégration de Sanity CMS.
 - Gestion dynamique des contenus.
 - Administration des informations relatives aux biens immobiliers.
 - Gestion des contenus destinés aux différentes sections du site.
 
-### 📱 Expérience utilisateur
+### Expérience utilisateur
 - Interface moderne et intuitive.
 - Design responsive adapté aux ordinateurs, tablettes et smartphones.
 - Navigation fluide.
@@ -42,7 +42,7 @@ Disponible en **français et en anglais**, la plateforme propose une expérience
 
 ---
 
-## 🛠️ Technologies utilisées
+## Technologies utilisées
 
 | Technologie | Rôle |
 |---|---|
@@ -54,7 +54,7 @@ Disponible en **français et en anglais**, la plateforme propose une expérience
 
 ---
 
-## 🏗️ Architecture et organisation
+## Architecture et organisation
 
 Le projet repose sur une architecture Next.js utilisant **App Router**, avec une organisation modulaire des composants et des différentes sections de l'application.
 
@@ -75,7 +75,7 @@ Les principales sections de la plateforme comprennent :
 
 ---
 
-## 🌐 Internationalisation
+## Internationalisation
 
 La plateforme intègre un système de gestion multilingue permettant aux visiteurs de naviguer entre deux langues :
 
@@ -90,7 +90,7 @@ L'internationalisation permet notamment :
 
 ---
 
-## 🚀 Installation et configuration
+## Installation et configuration
 
 ### Prérequis
 
@@ -149,7 +149,7 @@ npm run start
 
 ---
 
-## 🎯 Compétences techniques mobilisées
+## Compétences techniques mobilisées
 
 Ce projet met en évidence plusieurs compétences en développement web :
 
@@ -165,7 +165,7 @@ Ce projet met en évidence plusieurs compétences en développement web :
 
 ---
 
-## 👨‍💻 Réalisation
+## Réalisation
 
 **Callin HOUNGA - CalDav**
 
@@ -175,7 +175,7 @@ Ce projet représente une réalisation dans le domaine du développement de solu
 
 ---
 
-## 🔗 Liens utiles
+## Liens utiles
 
 - **Site web :** [Borgia Immo](https://www.borgia-immo.com/)
 - **Dépôt GitHub :** [Code source](https://github.com/DavidCallin/Borgia-immo)
