@@ -4,8 +4,7 @@ import Image from "next/image";
 import { useLocale, useTranslations } from "next-intl";
 import { WHATSAPP } from "@/lib/contact";
 
-// Photos du hero : à placer dans public/images/hero/ (indépendantes du JSON des biens).
-// Pour ajouter ou retirer une diapositive, modifie simplement cette liste.
+
 const slides = [
   {
     src: "/images/hero/hero-7.jpg",

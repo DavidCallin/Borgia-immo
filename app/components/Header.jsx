@@ -11,7 +11,7 @@ export default async function Header() {
     <ScrollBar>
       <div className="wrap nav">
         <Link href="/" className="logo">
-          {/* Le logo est recoloré en beige par le CSS (voir .logo-mark) */}
+        
           <span className="logo-mark" style={{ "--logo": "url(/images/Logo/Logo.webp)" }}>
             <img src="/images/Logo/Logo.webp" alt="Borgia Immo" />
           </span>

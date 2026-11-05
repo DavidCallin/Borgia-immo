@@ -48,13 +48,13 @@ function quartiersOf(p: Property, cityKeys: Set<string>): Option[] {
     const key = norm(v);
     if (!key || key === 'situe a' || cityKeys.has(key)) continue; // vide, "SITUÉ A", nom de ville
     const prev = found.get(key);
-    // on préfère la forme non-MAJUSCULES quand il y a le choix
+    // forme non-MAJUSCULES quand il y a le choix
     if (!prev || (isAllCaps(prev) && !isAllCaps(v))) found.set(key, v);
   }
 
   const keys = [...found.keys()];
   return keys
-    // "haie" est supprimé si "haie vive" existe (district tronqué)
+    // "haie" supprimé si "haie vive" existe 
     .filter((k) => !keys.some((o) => o !== k && o.startsWith(k + ' ')))
     .map((k) => ({ value: k, label: prettify(found.get(k)!) }));
 }
@@ -119,7 +119,7 @@ function SelectField({ id, label, value, allLabel, options, onChange, disabled }
   );
 }
 
-// Nombre de biens affichés avant le bouton « Voir tous nos biens »
+// affichage de 9 biens avant le bouton « Voir tous nos biens »
 const INITIAL_COUNT = 9;
 
 type Props = { items: Property[] };
@@ -176,7 +176,7 @@ export default function Biens({ items }: Props) {
     [geo, country, city],
   );
 
-  // Garde-fous si une valeur sélectionnée n'existe plus dans les options
+  // Si une valeur sélectionnée n'existe plus dans les options
   const activeCity = city === 'all' || cityOptions.some((o) => o.value === city) ? city : 'all';
   const activeQuartier =
     quartier === 'all' || quartierOptions.some((o) => o.value === quartier) ? quartier : 'all';
@@ -213,7 +213,6 @@ export default function Biens({ items }: Props) {
     [inBeforeCategory, activeCategory],
   );
 
-  // Au départ, seuls les 9 premiers biens sont affichés
   const visible = showAll ? list : list.slice(0, INITIAL_COUNT);
 
   // « Voir tous nos biens » / « Voir moins » : en refermant, on remonte au début de la section

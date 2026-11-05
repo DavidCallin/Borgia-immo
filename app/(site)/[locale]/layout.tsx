@@ -15,9 +15,9 @@ export function generateStaticParams() {
 export async function generateMetadata({
   params,
 }: {
-  params: Promise<{ locale: string }>; // ✅ Type mis à jour
+  params: Promise<{ locale: string }>; 
 }): Promise<Metadata> {
-  const { locale } = await params; // ✅ await ajouté
+  const { locale } = await params; 
   
   const titles: Record<string, string> = {
     fr: "BORGIA IMMO - Pour le Comfort et l'Élégance",
@@ -42,9 +42,9 @@ export default async function LocaleLayout({
   params,
 }: {
   children: React.ReactNode;
-  params: Promise<{ locale: string }>; // ✅ Type mis à jour
+  params: Promise<{ locale: string }>; 
 }) {
-  const { locale } = await params; // ✅ await ajouté
+  const { locale } = await params; 
 
   if (!routing.locales.includes(locale as any)) notFound();
 
